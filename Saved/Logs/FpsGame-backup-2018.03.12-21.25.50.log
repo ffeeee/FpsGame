@@ -1,0 +1,1528 @@
+﻿Log file open, 03/11/18 21:25:15
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: FpsGame
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1307499179) SRandInit(1307499179).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.183233
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line: 
+LogInit: Base directory: D:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.03.11-13.25.17:013][  0]LogInit: Selected Device Profile: [Windows]
+[2018.03.11-13.25.17:013][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.03.11-13.25.17:021][  0]LogInit: Computer: ADVANT
+[2018.03.11-13.25.17:022][  0]LogInit: User: VULCAN
+[2018.03.11-13.25.17:022][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.03.11-13.25.17:022][  0]LogInit: High frequency timer resolution =2.742187 MHz
+[2018.03.11-13.25.17:022][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.03.11-13.25.17:022][  0]LogMemory: Platform Memory Stats for Windows
+[2018.03.11-13.25.17:022][  0]LogMemory: Process Physical Memory: 273.84 MB used, 273.84 MB peak
+[2018.03.11-13.25.17:022][  0]LogMemory: Process Virtual Memory: 269.73 MB used, 269.73 MB peak
+[2018.03.11-13.25.17:022][  0]LogMemory: Physical Memory: 3188.16 MB used,  13116.43 MB free, 16304.59 MB total
+[2018.03.11-13.25.17:022][  0]LogMemory: Virtual Memory: 676.86 MB used,  13116.43 MB free, 134217728.00 MB total
+[2018.03.11-13.25.17:387][  0]LogInit: Using OS detected language (zh-CN).
+[2018.03.11-13.25.17:387][  0]LogInit: Using OS detected locale (zh-CN).
+[2018.03.11-13.25.17:516][  0]LogInit: Setting process to per monitor DPI aware
+[2018.03.11-13.25.17:817][  0]LogD3D11RHI: D3D11 adapters:
+[2018.03.11-13.25.17:882][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060' (Feature Level 11_0)
+[2018.03.11-13.25.17:882][  0]LogD3D11RHI:       6052/0/8152 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.03.11-13.25.17:905][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2018.03.11-13.25.17:905][  0]LogD3D11RHI:       128/0/8152 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.03.11-13.25.17:908][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.03.11-13.25.17:908][  0]LogD3D11RHI:       0/0/8152 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.03.11-13.25.17:908][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.03.11-13.25.17:915][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.03.11-13.25.17:915][  0]LogD3D11RHI:     GPU DeviceId: 0x1c20 (for the marketing name, search the web for "GPU Device Id")
+[2018.03.11-13.25.17:915][  0]LogWindows: EnumDisplayDevices:
+[2018.03.11-13.25.17:915][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060' (P:1 D:1)
+[2018.03.11-13.25.17:915][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060' (P:0 D:1)
+[2018.03.11-13.25.17:915][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2018.03.11-13.25.17:915][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2018.03.11-13.25.17:916][  0]LogWindows:    4. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.03.11-13.25.17:916][  0]LogWindows:    5. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.03.11-13.25.17:916][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.03.11-13.25.17:916][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060
+[2018.03.11-13.25.17:916][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.03.11-13.25.17:916][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.03.11-13.25.17:916][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2018.03.11-13.25.17:958][  0]LogD3D11RHI: Async texture creation enabled
+[2018.03.11-13.25.17:975][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.03.11-13.25.18:072][  0]LogShaderCompilers: Guid format shader working directory is 23 characters bigger than the processId version (F:/UnrealProject/FpsGame/Intermediate/Shaders/WorkingDirectory/8672/).
+[2018.03.11-13.25.18:073][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/VULCAN/AppData/Local/Temp/UnrealShaderWorkingDir/3C1E873A4FF251711C3D558F937C7B41/'.
+[2018.03.11-13.25.18:073][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.03.11-13.25.19:133][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.03.11-13.25.19:241][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.03.11-13.25.19:357][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.03.11-13.25.19:467][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.03.11-13.25.19:587][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.03.11-13.25.19:703][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.03.11-13.25.19:802][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.03.11-13.25.19:904][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.03.11-13.25.20:002][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.03.11-13.25.20:104][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.03.11-13.25.20:200][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.03.11-13.25.20:296][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.03.11-13.25.20:393][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.03.11-13.25.20:491][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.03.11-13.25.20:691][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.03.11-13.25.20:691][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.03.11-13.25.20:788][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.03.11-13.25.20:875][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.03.11-13.25.21:040][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.03.11-13.25.21:093][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.03.11-13.25.21:190][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.03.11-13.25.21:291][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.03.11-13.25.21:388][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.03.11-13.25.21:489][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.03.11-13.25.21:489][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.03.11-13.25.22:509][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.03.11-13.25.22:577][  0]LogDerivedDataCache: Loaded boot cache 0.07s 78MB C:/Users/VULCAN/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.03.11-13.25.22:577][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/VULCAN/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.03.11-13.25.22:577][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file F:/UnrealProject/FpsGame/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.03.11-13.25.22:577][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.03.11-13.25.22:577][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file F:/UnrealProject/FpsGame/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.03.11-13.25.22:577][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.03.11-13.25.22:593][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.03.11-13.25.22:607][  0]LogDerivedDataCache: Using Local data cache path C:/Users/VULCAN/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.03.11-13.25.22:617][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.03.11-13.25.22:617][  0]LogSlate: Using Freetype 2.6.0
+[2018.03.11-13.25.22:617][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.03.11-13.25.22:617][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.03.11-13.25.23:005][  0]LogInit: Selected Device Profile: [Windows]
+[2018.03.11-13.25.23:594][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.03.11-13.25.23:683][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.03.11-13.25.23:683][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.03.11-13.25.23:683][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.03.11-13.25.23:683][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.03.11-13.25.23:684][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.03.11-13.25.23:711][  0]LogNetVersion: FpsGame , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 875609505)
+[2018.03.11-13.25.23:933][  0]LogAssetRegistry: FAssetRegistry took 0.0273 seconds to start up
+[2018.03.11-13.25.24:557][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 4 prioritized culture(s) in 0.099979 seconds
+[2018.03.11-13.25.24:563][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.03.11-13.25.24:563][  0]LogUObjectAllocator: 7363704 out of 0 bytes used by permanent object pool.
+[2018.03.11-13.25.24:563][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.03.11-13.25.24:686][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.03.11-13.25.29:075][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.03.11-13.25.29:138][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.03.11-13.25.30:379][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.03.11-13.25.31:153][  0]SourceControl: 源码控制已禁用
+[2018.03.11-13.25.31:153][  0]SourceControl: 源码控制已禁用
+[2018.03.11-13.25.31:255][  0]SourceControl: 源码控制已禁用
+[2018.03.11-13.25.31:364][  0]SourceControl: 源码控制已禁用
+[2018.03.11-13.25.32:927][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.03.11-13.25.33:438][  0]LogOcInput: OculusInput pre-init called
+[2018.03.11-13.25.33:977][  0]LogEngine: Initializing Engine...
+[2018.03.11-13.25.34:019][  0]LogHMD: Failed to initialize OpenVR with code 126
+[2018.03.11-13.25.34:251][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.03.11-13.25.34:251][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.03.11-13.25.34:558][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.03.11-13.25.34:584][  0]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.11-13.25.34:651][  0]LogInit: FAudioDevice initialized.
+[2018.03.11-13.25.34:838][  0]LogDerivedDataCache: Saved boot cache 0.19s 78MB C:/Users/VULCAN/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.03.11-13.25.34:860][  0]LogInit: Texture streaming: Enabled
+[2018.03.11-13.25.35:115][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.03.11-13.25.35:401][  0]LogInit: Transaction tracking system initialized
+[2018.03.11-13.25.36:099][  0]BlueprintLog: New page: 编辑器加载
+[2018.03.11-13.25.38:072][  0]LocalizationService: 本地化服务已被禁用
+[2018.03.11-13.25.39:631][  0]LogConsoleResponse: Display: 
+[2018.03.11-13.25.39:865][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.03.11-13.25.39:865][  0]LogCook: Display: Mobile HDR setting 1
+[2018.03.11-13.25.39:865][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.03.11-13.25.40:165][  0]LogFileCache: Scanning file cache for directory 'F:/UnrealProject/FpsGame/Content/' took 0.01s
+[2018.03.11-13.25.42:284][  0]SourceControl: 源码控制已禁用
+[2018.03.11-13.25.42:285][  0]Cmd: MAP LOAD FILE="F:/UnrealProject/FpsGame/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.03.11-13.25.42:285][  0]LightingResults: New page: 光照构建
+[2018.03.11-13.25.42:383][  0]MapCheck: New page: 地图检测
+[2018.03.11-13.25.42:384][  0]LightingResults: New page: 光照构建
+[2018.03.11-13.25.42:719][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2018.03.11-13.25.42:728][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.03.11-13.25.42:739][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.03.11-13.25.42:799][  0]MapCheck: 地图检测完成：0个错误，0 个警告，用时60.173毫秒完成。
+[2018.03.11-13.25.42:799][  0]LogFileHelpers: Loading map 'Minimal_Default' took 0.515
+[2018.03.11-13.25.42:985][  0]LogCollectionManager: Loaded 0 collections in 0.001382 seconds
+[2018.03.11-13.25.43:122][  0]LogFileCache: Scanning file cache for directory 'F:/UnrealProject/FpsGame/Saved/Collections/' took 0.01s
+[2018.03.11-13.25.43:122][  0]LogFileCache: Scanning file cache for directory 'F:/UnrealProject/FpsGame/Content/Developers/VULCAN/Collections/' took 0.01s
+[2018.03.11-13.25.43:122][  0]LogFileCache: Scanning file cache for directory 'F:/UnrealProject/FpsGame/Content/Collections/' took 0.01s
+[2018.03.11-13.25.43:122][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.03.11-13.25.43:131][  0]LogContentBrowser: Native class hierarchy populated in 0.0088 seconds. Added 2363 classes and 519 folders.
+[2018.03.11-13.25.43:286][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.03.11-13.25.43:320][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.03.11-13.25.43:414][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.03.11-13.25.43:549][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.03.11-13.25.43:549][  0]LogLoad: (Engine Initialization) Total time: 29.91 seconds
+[2018.03.11-13.25.43:549][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.03.11-13.25.43:550][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.03.11-13.25.43:907][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.03.11-13.25.43:908][  0]LogSlate: Took 0.000162 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.03.11-13.25.43:911][  0]LogSlate: Took 0.002137 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2018.03.11-13.25.43:912][  0]LogSlate: Took 0.000119 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.03.11-13.25.43:915][  0]LogSlate: Took 0.000179 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.03.11-13.25.44:015][  0]LogSlate: Took 0.000161 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.03.11-13.25.44:232][  1]LogRenderer: Reallocating scene render targets to support 732x360 Format 10 NumSamples 1 (Frame:1).
+[2018.03.11-13.25.44:232][  1]LogAssetRegistry: Asset discovery search completed in 20.3214 seconds
+[2018.03.11-13.25.44:235][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.03.11-13.25.44:235][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000058 seconds (updated 0 objects)
+[2018.03.11-13.25.51:129][149]LogSlate: Took 0.000163 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.03.11-13.25.51:354][149]LogAIModule: Creating AISystem for world FPSTest
+[2018.03.11-13.25.51:374][149]Cmd: MAP LOAD FILE="F:/UnrealProject/FpsGame/Content/StarterContent/Maps/FPSTest.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.03.11-13.25.51:375][149]LightingResults: New page: 光照构建
+[2018.03.11-13.25.51:375][149]LoadErrors: New page: 正在加载地图： FPSTest.umap
+[2018.03.11-13.25.51:376][149]MapCheck: New page: 地图检测
+[2018.03.11-13.25.51:376][149]LightingResults: New page: 光照构建
+[2018.03.11-13.25.51:389][149]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.03.11-13.25.51:413][149]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.03.11-13.25.51:482][149]MapCheck: 地图检测完成：0个错误，0 个警告，用时68.364毫秒完成。
+[2018.03.11-13.25.51:482][149]LogFileHelpers: Loading map 'FPSTest' took 0.108
+[2018.03.11-13.26.01:332][355]LogRenderer: Reallocating scene render targets to support 1104x576 Format 10 NumSamples 1 (Frame:178).
+[2018.03.11-13.26.23:116][627]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 116 classes and 0 folders.
+[2018.03.11-13.26.23:736][627]LogSlate: Took 0.000147 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.03.11-13.26.23:821][627]LogSlate: Took 0.001222 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.03.11-13.26.23:931][628]LogSlate: Took 0.001451 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.03.11-13.27.25:768][ 68]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.03.11-13.27.26:007][ 68]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.03.11-13.27.26:602][ 68]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2018.03.11-13.27.31:532][362]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.03.11-13.27.34:918][537]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.Actor_1.DebugSkelMeshComponent_2) Already registered. Aborting.
+[2018.03.11-13.27.35:268][537]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.03.11-13.31.11:415][215]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Characters/FPP_Animations/FPP_RifleIdle" FILE="F:/UnrealProject/FpsGame/Content/Assets/Characters/FPP_Animations/FPP_RifleIdle.uasset" SILENT=true
+[2018.03.11-13.31.11:499][215]LogSavePackage: Save=18.56ms
+[2018.03.11-13.31.11:499][215]LogSavePackage: Moving 'F:/UnrealProject/FpsGame/Saved/FPP_RifleIdle540F72244D1B0039C5F7D081A78D4C5E.tmp' to 'F:/UnrealProject/FpsGame/Content/Assets/Characters/FPP_Animations/FPP_RifleIdle.uasset'
+[2018.03.11-13.31.11:500][215]LogSavePackage: Display: Finished SavePackage F:/UnrealProject/FpsGame/Content/Assets/Characters/FPP_Animations/FPP_RifleIdle.uasset
+[2018.03.11-13.31.42:128][505]LogRenderer: Reallocating scene render targets to support 1104x580 Format 10 NumSamples 1 (Frame:2360).
+[2018.03.11-13.31.42:176][505]LogRenderer: Reallocating scene render targets to support 1104x608 Format 10 NumSamples 1 (Frame:2361).
+[2018.03.11-13.31.42:226][505]LogRenderer: Reallocating scene render targets to support 1104x624 Format 10 NumSamples 1 (Frame:2362).
+[2018.03.11-13.31.42:273][505]LogRenderer: Reallocating scene render targets to support 1104x644 Format 10 NumSamples 1 (Frame:2363).
+[2018.03.11-13.31.42:322][505]LogRenderer: Reallocating scene render targets to support 1104x652 Format 10 NumSamples 1 (Frame:2364).
+[2018.03.11-13.31.42:370][505]LogRenderer: Reallocating scene render targets to support 1104x660 Format 10 NumSamples 1 (Frame:2365).
+[2018.03.11-13.31.42:420][505]LogRenderer: Reallocating scene render targets to support 1104x668 Format 10 NumSamples 1 (Frame:2366).
+[2018.03.11-13.31.42:469][505]LogRenderer: Reallocating scene render targets to support 1104x688 Format 10 NumSamples 1 (Frame:2367).
+[2018.03.11-13.31.42:524][505]LogRenderer: Reallocating scene render targets to support 1104x700 Format 10 NumSamples 1 (Frame:2368).
+[2018.03.11-13.31.42:576][505]LogRenderer: Reallocating scene render targets to support 1104x720 Format 10 NumSamples 1 (Frame:2369).
+[2018.03.11-13.31.42:662][505]LogRenderer: Reallocating scene render targets to support 1104x724 Format 10 NumSamples 1 (Frame:2371).
+[2018.03.11-13.31.42:710][505]LogRenderer: Reallocating scene render targets to support 1104x728 Format 10 NumSamples 1 (Frame:2372).
+[2018.03.11-13.31.42:759][505]LogRenderer: Reallocating scene render targets to support 1104x736 Format 10 NumSamples 1 (Frame:2373).
+[2018.03.11-13.31.42:847][505]LogRenderer: Reallocating scene render targets to support 1104x740 Format 10 NumSamples 1 (Frame:2375).
+[2018.03.11-13.32.47:895][360]BlueprintLog: New page: 编译FppShooter
+[2018.03.11-13.32.49:323][418]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Blueprints/FppShooter" FILE="F:/UnrealProject/FpsGame/Content/Assets/Blueprints/FppShooter.uasset" SILENT=true
+[2018.03.11-13.32.49:364][418]LogSavePackage: Save=37.09ms
+[2018.03.11-13.32.49:364][418]LogSavePackage: Moving 'F:/UnrealProject/FpsGame/Saved/FppShooter749B79C84FC5D463E8AB1F87DBBE4BF5.tmp' to 'F:/UnrealProject/FpsGame/Content/Assets/Blueprints/FppShooter.uasset'
+[2018.03.11-13.32.49:366][418]LogSavePackage: Display: Finished SavePackage F:/UnrealProject/FpsGame/Content/Assets/Blueprints/FppShooter.uasset
+[2018.03.11-13.32.57:176][880]BlueprintLog: New page: 编译FppShooter
+[2018.03.11-13.32.59:164][970]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Blueprints/FppShooter" FILE="F:/UnrealProject/FpsGame/Content/Assets/Blueprints/FppShooter.uasset" SILENT=true
+[2018.03.11-13.32.59:201][970]LogSavePackage: Save=34.22ms
+[2018.03.11-13.32.59:201][970]LogSavePackage: Moving 'F:/UnrealProject/FpsGame/Saved/FppShooter638C6A8141C72DB27D937DBF0F997C6A.tmp' to 'F:/UnrealProject/FpsGame/Content/Assets/Blueprints/FppShooter.uasset'
+[2018.03.11-13.32.59:203][970]LogSavePackage: Display: Finished SavePackage F:/UnrealProject/FpsGame/Content/Assets/Blueprints/FppShooter.uasset
+[2018.03.11-13.33.02:598][170]LogTemp: Repeating last play command: 选中的视口
+[2018.03.11-13.33.02:701][170]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.11-13.33.02:702][170]PIE: New page: PIE会话: FPSTest (2018年3月12日 上午5:33:02)
+[2018.03.11-13.33.02:702][170]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_FPSTest
+[2018.03.11-13.33.02:707][170]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005547s)
+[2018.03.11-13.33.02:708][170]LogAIModule: Creating AISystem for world FPSTest
+[2018.03.11-13.33.02:708][170]LogPlayLevel: PIE: World Init took: (0.000853s)
+[2018.03.11-13.33.02:709][170]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/FPSTest.FPSTest to /Game/StarterContent/Maps/UEDPIE_0_FPSTest.FPSTest (0.006675s)
+[2018.03.11-13.33.02:736][170]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.11-13.33.02:766][170]LogInit: FAudioDevice initialized.
+[2018.03.11-13.33.02:814][170]LogLoad: Game class is 'GameModeBase'
+[2018.03.11-13.33.02:817][170]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_FPSTest.FPSTest up for play (max tick rate 60) at 2018.03.11-21.33.02
+[2018.03.11-13.33.02:817][170]LogWorld: Bringing up level for play took: 0.001490
+[2018.03.11-13.33.02:915][170]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 11 classes and 0 folders.
+[2018.03.11-13.33.02:916][170]PIE: /Game/StarterContent/Maps/UEDPIE_0_FPSTest的‘在编辑器中播放’的起始时间0.006
+[2018.03.11-13.33.07:966][415]LogTemp: Repeating last play command: 选中的视口
+[2018.03.11-13.33.07:977][415]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.11-13.33.07:977][415]PIE: New page: PIE会话: FPSTest (2018年3月12日 上午5:33:07)
+[2018.03.11-13.33.07:978][415]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_FPSTest
+[2018.03.11-13.33.07:982][415]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004115s)
+[2018.03.11-13.33.07:982][415]LogAIModule: Creating AISystem for world FPSTest
+[2018.03.11-13.33.07:982][415]LogPlayLevel: PIE: World Init took: (0.000672s)
+[2018.03.11-13.33.07:983][415]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/FPSTest.FPSTest to /Game/StarterContent/Maps/UEDPIE_0_FPSTest.FPSTest (0.005050s)
+[2018.03.11-13.33.08:007][415]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.11-13.33.08:038][415]LogInit: FAudioDevice initialized.
+[2018.03.11-13.33.08:069][415]LogLoad: Game class is 'GameModeBase'
+[2018.03.11-13.33.08:071][415]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_FPSTest.FPSTest up for play (max tick rate 60) at 2018.03.11-21.33.08
+[2018.03.11-13.33.08:071][415]LogWorld: Bringing up level for play took: 0.001650
+[2018.03.11-13.33.08:073][415]PIE: /Game/StarterContent/Maps/UEDPIE_0_FPSTest的‘在编辑器中播放’的起始时间-0.837
+[2018.03.11-13.33.53:753][ 32]LogTemp: Repeating last play command: 选中的视口
+[2018.03.11-13.33.53:766][ 32]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.11-13.33.53:766][ 32]PIE: New page: PIE会话: FPSTest (2018年3月12日 上午5:33:53)
+[2018.03.11-13.33.53:766][ 32]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_FPSTest
+[2018.03.11-13.33.53:770][ 32]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003930s)
+[2018.03.11-13.33.53:770][ 32]LogAIModule: Creating AISystem for world FPSTest
+[2018.03.11-13.33.53:771][ 32]LogPlayLevel: PIE: World Init took: (0.000742s)
+[2018.03.11-13.33.53:771][ 32]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/FPSTest.FPSTest to /Game/StarterContent/Maps/UEDPIE_0_FPSTest.FPSTest (0.004903s)
+[2018.03.11-13.33.53:799][ 32]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.11-13.33.53:833][ 32]LogInit: FAudioDevice initialized.
+[2018.03.11-13.33.53:867][ 32]LogLoad: Game class is 'GameModeBase'
+[2018.03.11-13.33.53:869][ 32]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_FPSTest.FPSTest up for play (max tick rate 60) at 2018.03.11-21.33.53
+[2018.03.11-13.33.53:869][ 32]LogWorld: Bringing up level for play took: 0.001125
+[2018.03.11-13.33.53:870][ 32]PIE: /Game/StarterContent/Maps/UEDPIE_0_FPSTest的‘在编辑器中播放’的起始时间0.96
+[2018.03.11-13.35.47:665][  4]LogSlate: Took 0.000191 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.03.11-13.36.49:563][116]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/FPSTest" FILE="F:/UnrealProject/FpsGame/Saved/Autosaves/Game/StarterContent/Maps/FPSTest_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.03.11-13.36.49:605][116]LogSavePackage: Save=37.51ms
+[2018.03.11-13.36.49:605][116]LogSavePackage: Moving 'F:/UnrealProject/FpsGame/Saved/FPSTest_Auto1201D92AB4A3F83F401B396B9A39F12A2.tmp' to 'F:/UnrealProject/FpsGame/Saved/Autosaves/Game/StarterContent/Maps/FPSTest_Auto1.umap'
+[2018.03.11-13.36.49:607][116]LogSavePackage: Display: Finished SavePackage F:/UnrealProject/FpsGame/Saved/Autosaves/Game/StarterContent/Maps/FPSTest_Auto1.umap
+[2018.03.11-13.36.49:608][116]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/FPSTest' took 0.099
+[2018.03.11-13.36.49:608][116]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.099
+[2018.03.11-13.36.49:612][116]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Characters/Models/HeroFPP_Skeleton] ([1] browsable assets)...
+[2018.03.11-13.36.49:612][116]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Characters/Models/HeroFPP_Skeleton]
+[2018.03.11-13.36.49:619][116]LogSavePackage: Save=3.16ms
+[2018.03.11-13.36.49:619][116]LogSavePackage: Moving 'F:/UnrealProject/FpsGame/Saved/HeroFPP_Skeleton_Auto171B009EB470F04337A60E6914B03A32D.tmp' to 'F:/UnrealProject/FpsGame/Saved/Autosaves/Game/Assets/Characters/Models/HeroFPP_Skeleton_Auto1.uasset'
+[2018.03.11-13.36.49:620][116]LogSavePackage: Display: Finished SavePackage F:/UnrealProject/FpsGame/Saved/Autosaves/Game/Assets/Characters/Models/HeroFPP_Skeleton_Auto1.uasset
+[2018.03.11-13.36.49:621][116]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Blueprints/FppMoveBlend] ([1] browsable assets)...
+[2018.03.11-13.36.49:633][116]OBJ SavePackage:     Rendered thumbnail for [BlendSpace1D /Game/Assets/Blueprints/FppMoveBlend.FppMoveBlend]
+[2018.03.11-13.36.49:633][116]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Blueprints/FppMoveBlend]
+[2018.03.11-13.36.49:633][116]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Blueprints/FppMoveBlend" FILE="F:/UnrealProject/FpsGame/Saved/Autosaves/Game/Assets/Blueprints/FppMoveBlend_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.03.11-13.36.49:643][116]LogSavePackage: Save=8.98ms
+[2018.03.11-13.36.49:643][116]LogSavePackage: Moving 'F:/UnrealProject/FpsGame/Saved/FppMoveBlend_Auto11F1ACA2445E130BCF507EEBAFC9E927F.tmp' to 'F:/UnrealProject/FpsGame/Saved/Autosaves/Game/Assets/Blueprints/FppMoveBlend_Auto1.uasset'
+[2018.03.11-13.36.49:657][116]LogSavePackage: Display: Finished SavePackage F:/UnrealProject/FpsGame/Saved/Autosaves/Game/Assets/Blueprints/FppMoveBlend_Auto1.uasset
+[2018.03.11-13.36.49:657][116]LogFileHelpers: Auto-saving content packages took 0.047
+[2018.03.11-13.39.16:594][938]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Blueprints/FppMoveBlend" FILE="F:/UnrealProject/FpsGame/Content/Assets/Blueprints/FppMoveBlend.uasset" SILENT=true
+[2018.03.11-13.39.16:605][938]LogSavePackage: Save=9.66ms
+[2018.03.11-13.39.16:605][938]LogSavePackage: Moving 'F:/UnrealProject/FpsGame/Saved/FppMoveBlend313AA9574456A7928DC01382BF00E7B9.tmp' to 'F:/UnrealProject/FpsGame/Content/Assets/Blueprints/FppMoveBlend.uasset'
+[2018.03.11-13.39.16:607][938]LogSavePackage: Display: Finished SavePackage F:/UnrealProject/FpsGame/Content/Assets/Blueprints/FppMoveBlend.uasset
+[2018.03.11-13.43.25:351][237]BlueprintLog: New page: 编译FppAnim
+[2018.03.11-13.43.25:357][237]LogBlueprint: Warning: [Compiler FppAnim] Node  混合空间播放器'FppMoveBlend'  uses potentially thread-unsafe call  Try Get Pawn Owner . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.03.11-13.43.25:357][237]LogBlueprint: Warning: [Compiler FppAnim] Node  混合空间播放器'FppMoveBlend'  uses potentially thread-unsafe call  Try Get Pawn Owner . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.03.11-13.43.25:358][237]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	FppAnim_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.FppAnim_C_1
+	Function /Game/Assets/Blueprints/FppAnim.FppAnim_C:ExecuteUbergraph_FppAnim:0040
+[2018.03.11-13.43.25:358][237]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	FppAnim_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.FppAnim_C_1
+	Function /Game/Assets/Blueprints/FppAnim.FppAnim_C:ExecuteUbergraph_FppAnim:0040
+[2018.03.11-13.43.25:359][237]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	FppAnim_C /Engine/Transient.World_4:PersistentLevel.Actor_0.DebugSkelMeshComponent_0.FppAnim_C_2
+	Function /Game/Assets/Blueprints/FppAnim.FppAnim_C:ExecuteUbergraph_FppAnim:0040
+[2018.03.11-13.43.25:359][237]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	FppAnim_C /Engine/Transient.World_4:PersistentLevel.Actor_0.DebugSkelMeshComponent_0.FppAnim_C_2
+	Function /Game/Assets/Blueprints/FppAnim.FppAnim_C:ExecuteUbergraph_FppAnim:0040
+[2018.03.11-13.43.25:461][237]LogBlueprint: Warning: [Compiler FppAnim] [1091.82] Compile of FppAnim successful, but with 2 Warning(s) [in 110 ms] (/Game/Assets/Blueprints/FppAnim.FppAnim)
+[2018.03.11-13.43.25:465][237]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	FppAnim_C /Engine/Transient.World_4:PersistentLevel.Actor_0.DebugSkelMeshComponent_0.FppAnim_C_2
+	Function /Game/Assets/Blueprints/FppAnim.FppAnim_C:ExecuteUbergraph_FppAnim:0040
+[2018.03.11-13.43.25:491][238]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	FppAnim_C /Engine/Transient.World_4:PersistentLevel.Actor_0.DebugSkelMeshComponent_0.FppAnim_C_2
+	Function /Game/Assets/Blueprints/FppAnim.FppAnim_C:ExecuteUbergraph_FppAnim:0040
+[2018.03.11-13.43.25:506][239]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	FppAnim_C /Engine/Transient.World_4:PersistentLevel.Actor_0.DebugSkelMeshComponent_0.FppAnim_C_2
+	Function /Game/Assets/Blueprints/FppAnim.FppAnim_C:ExecuteUbergraph_FppAnim:0040
+[2018.03.11-13.43.25:522][240]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	FppAnim_C /Engine/Transient.World_4:PersistentLevel.Actor_0.DebugSkelMeshComponent_0.FppAnim_C_2
+	Function /Game/Assets/Blueprints/FppAnim.FppAnim_C:ExecuteUbergraph_FppAnim:0040
+[2018.03.11-13.43.25:539][241]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	FppAnim_C /Engine/Transient.World_4:PersistentLevel.Actor_0.DebugSkelMeshComponent_0.FppAnim_C_2
+	Function /Game/Assets/Blueprints/FppAnim.FppAnim_C:ExecuteUbergraph_FppAnim:0040
+[2018.03.11-13.43.25:556][242]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	FppAnim_C /Engine/Transient.World_4:PersistentLevel.Actor_0.DebugSkelMeshComponent_0.FppAnim_C_2
+	Function /Game/Assets/Blueprints/FppAnim.FppAnim_C:ExecuteUbergraph_FppAnim:0040
+[2018.03.11-13.43.25:571][243]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	FppAnim_C /Engine/Transient.World_4:PersistentLevel.Actor_0.DebugSkelMeshComponent_0.FppAnim_C_2
+	Function /Game/Assets/Blueprints/FppAnim.FppAnim_C:ExecuteUbergraph_FppAnim:0040
+[2018.03.11-13.43.25:588][244]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	FppAnim_C /Engine/Transient.World_4:PersistentLevel.Actor_0.DebugSkelMeshComponent_0.FppAnim_C_2
+	Function /Game/Assets/Blueprints/FppAnim.FppAnim_C:ExecuteUbergraph_FppAnim:0040
+[2018.03.11-13.43.25:604][245]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	FppAnim_C /Engine/Transient.World_4:PersistentLevel.Actor_0.DebugSkelMeshComponent_0.FppAnim_C_2
+	Function /Game/Assets/Blueprints/FppAnim.FppAnim_C:ExecuteUbergraph_FppAnim:0040
+[2018.03.11-13.43.25:621][246]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	FppAnim_C /Engine/Transient.World_4:PersistentLevel.Actor_0.DebugSkelMeshComponent_0.FppAnim_C_2
+	Function /Game/Assets/Blueprints/FppAnim.FppAnim_C:ExecuteUbergraph_FppAnim:0040
+[2018.03.11-13.43.25:638][247]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	FppAnim_C /Engine/Transient.World_4:PersistentLevel.Actor_0.DebugSkelMeshComponent_0.FppAnim_C_2
+	Function /Game/Assets/Blueprints/FppAnim.FppAnim_C:ExecuteUbergraph_FppAnim:0040
+[2018.03.11-13.43.25:655][248]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	FppAnim_C /Engine/Transient.World_4:PersistentLevel.Actor_0.DebugSkelMeshComponent_0.FppAnim_C_2
+	Function /Game/Assets/Blueprints/FppAnim.FppAnim_C:ExecuteUbergraph_FppAnim:0040
+[2018.03.11-13.43.25:672][249]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	FppAnim_C /Engine/Transient.World_4:PersistentLevel.Actor_0.DebugSkelMeshComponent_0.FppAnim_C_2
+	Function /Game/Assets/Blueprints/FppAnim.FppAnim_C:ExecuteUbergraph_FppAnim:0040
+[2018.03.11-13.43.25:690][250]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	FppAnim_C /Engine/Transient.World_4:PersistentLevel.Actor_0.DebugSkelMeshComponent_0.FppAnim_C_2
+	Function /Game/Assets/Blueprints/FppAnim.FppAnim_C:ExecuteUbergraph_FppAnim:0040
+[2018.03.11-13.43.25:706][251]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	FppAnim_C /Engine/Transient.World_4:PersistentLevel.Actor_0.DebugSkelMeshComponent_0.FppAnim_C_2
+	Function /Game/Assets/Blueprints/FppAnim.FppAnim_C:ExecuteUbergraph_FppAnim:0040
+[2018.03.11-13.43.26:016][268]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Blueprints/FppAnim" FILE="F:/UnrealProject/FpsGame/Content/Assets/Blueprints/FppAnim.uasset" SILENT=true
+[2018.03.11-13.43.26:038][268]LogSavePackage: Save=18.91ms
+[2018.03.11-13.43.26:038][268]LogSavePackage: Moving 'F:/UnrealProject/FpsGame/Saved/FppAnim1518DEC041F86695C113F4A61E2E028F.tmp' to 'F:/UnrealProject/FpsGame/Content/Assets/Blueprints/FppAnim.uasset'
+[2018.03.11-13.43.26:041][268]LogSavePackage: Display: Finished SavePackage F:/UnrealProject/FpsGame/Content/Assets/Blueprints/FppAnim.uasset
+[2018.03.11-13.44.02:182][989]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Blueprints/FppAnim" FILE="F:/UnrealProject/FpsGame/Content/Assets/Blueprints/FppAnim.uasset" SILENT=true
+[2018.03.11-13.44.02:201][989]LogSavePackage: Save=13.55ms
+[2018.03.11-13.44.02:201][989]LogSavePackage: Moving 'F:/UnrealProject/FpsGame/Saved/FppAnimDD84C8054DD9A990EE4BA28C51BBD4E4.tmp' to 'F:/UnrealProject/FpsGame/Content/Assets/Blueprints/FppAnim.uasset'
+[2018.03.11-13.44.02:202][989]LogSavePackage: Display: Finished SavePackage F:/UnrealProject/FpsGame/Content/Assets/Blueprints/FppAnim.uasset
+[2018.03.11-13.44.09:886][394]LogTemp: Repeating last play command: 选中的视口
+[2018.03.11-13.44.09:896][394]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.11-13.44.09:897][394]PIE: New page: PIE会话: FPSTest (2018年3月12日 上午5:44:09)
+[2018.03.11-13.44.09:897][394]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_FPSTest
+[2018.03.11-13.44.09:901][394]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004400s)
+[2018.03.11-13.44.09:902][394]LogAIModule: Creating AISystem for world FPSTest
+[2018.03.11-13.44.09:902][394]LogPlayLevel: PIE: World Init took: (0.000841s)
+[2018.03.11-13.44.09:902][394]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/FPSTest.FPSTest to /Game/StarterContent/Maps/UEDPIE_0_FPSTest.FPSTest (0.005500s)
+[2018.03.11-13.44.09:927][394]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.11-13.44.09:958][394]LogInit: FAudioDevice initialized.
+[2018.03.11-13.44.09:994][394]LogLoad: Game class is 'GameModeBase'
+[2018.03.11-13.44.09:996][394]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_FPSTest.FPSTest up for play (max tick rate 60) at 2018.03.11-21.44.09
+[2018.03.11-13.44.09:997][394]LogWorld: Bringing up level for play took: 0.001508
+[2018.03.11-13.44.09:998][394]PIE: /Game/StarterContent/Maps/UEDPIE_0_FPSTest的‘在编辑器中播放’的起始时间1.087
+[2018.03.11-13.44.46:117][509]BlueprintLog: New page: 编译FppShooter
+[2018.03.11-13.44.47:531][568]LogTemp: Repeating last play command: 选中的视口
+[2018.03.11-13.44.47:548][568]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.11-13.44.47:548][568]PIE: New page: PIE会话: FPSTest (2018年3月12日 上午5:44:47)
+[2018.03.11-13.44.47:548][568]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_FPSTest
+[2018.03.11-13.44.47:552][568]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003493s)
+[2018.03.11-13.44.47:552][568]LogAIModule: Creating AISystem for world FPSTest
+[2018.03.11-13.44.47:552][568]LogPlayLevel: PIE: World Init took: (0.000605s)
+[2018.03.11-13.44.47:553][568]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/FPSTest.FPSTest to /Game/StarterContent/Maps/UEDPIE_0_FPSTest.FPSTest (0.004390s)
+[2018.03.11-13.44.47:578][568]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.11-13.44.47:607][568]LogInit: FAudioDevice initialized.
+[2018.03.11-13.44.47:639][568]LogLoad: Game class is 'GameModeBase'
+[2018.03.11-13.44.47:641][568]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_FPSTest.FPSTest up for play (max tick rate 60) at 2018.03.11-21.44.47
+[2018.03.11-13.44.47:641][568]LogWorld: Bringing up level for play took: 0.001307
+[2018.03.11-13.44.47:642][568]PIE: /Game/StarterContent/Maps/UEDPIE_0_FPSTest的‘在编辑器中播放’的起始时间0.732
+[2018.03.11-13.44.50:627][699]LogTemp: Repeating last play command: 选中的视口
+[2018.03.11-13.44.50:637][699]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.11-13.44.50:638][699]PIE: New page: PIE会话: FPSTest (2018年3月12日 上午5:44:50)
+[2018.03.11-13.44.50:638][699]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_FPSTest
+[2018.03.11-13.44.50:642][699]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004215s)
+[2018.03.11-13.44.50:642][699]LogAIModule: Creating AISystem for world FPSTest
+[2018.03.11-13.44.50:643][699]LogPlayLevel: PIE: World Init took: (0.000712s)
+[2018.03.11-13.44.50:643][699]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/FPSTest.FPSTest to /Game/StarterContent/Maps/UEDPIE_0_FPSTest.FPSTest (0.005209s)
+[2018.03.11-13.44.50:668][699]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.11-13.44.50:698][699]LogInit: FAudioDevice initialized.
+[2018.03.11-13.44.50:731][699]LogLoad: Game class is 'GameModeBase'
+[2018.03.11-13.44.50:733][699]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_FPSTest.FPSTest up for play (max tick rate 60) at 2018.03.11-21.44.50
+[2018.03.11-13.44.50:733][699]LogWorld: Bringing up level for play took: 0.001221
+[2018.03.11-13.44.50:734][699]PIE: /Game/StarterContent/Maps/UEDPIE_0_FPSTest的‘在编辑器中播放’的起始时间-0.176
+[2018.03.11-13.45.29:916][988]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.03.11-13.45.32:852][161]BlueprintLog: New page: 编译FppShooter
+[2018.03.11-13.45.42:380][617]BlueprintLog: New page: 编译FppShooter
+[2018.03.11-13.45.42:770][617]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Blueprints/FppShooter" FILE="F:/UnrealProject/FpsGame/Content/Assets/Blueprints/FppShooter.uasset" SILENT=true
+[2018.03.11-13.45.42:811][617]LogSavePackage: Save=36.16ms
+[2018.03.11-13.45.42:811][617]LogSavePackage: Moving 'F:/UnrealProject/FpsGame/Saved/FppShooter7B092EF54C560A71089968A3CCA4A3CA.tmp' to 'F:/UnrealProject/FpsGame/Content/Assets/Blueprints/FppShooter.uasset'
+[2018.03.11-13.45.42:813][617]LogSavePackage: Display: Finished SavePackage F:/UnrealProject/FpsGame/Content/Assets/Blueprints/FppShooter.uasset
+[2018.03.11-13.45.44:588][718]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Blueprints/FppShooter" FILE="F:/UnrealProject/FpsGame/Content/Assets/Blueprints/FppShooter.uasset" SILENT=true
+[2018.03.11-13.45.44:619][718]LogSavePackage: Save=27.10ms
+[2018.03.11-13.45.44:619][718]LogSavePackage: Moving 'F:/UnrealProject/FpsGame/Saved/FppShooter4285A28B48F1AE19DF6F5BB681CE7A4F.tmp' to 'F:/UnrealProject/FpsGame/Content/Assets/Blueprints/FppShooter.uasset'
+[2018.03.11-13.45.44:620][718]LogSavePackage: Display: Finished SavePackage F:/UnrealProject/FpsGame/Content/Assets/Blueprints/FppShooter.uasset
+[2018.03.11-13.45.46:227][774]LogTemp: Repeating last play command: 选中的视口
+[2018.03.11-13.45.46:245][774]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.11-13.45.46:245][774]PIE: New page: PIE会话: FPSTest (2018年3月12日 上午5:45:46)
+[2018.03.11-13.45.46:245][774]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_FPSTest
+[2018.03.11-13.45.46:249][774]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003996s)
+[2018.03.11-13.45.46:250][774]LogAIModule: Creating AISystem for world FPSTest
+[2018.03.11-13.45.46:250][774]LogPlayLevel: PIE: World Init took: (0.000516s)
+[2018.03.11-13.45.46:250][774]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/FPSTest.FPSTest to /Game/StarterContent/Maps/UEDPIE_0_FPSTest.FPSTest (0.004749s)
+[2018.03.11-13.45.46:275][774]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.11-13.45.46:305][774]LogInit: FAudioDevice initialized.
+[2018.03.11-13.45.46:340][774]LogLoad: Game class is 'GameModeBase'
+[2018.03.11-13.45.46:343][774]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_FPSTest.FPSTest up for play (max tick rate 60) at 2018.03.11-21.45.46
+[2018.03.11-13.45.46:343][774]LogWorld: Bringing up level for play took: 0.001464
+[2018.03.11-13.45.46:344][774]PIE: /Game/StarterContent/Maps/UEDPIE_0_FPSTest的‘在编辑器中播放’的起始时间-0.566
+[2018.03.11-13.45.59:719][506]BlueprintLog: New page: 编译FppShooter
+[2018.03.11-13.46.02:094][582]LogTemp: Repeating last play command: 选中的视口
+[2018.03.11-13.46.02:109][582]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.11-13.46.02:109][582]PIE: New page: PIE会话: FPSTest (2018年3月12日 上午5:46:02)
+[2018.03.11-13.46.02:109][582]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_FPSTest
+[2018.03.11-13.46.02:113][582]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004250s)
+[2018.03.11-13.46.02:114][582]LogAIModule: Creating AISystem for world FPSTest
+[2018.03.11-13.46.02:114][582]LogPlayLevel: PIE: World Init took: (0.000760s)
+[2018.03.11-13.46.02:114][582]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/FPSTest.FPSTest to /Game/StarterContent/Maps/UEDPIE_0_FPSTest.FPSTest (0.005337s)
+[2018.03.11-13.46.02:139][582]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.11-13.46.02:168][582]LogInit: FAudioDevice initialized.
+[2018.03.11-13.46.02:200][582]LogLoad: Game class is 'GameModeBase'
+[2018.03.11-13.46.02:201][582]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_FPSTest.FPSTest up for play (max tick rate 60) at 2018.03.11-21.46.02
+[2018.03.11-13.46.02:202][582]LogWorld: Bringing up level for play took: 0.001121
+[2018.03.11-13.46.02:203][582]PIE: /Game/StarterContent/Maps/UEDPIE_0_FPSTest的‘在编辑器中播放’的起始时间-0.707
+[2018.03.11-13.46.10:662][ 44]BlueprintLog: New page: 编译FppShooter
+[2018.03.11-13.46.12:545][101]LogTemp: Repeating last play command: 选中的视口
+[2018.03.11-13.46.12:560][101]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.11-13.46.12:560][101]PIE: New page: PIE会话: FPSTest (2018年3月12日 上午5:46:12)
+[2018.03.11-13.46.12:560][101]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_FPSTest
+[2018.03.11-13.46.12:564][101]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004101s)
+[2018.03.11-13.46.12:565][101]LogAIModule: Creating AISystem for world FPSTest
+[2018.03.11-13.46.12:565][101]LogPlayLevel: PIE: World Init took: (0.000720s)
+[2018.03.11-13.46.12:565][101]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/FPSTest.FPSTest to /Game/StarterContent/Maps/UEDPIE_0_FPSTest.FPSTest (0.005066s)
+[2018.03.11-13.46.12:616][101]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.11-13.46.12:645][101]LogInit: FAudioDevice initialized.
+[2018.03.11-13.46.12:681][101]LogLoad: Game class is 'GameModeBase'
+[2018.03.11-13.46.12:682][101]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_FPSTest.FPSTest up for play (max tick rate 60) at 2018.03.11-21.46.12
+[2018.03.11-13.46.12:683][101]LogWorld: Bringing up level for play took: 0.001142
+[2018.03.11-13.46.12:683][101]PIE: /Game/StarterContent/Maps/UEDPIE_0_FPSTest的‘在编辑器中播放’的起始时间-0.227
+[2018.03.11-13.46.26:777][880]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Blueprints/FppShooter" FILE="F:/UnrealProject/FpsGame/Content/Assets/Blueprints/FppShooter.uasset" SILENT=true
+[2018.03.11-13.46.26:815][880]LogSavePackage: Save=35.07ms
+[2018.03.11-13.46.26:815][880]LogSavePackage: Moving 'F:/UnrealProject/FpsGame/Saved/FppShooterC7DA5994440EA7A82812D2B9C5E59788.tmp' to 'F:/UnrealProject/FpsGame/Content/Assets/Blueprints/FppShooter.uasset'
+[2018.03.11-13.46.26:817][880]LogSavePackage: Display: Finished SavePackage F:/UnrealProject/FpsGame/Content/Assets/Blueprints/FppShooter.uasset
+[2018.03.11-13.47.34:582][181]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/FPSTest" FILE="F:/UnrealProject/FpsGame/Saved/Autosaves/Game/StarterContent/Maps/FPSTest_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.03.11-13.47.34:625][181]LogSavePackage: Save=37.90ms
+[2018.03.11-13.47.34:625][181]LogSavePackage: Moving 'F:/UnrealProject/FpsGame/Saved/FPSTest_Auto21B91304A4419A321E830F280DDD1B242.tmp' to 'F:/UnrealProject/FpsGame/Saved/Autosaves/Game/StarterContent/Maps/FPSTest_Auto2.umap'
+[2018.03.11-13.47.34:626][181]LogSavePackage: Display: Finished SavePackage F:/UnrealProject/FpsGame/Saved/Autosaves/Game/StarterContent/Maps/FPSTest_Auto2.umap
+[2018.03.11-13.47.34:628][181]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/FPSTest' took 0.064
+[2018.03.11-13.47.34:628][181]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.064
+[2018.03.11-13.50.59:042][568]LogAnimMontage: Warning: JumpToSectionName None bEndOfSection: 0 failed for Montage FppRifleMotage
+[2018.03.11-13.51.46:670][410]LogAnimMontage: Warning: JumpToSectionName None bEndOfSection: 0 failed for Montage FppRifleMotage
+[2018.03.11-13.57.33:511][919]LogAnimMontage: Warning: JumpToSectionName None bEndOfSection: 0 failed for Montage FppRifleMotage
+[2018.03.11-13.57.54:575][156]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Blueprints/FppRifleMotage" FILE="F:/UnrealProject/FpsGame/Content/Assets/Blueprints/FppRifleMotage.uasset" SILENT=true
+[2018.03.11-13.57.54:586][156]LogSavePackage: Save=9.34ms
+[2018.03.11-13.57.54:586][156]LogSavePackage: Moving 'F:/UnrealProject/FpsGame/Saved/FppRifleMotageF94B3F50485A0002E79F19B78640A0CE.tmp' to 'F:/UnrealProject/FpsGame/Content/Assets/Blueprints/FppRifleMotage.uasset'
+[2018.03.11-13.57.54:588][156]LogSavePackage: Display: Finished SavePackage F:/UnrealProject/FpsGame/Content/Assets/Blueprints/FppRifleMotage.uasset
+[2018.03.11-13.58.31:670][921]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.03.11-13.58.31:790][924]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.FpsGame
+[2018.03.11-13.58.31:791][924]LogTemp: CWD: D:\Program Files\Epic Games\UE_4.18\Engine\Binaries\DotNET\IOS
+[2018.03.11-13.58.31:791][924]LogTemp: Initial Dir: D:\Program Files\Epic Games\UE_4.18
+[2018.03.11-13.58.31:791][924]LogTemp: Env CWD: D:\Program Files\Epic Games\UE_4.18\Engine\Binaries\DotNET\IOS
+[2018.03.11-13.58.31:791][924]LogTemp: BranchPath = ADVANT/D/Program Files/Epic Games/UE_4.18/Engine/Binaries --- GameBranchPath = ADVANT/D/Program Files/Epic Games/UE_4.18/Engine/Binaries
+[2018.03.11-13.58.31:806][925]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\VULCAN\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.03.11-14.00.13:693][876]LogTemp: Repeating last play command: 选中的视口
+[2018.03.11-14.00.13:704][876]BlueprintLog: New page: 运行前自动重新编译
+[2018.03.11-14.00.13:708][876]LogPlayLevel: [PlayLevel] Compiling FppShooter before play...
+[2018.03.11-14.00.14:103][876]LogPlayLevel: PlayLevel: Blueprint regeneration took 398 ms (1 blueprints)
+[2018.03.11-14.00.14:103][876]PIE: New page: PIE会话: FPSTest (2018年3月12日 上午6:00:14)
+[2018.03.11-14.00.14:103][876]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_FPSTest
+[2018.03.11-14.00.14:107][876]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004172s)
+[2018.03.11-14.00.14:108][876]LogAIModule: Creating AISystem for world FPSTest
+[2018.03.11-14.00.14:108][876]LogPlayLevel: PIE: World Init took: (0.000664s)
+[2018.03.11-14.00.14:108][876]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/FPSTest.FPSTest to /Game/StarterContent/Maps/UEDPIE_0_FPSTest.FPSTest (0.005107s)
+[2018.03.11-14.00.14:134][876]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.11-14.00.14:164][876]LogInit: FAudioDevice initialized.
+[2018.03.11-14.00.14:192][876]LogLoad: Game class is 'GameModeBase'
+[2018.03.11-14.00.14:194][876]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_FPSTest.FPSTest up for play (max tick rate 60) at 2018.03.11-22.00.14
+[2018.03.11-14.00.14:194][876]LogWorld: Bringing up level for play took: 0.001145
+[2018.03.11-14.00.14:196][876]PIE: /Game/StarterContent/Maps/UEDPIE_0_FPSTest的‘在编辑器中播放’的起始时间1.286
+[2018.03.11-14.01.05:415][864]BlueprintLog: New page: 编译FppAnim
+[2018.03.11-14.01.05:420][864]LogBlueprint: Warning: [Compiler FppAnim] Node  混合空间播放器'FppMoveBlend'  uses potentially thread-unsafe call  Try Get Pawn Owner . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.03.11-14.01.05:421][864]LogBlueprint: Warning: [Compiler FppAnim] Node  混合空间播放器'FppMoveBlend'  uses potentially thread-unsafe call  Try Get Pawn Owner . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.03.11-14.01.05:421][864]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	FppAnim_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.FppAnim_C_0
+	Function /Game/Assets/Blueprints/FppAnim.FppAnim_C:ExecuteUbergraph_FppAnim:0040
+[2018.03.11-14.01.05:421][864]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	FppAnim_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.FppAnim_C_0
+	Function /Game/Assets/Blueprints/FppAnim.FppAnim_C:ExecuteUbergraph_FppAnim:0040
+[2018.03.11-14.01.05:421][864]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	FppAnim_C /Engine/Transient.World_4:PersistentLevel.Actor_0.DebugSkelMeshComponent_0.FppAnim_C_1
+	Function /Game/Assets/Blueprints/FppAnim.FppAnim_C:ExecuteUbergraph_FppAnim:0040
+[2018.03.11-14.01.05:421][864]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	FppAnim_C /Engine/Transient.World_4:PersistentLevel.Actor_0.DebugSkelMeshComponent_0.FppAnim_C_1
+	Function /Game/Assets/Blueprints/FppAnim.FppAnim_C:ExecuteUbergraph_FppAnim:0040
+[2018.03.11-14.01.05:526][864]LogBlueprint: Warning: [Compiler FppAnim] [2151.88] Compile of FppAnim successful, but with 2 Warning(s) [in 111 ms] (/Game/Assets/Blueprints/FppAnim.FppAnim)
+[2018.03.11-14.01.05:531][864]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	FppAnim_C /Engine/Transient.World_4:PersistentLevel.Actor_0.DebugSkelMeshComponent_0.FppAnim_C_1
+	Function /Game/Assets/Blueprints/FppAnim.FppAnim_C:ExecuteUbergraph_FppAnim:0040
+[2018.03.11-14.01.05:558][865]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	FppAnim_C /Engine/Transient.World_4:PersistentLevel.Actor_0.DebugSkelMeshComponent_0.FppAnim_C_1
+	Function /Game/Assets/Blueprints/FppAnim.FppAnim_C:ExecuteUbergraph_FppAnim:0040
+[2018.03.11-14.01.05:573][866]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	FppAnim_C /Engine/Transient.World_4:PersistentLevel.Actor_0.DebugSkelMeshComponent_0.FppAnim_C_1
+	Function /Game/Assets/Blueprints/FppAnim.FppAnim_C:ExecuteUbergraph_FppAnim:0040
+[2018.03.11-14.01.05:590][867]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	FppAnim_C /Engine/Transient.World_4:PersistentLevel.Actor_0.DebugSkelMeshComponent_0.FppAnim_C_1
+	Function /Game/Assets/Blueprints/FppAnim.FppAnim_C:ExecuteUbergraph_FppAnim:0040
+[2018.03.11-14.01.05:606][868]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	FppAnim_C /Engine/Transient.World_4:PersistentLevel.Actor_0.DebugSkelMeshComponent_0.FppAnim_C_1
+	Function /Game/Assets/Blueprints/FppAnim.FppAnim_C:ExecuteUbergraph_FppAnim:0040
+[2018.03.11-14.01.05:624][869]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	FppAnim_C /Engine/Transient.World_4:PersistentLevel.Actor_0.DebugSkelMeshComponent_0.FppAnim_C_1
+	Function /Game/Assets/Blueprints/FppAnim.FppAnim_C:ExecuteUbergraph_FppAnim:0040
+[2018.03.11-14.01.05:642][870]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	FppAnim_C /Engine/Transient.World_4:PersistentLevel.Actor_0.DebugSkelMeshComponent_0.FppAnim_C_1
+	Function /Game/Assets/Blueprints/FppAnim.FppAnim_C:ExecuteUbergraph_FppAnim:0040
+[2018.03.11-14.01.05:658][871]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	FppAnim_C /Engine/Transient.World_4:PersistentLevel.Actor_0.DebugSkelMeshComponent_0.FppAnim_C_1
+	Function /Game/Assets/Blueprints/FppAnim.FppAnim_C:ExecuteUbergraph_FppAnim:0040
+[2018.03.11-14.01.05:674][872]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	FppAnim_C /Engine/Transient.World_4:PersistentLevel.Actor_0.DebugSkelMeshComponent_0.FppAnim_C_1
+	Function /Game/Assets/Blueprints/FppAnim.FppAnim_C:ExecuteUbergraph_FppAnim:0040
+[2018.03.11-14.01.05:690][873]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	FppAnim_C /Engine/Transient.World_4:PersistentLevel.Actor_0.DebugSkelMeshComponent_0.FppAnim_C_1
+	Function /Game/Assets/Blueprints/FppAnim.FppAnim_C:ExecuteUbergraph_FppAnim:0040
+[2018.03.11-14.01.05:706][874]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	FppAnim_C /Engine/Transient.World_4:PersistentLevel.Actor_0.DebugSkelMeshComponent_0.FppAnim_C_1
+	Function /Game/Assets/Blueprints/FppAnim.FppAnim_C:ExecuteUbergraph_FppAnim:0040
+[2018.03.11-14.01.05:724][875]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	FppAnim_C /Engine/Transient.World_4:PersistentLevel.Actor_0.DebugSkelMeshComponent_0.FppAnim_C_1
+	Function /Game/Assets/Blueprints/FppAnim.FppAnim_C:ExecuteUbergraph_FppAnim:0040
+[2018.03.11-14.01.05:742][876]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	FppAnim_C /Engine/Transient.World_4:PersistentLevel.Actor_0.DebugSkelMeshComponent_0.FppAnim_C_1
+	Function /Game/Assets/Blueprints/FppAnim.FppAnim_C:ExecuteUbergraph_FppAnim:0040
+[2018.03.11-14.01.15:284][446]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Blueprints/FppAnim" FILE="F:/UnrealProject/FpsGame/Content/Assets/Blueprints/FppAnim.uasset" SILENT=true
+[2018.03.11-14.01.15:311][446]LogSavePackage: Save=21.23ms
+[2018.03.11-14.01.15:311][446]LogSavePackage: Moving 'F:/UnrealProject/FpsGame/Saved/FppAnimD7F590F341DB3F7802EF73990050F346.tmp' to 'F:/UnrealProject/FpsGame/Content/Assets/Blueprints/FppAnim.uasset'
+[2018.03.11-14.01.15:313][446]LogSavePackage: Display: Finished SavePackage F:/UnrealProject/FpsGame/Content/Assets/Blueprints/FppAnim.uasset
+[2018.03.11-14.01.23:544][889]LogTemp: Repeating last play command: 选中的视口
+[2018.03.11-14.01.23:565][889]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.11-14.01.23:565][889]PIE: New page: PIE会话: FPSTest (2018年3月12日 上午6:01:23)
+[2018.03.11-14.01.23:565][889]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_FPSTest
+[2018.03.11-14.01.23:599][889]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034623s)
+[2018.03.11-14.01.23:600][889]LogAIModule: Creating AISystem for world FPSTest
+[2018.03.11-14.01.23:600][889]LogPlayLevel: PIE: World Init took: (0.000623s)
+[2018.03.11-14.01.23:600][889]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/FPSTest.FPSTest to /Game/StarterContent/Maps/UEDPIE_0_FPSTest.FPSTest (0.035654s)
+[2018.03.11-14.01.23:628][889]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.11-14.01.23:658][889]LogInit: FAudioDevice initialized.
+[2018.03.11-14.01.23:694][889]LogLoad: Game class is 'GameModeBase'
+[2018.03.11-14.01.23:696][889]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_FPSTest.FPSTest up for play (max tick rate 60) at 2018.03.11-22.01.23
+[2018.03.11-14.01.23:697][889]LogWorld: Bringing up level for play took: 0.001219
+[2018.03.11-14.01.23:697][889]PIE: /Game/StarterContent/Maps/UEDPIE_0_FPSTest的‘在编辑器中播放’的起始时间0.788
+[2018.03.11-14.01.58:695][780]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Blueprints/FppShooter" FILE="F:/UnrealProject/FpsGame/Content/Assets/Blueprints/FppShooter.uasset" SILENT=true
+[2018.03.11-14.01.58:738][780]LogSavePackage: Save=38.69ms
+[2018.03.11-14.01.58:738][780]LogSavePackage: Moving 'F:/UnrealProject/FpsGame/Saved/FppShooter2E27B31C43F4B7604A448A916F77B2AB.tmp' to 'F:/UnrealProject/FpsGame/Content/Assets/Blueprints/FppShooter.uasset'
+[2018.03.11-14.01.58:740][780]LogSavePackage: Display: Finished SavePackage F:/UnrealProject/FpsGame/Content/Assets/Blueprints/FppShooter.uasset
+[2018.03.11-14.02.01:013][889]LogTemp: Repeating last play command: 选中的视口
+[2018.03.11-14.02.01:545][889]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.11-14.02.01:546][889]PIE: New page: PIE会话: FPSTest (2018年3月12日 上午6:02:01)
+[2018.03.11-14.02.01:546][889]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_FPSTest
+[2018.03.11-14.02.01:549][889]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003741s)
+[2018.03.11-14.02.01:550][889]LogAIModule: Creating AISystem for world FPSTest
+[2018.03.11-14.02.01:550][889]LogPlayLevel: PIE: World Init took: (0.000652s)
+[2018.03.11-14.02.01:550][889]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/FPSTest.FPSTest to /Game/StarterContent/Maps/UEDPIE_0_FPSTest.FPSTest (0.004663s)
+[2018.03.11-14.02.01:606][889]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.11-14.02.01:640][889]LogInit: FAudioDevice initialized.
+[2018.03.11-14.02.01:674][889]LogLoad: Game class is 'GameModeBase'
+[2018.03.11-14.02.01:676][889]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_FPSTest.FPSTest up for play (max tick rate 60) at 2018.03.11-22.02.01
+[2018.03.11-14.02.01:676][889]LogWorld: Bringing up level for play took: 0.001128
+[2018.03.11-14.02.01:677][889]PIE: /Game/StarterContent/Maps/UEDPIE_0_FPSTest的‘在编辑器中播放’的起始时间0.767
+[2018.03.11-14.02.17:408][385]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.03.11-14.02.17:504][388]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.FpsGame
+[2018.03.11-14.02.17:504][388]LogTemp: CWD: D:\Program Files\Epic Games\UE_4.18\Engine\Binaries\DotNET\IOS
+[2018.03.11-14.02.17:504][388]LogTemp: Initial Dir: D:\Program Files\Epic Games\UE_4.18
+[2018.03.11-14.02.17:504][388]LogTemp: Env CWD: D:\Program Files\Epic Games\UE_4.18\Engine\Binaries\DotNET\IOS
+[2018.03.11-14.02.17:504][388]LogTemp: BranchPath = ADVANT/D/Program Files/Epic Games/UE_4.18/Engine/Binaries --- GameBranchPath = ADVANT/D/Program Files/Epic Games/UE_4.18/Engine/Binaries
+[2018.03.11-14.02.17:520][389]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\VULCAN\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.03.11-14.03.16:383][788]BlueprintLog: New page: 编译FppShooter
+[2018.03.11-14.03.19:340][904]LogTemp: Repeating last play command: 选中的视口
+[2018.03.11-14.03.19:361][904]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.11-14.03.19:361][904]PIE: New page: PIE会话: FPSTest (2018年3月12日 上午6:03:19)
+[2018.03.11-14.03.19:361][904]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_FPSTest
+[2018.03.11-14.03.19:365][904]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003571s)
+[2018.03.11-14.03.19:365][904]LogAIModule: Creating AISystem for world FPSTest
+[2018.03.11-14.03.19:365][904]LogPlayLevel: PIE: World Init took: (0.000690s)
+[2018.03.11-14.03.19:366][904]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/FPSTest.FPSTest to /Game/StarterContent/Maps/UEDPIE_0_FPSTest.FPSTest (0.004564s)
+[2018.03.11-14.03.19:392][904]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.11-14.03.19:420][904]LogInit: FAudioDevice initialized.
+[2018.03.11-14.03.19:452][904]LogLoad: Game class is 'GameModeBase'
+[2018.03.11-14.03.19:454][904]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_FPSTest.FPSTest up for play (max tick rate 60) at 2018.03.11-22.03.19
+[2018.03.11-14.03.19:455][904]LogWorld: Bringing up level for play took: 0.001238
+[2018.03.11-14.03.19:456][904]PIE: /Game/StarterContent/Maps/UEDPIE_0_FPSTest的‘在编辑器中播放’的起始时间0.546
+[2018.03.11-14.03.48:846][576]BlueprintLog: New page: 编译FppShooter
+[2018.03.11-14.03.50:830][636]LogTemp: Repeating last play command: 选中的视口
+[2018.03.11-14.03.50:848][636]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.11-14.03.50:848][636]PIE: New page: PIE会话: FPSTest (2018年3月12日 上午6:03:50)
+[2018.03.11-14.03.50:848][636]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_FPSTest
+[2018.03.11-14.03.50:852][636]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004303s)
+[2018.03.11-14.03.50:853][636]LogAIModule: Creating AISystem for world FPSTest
+[2018.03.11-14.03.50:853][636]LogPlayLevel: PIE: World Init took: (0.000526s)
+[2018.03.11-14.03.50:853][636]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/FPSTest.FPSTest to /Game/StarterContent/Maps/UEDPIE_0_FPSTest.FPSTest (0.005155s)
+[2018.03.11-14.03.50:879][636]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.11-14.03.50:908][636]LogInit: FAudioDevice initialized.
+[2018.03.11-14.03.50:942][636]LogLoad: Game class is 'GameModeBase'
+[2018.03.11-14.03.50:944][636]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_FPSTest.FPSTest up for play (max tick rate 60) at 2018.03.11-22.03.50
+[2018.03.11-14.03.50:944][636]LogWorld: Bringing up level for play took: 0.001136
+[2018.03.11-14.03.50:945][636]PIE: /Game/StarterContent/Maps/UEDPIE_0_FPSTest的‘在编辑器中播放’的起始时间0.035
+[2018.03.11-14.03.51:147][645]LogBlueprintUserMessages: [FppShooter_2] Hello
+[2018.03.11-14.03.51:531][668]LogBlueprintUserMessages: [FppShooter_2] Hello
+[2018.03.11-14.03.51:747][681]LogBlueprintUserMessages: [FppShooter_2] Hello
+[2018.03.11-14.03.51:914][691]LogBlueprintUserMessages: [FppShooter_2] Hello
+[2018.03.11-14.03.53:743][794]LogTemp: Repeating last play command: 选中的视口
+[2018.03.11-14.03.53:755][794]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.11-14.03.53:755][794]PIE: New page: PIE会话: FPSTest (2018年3月12日 上午6:03:53)
+[2018.03.11-14.03.53:755][794]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_FPSTest
+[2018.03.11-14.03.53:759][794]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003487s)
+[2018.03.11-14.03.53:759][794]LogAIModule: Creating AISystem for world FPSTest
+[2018.03.11-14.03.53:760][794]LogPlayLevel: PIE: World Init took: (0.000749s)
+[2018.03.11-14.03.53:760][794]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/FPSTest.FPSTest to /Game/StarterContent/Maps/UEDPIE_0_FPSTest.FPSTest (0.004508s)
+[2018.03.11-14.03.53:785][794]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.11-14.03.53:813][794]LogInit: FAudioDevice initialized.
+[2018.03.11-14.03.53:844][794]LogLoad: Game class is 'GameModeBase'
+[2018.03.11-14.03.53:845][794]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_FPSTest.FPSTest up for play (max tick rate 60) at 2018.03.11-22.03.53
+[2018.03.11-14.03.53:846][794]LogWorld: Bringing up level for play took: 0.001199
+[2018.03.11-14.03.53:846][794]PIE: /Game/StarterContent/Maps/UEDPIE_0_FPSTest的‘在编辑器中播放’的起始时间0.937
+[2018.03.11-14.03.54:355][823]LogBlueprintUserMessages: [FppShooter_2] Hello
+[2018.03.11-14.04.59:953][401]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/FPSTest" FILE="F:/UnrealProject/FpsGame/Saved/Autosaves/Game/StarterContent/Maps/FPSTest_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.03.11-14.04.59:996][401]LogSavePackage: Save=37.60ms
+[2018.03.11-14.04.59:996][401]LogSavePackage: Moving 'F:/UnrealProject/FpsGame/Saved/FPSTest_Auto37570205E496F9C4D1FB9F896FCA09C41.tmp' to 'F:/UnrealProject/FpsGame/Saved/Autosaves/Game/StarterContent/Maps/FPSTest_Auto3.umap'
+[2018.03.11-14.04.59:997][401]LogSavePackage: Display: Finished SavePackage F:/UnrealProject/FpsGame/Saved/Autosaves/Game/StarterContent/Maps/FPSTest_Auto3.umap
+[2018.03.11-14.04.59:999][401]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/FPSTest' took 0.064
+[2018.03.11-14.04.59:999][401]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.064
+[2018.03.11-14.05.00:002][401]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Blueprints/FppShooter] ([1] browsable assets)...
+[2018.03.11-14.05.00:014][401]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Assets/Blueprints/FppShooter.FppShooter]
+[2018.03.11-14.05.00:014][401]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Blueprints/FppShooter]
+[2018.03.11-14.05.00:014][401]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Blueprints/FppShooter" FILE="F:/UnrealProject/FpsGame/Saved/Autosaves/Game/Assets/Blueprints/FppShooter_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2018.03.11-14.05.00:058][401]LogSavePackage: Save=40.15ms
+[2018.03.11-14.05.00:058][401]LogSavePackage: Moving 'F:/UnrealProject/FpsGame/Saved/FppShooter_Auto3F52B23FB418CA89F1FC7759FC4A82659.tmp' to 'F:/UnrealProject/FpsGame/Saved/Autosaves/Game/Assets/Blueprints/FppShooter_Auto3.uasset'
+[2018.03.11-14.05.00:059][401]LogSavePackage: Display: Finished SavePackage F:/UnrealProject/FpsGame/Saved/Autosaves/Game/Assets/Blueprints/FppShooter_Auto3.uasset
+[2018.03.11-14.05.00:059][401]LogFileHelpers: Auto-saving content packages took 0.059
+[2018.03.11-14.05.49:773][ 52]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Blueprints/FppAnim" FILE="F:/UnrealProject/FpsGame/Content/Assets/Blueprints/FppAnim.uasset" SILENT=true
+[2018.03.11-14.05.49:788][ 52]LogSavePackage: Save=11.93ms
+[2018.03.11-14.05.49:788][ 52]LogSavePackage: Moving 'F:/UnrealProject/FpsGame/Saved/FppAnim2EC489CD4735AC7458524E9ED533E64F.tmp' to 'F:/UnrealProject/FpsGame/Content/Assets/Blueprints/FppAnim.uasset'
+[2018.03.11-14.05.49:789][ 52]LogSavePackage: Display: Finished SavePackage F:/UnrealProject/FpsGame/Content/Assets/Blueprints/FppAnim.uasset
+[2018.03.11-14.06.34:017][695]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.Actor_2.DebugSkelMeshComponent_7) Already registered. Aborting.
+[2018.03.11-14.06.34:896][731]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.Actor_3.DebugSkelMeshComponent_8) Already registered. Aborting.
+[2018.03.11-14.11.03:628][173]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Blueprints/FppRifleMotage" FILE="F:/UnrealProject/FpsGame/Content/Assets/Blueprints/FppRifleMotage.uasset" SILENT=true
+[2018.03.11-14.11.03:643][173]LogSavePackage: Save=10.19ms
+[2018.03.11-14.11.03:643][173]LogSavePackage: Moving 'F:/UnrealProject/FpsGame/Saved/FppRifleMotageF97B77574443A1F2E1C4569F34C70699.tmp' to 'F:/UnrealProject/FpsGame/Content/Assets/Blueprints/FppRifleMotage.uasset'
+[2018.03.11-14.11.03:645][173]LogSavePackage: Display: Finished SavePackage F:/UnrealProject/FpsGame/Content/Assets/Blueprints/FppRifleMotage.uasset
+[2018.03.11-14.11.09:736][500]LogTemp: Repeating last play command: 选中的视口
+[2018.03.11-14.11.09:748][500]BlueprintLog: New page: 运行前自动重新编译
+[2018.03.11-14.11.09:753][500]LogPlayLevel: [PlayLevel] Compiling FppShooter before play...
+[2018.03.11-14.11.10:131][500]LogPlayLevel: PlayLevel: Blueprint regeneration took 383 ms (1 blueprints)
+[2018.03.11-14.11.10:132][500]PIE: New page: PIE会话: FPSTest (2018年3月12日 上午6:11:10)
+[2018.03.11-14.11.10:132][500]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_FPSTest
+[2018.03.11-14.11.10:136][500]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003790s)
+[2018.03.11-14.11.10:136][500]LogAIModule: Creating AISystem for world FPSTest
+[2018.03.11-14.11.10:137][500]LogPlayLevel: PIE: World Init took: (0.000886s)
+[2018.03.11-14.11.10:137][500]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/FPSTest.FPSTest to /Game/StarterContent/Maps/UEDPIE_0_FPSTest.FPSTest (0.005071s)
+[2018.03.11-14.11.10:163][500]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.11-14.11.10:193][500]LogInit: FAudioDevice initialized.
+[2018.03.11-14.11.10:228][500]LogLoad: Game class is 'GameModeBase'
+[2018.03.11-14.11.10:229][500]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_FPSTest.FPSTest up for play (max tick rate 60) at 2018.03.11-22.11.10
+[2018.03.11-14.11.10:229][500]LogWorld: Bringing up level for play took: 0.001031
+[2018.03.11-14.11.10:230][500]PIE: /Game/StarterContent/Maps/UEDPIE_0_FPSTest的‘在编辑器中播放’的起始时间1.321
+[2018.03.11-14.12.58:971][134]BlueprintLog: New page: 编译FppShooter
+[2018.03.11-14.13.31:498][ 16]BlueprintLog: New page: 编译FppShooter
+[2018.03.11-14.14.44:982][783]BlueprintLog: New page: 编译FppShooter
+[2018.03.11-14.14.47:258][862]LogTemp: Repeating last play command: 选中的视口
+[2018.03.11-14.14.47:283][862]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.11-14.14.47:283][862]PIE: New page: PIE会话: FPSTest (2018年3月12日 上午6:14:47)
+[2018.03.11-14.14.47:283][862]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_FPSTest
+[2018.03.11-14.14.47:287][862]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003746s)
+[2018.03.11-14.14.47:287][862]LogAIModule: Creating AISystem for world FPSTest
+[2018.03.11-14.14.47:288][862]LogPlayLevel: PIE: World Init took: (0.000714s)
+[2018.03.11-14.14.47:288][862]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/FPSTest.FPSTest to /Game/StarterContent/Maps/UEDPIE_0_FPSTest.FPSTest (0.004732s)
+[2018.03.11-14.14.47:315][862]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.11-14.14.47:346][862]LogInit: FAudioDevice initialized.
+[2018.03.11-14.14.47:382][862]LogLoad: Game class is 'GameModeBase'
+[2018.03.11-14.14.47:383][862]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_FPSTest.FPSTest up for play (max tick rate 60) at 2018.03.11-22.14.47
+[2018.03.11-14.14.47:383][862]LogWorld: Bringing up level for play took: 0.001113
+[2018.03.11-14.14.47:384][862]PIE: /Game/StarterContent/Maps/UEDPIE_0_FPSTest的‘在编辑器中播放’的起始时间0.475
+[2018.03.11-14.15.13:087][341]BlueprintLog: New page: 编译FppShooter
+[2018.03.11-14.15.14:974][398]LogTemp: Repeating last play command: 选中的视口
+[2018.03.11-14.15.14:996][398]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.11-14.15.14:996][398]PIE: New page: PIE会话: FPSTest (2018年3月12日 上午6:15:14)
+[2018.03.11-14.15.14:996][398]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_FPSTest
+[2018.03.11-14.15.15:000][398]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003823s)
+[2018.03.11-14.15.15:001][398]LogAIModule: Creating AISystem for world FPSTest
+[2018.03.11-14.15.15:001][398]LogPlayLevel: PIE: World Init took: (0.000583s)
+[2018.03.11-14.15.15:001][398]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/FPSTest.FPSTest to /Game/StarterContent/Maps/UEDPIE_0_FPSTest.FPSTest (0.004671s)
+[2018.03.11-14.15.15:027][398]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.11-14.15.15:058][398]LogInit: FAudioDevice initialized.
+[2018.03.11-14.15.15:092][398]LogLoad: Game class is 'GameModeBase'
+[2018.03.11-14.15.15:093][398]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_FPSTest.FPSTest up for play (max tick rate 60) at 2018.03.11-22.15.15
+[2018.03.11-14.15.15:094][398]LogWorld: Bringing up level for play took: 0.001019
+[2018.03.11-14.15.15:094][398]PIE: /Game/StarterContent/Maps/UEDPIE_0_FPSTest的‘在编辑器中播放’的起始时间0.185
+[2018.03.11-14.16.27:762][650]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/FPSTest" FILE="F:/UnrealProject/FpsGame/Saved/Autosaves/Game/StarterContent/Maps/FPSTest_Auto4.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.03.11-14.16.27:821][650]LogSavePackage: Save=52.37ms
+[2018.03.11-14.16.27:821][650]LogSavePackage: Moving 'F:/UnrealProject/FpsGame/Saved/FPSTest_Auto45CA3B8FF468ECC2682922DBAFB79CF68.tmp' to 'F:/UnrealProject/FpsGame/Saved/Autosaves/Game/StarterContent/Maps/FPSTest_Auto4.umap'
+[2018.03.11-14.16.27:822][650]LogSavePackage: Display: Finished SavePackage F:/UnrealProject/FpsGame/Saved/Autosaves/Game/StarterContent/Maps/FPSTest_Auto4.umap
+[2018.03.11-14.16.27:824][650]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/FPSTest' took 0.265
+[2018.03.11-14.16.27:824][650]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.265
+[2018.03.11-14.16.27:828][650]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Blueprints/FppShooter] ([1] browsable assets)...
+[2018.03.11-14.16.27:867][650]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Assets/Blueprints/FppShooter.FppShooter]
+[2018.03.11-14.16.27:867][650]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Blueprints/FppShooter]
+[2018.03.11-14.16.27:867][650]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Blueprints/FppShooter" FILE="F:/UnrealProject/FpsGame/Saved/Autosaves/Game/Assets/Blueprints/FppShooter_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2018.03.11-14.16.27:933][650]LogSavePackage: Save=59.62ms
+[2018.03.11-14.16.27:933][650]LogSavePackage: Moving 'F:/UnrealProject/FpsGame/Saved/FppShooter_Auto4EAB0883B4F30D6B23E5800BD81F1D83C.tmp' to 'F:/UnrealProject/FpsGame/Saved/Autosaves/Game/Assets/Blueprints/FppShooter_Auto4.uasset'
+[2018.03.11-14.16.27:934][650]LogSavePackage: Display: Finished SavePackage F:/UnrealProject/FpsGame/Saved/Autosaves/Game/Assets/Blueprints/FppShooter_Auto4.uasset
+[2018.03.11-14.16.27:934][650]LogFileHelpers: Auto-saving content packages took 0.108
+[2018.03.11-14.34.23:463][360]BlueprintLog: New page: 编译FppShooter
+[2018.03.11-14.34.25:875][444]LogTemp: Repeating last play command: 选中的视口
+[2018.03.11-14.34.25:909][444]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.11-14.34.25:910][444]PIE: New page: PIE会话: FPSTest (2018年3月12日 上午6:34:25)
+[2018.03.11-14.34.25:910][444]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_FPSTest
+[2018.03.11-14.34.25:918][444]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008237s)
+[2018.03.11-14.34.25:926][444]LogAIModule: Creating AISystem for world FPSTest
+[2018.03.11-14.34.25:926][444]LogPlayLevel: PIE: World Init took: (0.008087s)
+[2018.03.11-14.34.25:927][444]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/FPSTest.FPSTest to /Game/StarterContent/Maps/UEDPIE_0_FPSTest.FPSTest (0.016610s)
+[2018.03.11-14.34.25:955][444]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.11-14.34.25:986][444]LogInit: FAudioDevice initialized.
+[2018.03.11-14.34.26:019][444]LogLoad: Game class is 'GameModeBase'
+[2018.03.11-14.34.26:023][444]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_FPSTest.FPSTest up for play (max tick rate 60) at 2018.03.11-22.34.26
+[2018.03.11-14.34.26:023][444]LogWorld: Bringing up level for play took: 0.001841
+[2018.03.11-14.34.26:025][444]PIE: /Game/StarterContent/Maps/UEDPIE_0_FPSTest的‘在编辑器中播放’的起始时间1.115
+[2018.03.11-14.36.21:792][242]BlueprintLog: New page: 编译FppShooter
+[2018.03.11-14.37.10:505][  9]BlueprintLog: New page: 编译FppShooter
+[2018.03.11-14.37.10:998][ 12]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Blueprints/FppShooter" FILE="F:/UnrealProject/FpsGame/Content/Assets/Blueprints/FppShooter.uasset" SILENT=true
+[2018.03.11-14.37.11:053][ 12]LogSavePackage: Save=49.43ms
+[2018.03.11-14.37.11:053][ 12]LogSavePackage: Moving 'F:/UnrealProject/FpsGame/Saved/FppShooter4972125F4A5BC9DD1A2AD79E92A82C2C.tmp' to 'F:/UnrealProject/FpsGame/Content/Assets/Blueprints/FppShooter.uasset'
+[2018.03.11-14.37.11:055][ 12]LogSavePackage: Display: Finished SavePackage F:/UnrealProject/FpsGame/Content/Assets/Blueprints/FppShooter.uasset
+[2018.03.11-14.37.12:861][ 88]LogTemp: Repeating last play command: 选中的视口
+[2018.03.11-14.37.12:882][ 88]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.11-14.37.12:882][ 88]PIE: New page: PIE会话: FPSTest (2018年3月12日 上午6:37:12)
+[2018.03.11-14.37.12:882][ 88]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_FPSTest
+[2018.03.11-14.37.12:886][ 88]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003813s)
+[2018.03.11-14.37.12:886][ 88]LogAIModule: Creating AISystem for world FPSTest
+[2018.03.11-14.37.12:887][ 88]LogPlayLevel: PIE: World Init took: (0.000606s)
+[2018.03.11-14.37.12:887][ 88]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/FPSTest.FPSTest to /Game/StarterContent/Maps/UEDPIE_0_FPSTest.FPSTest (0.004688s)
+[2018.03.11-14.37.12:915][ 88]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.11-14.37.12:945][ 88]LogInit: FAudioDevice initialized.
+[2018.03.11-14.37.12:976][ 88]LogLoad: Game class is 'GameModeBase'
+[2018.03.11-14.37.12:978][ 88]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_FPSTest.FPSTest up for play (max tick rate 60) at 2018.03.11-22.37.12
+[2018.03.11-14.37.12:978][ 88]LogWorld: Bringing up level for play took: 0.001330
+[2018.03.11-14.37.12:979][ 88]PIE: /Game/StarterContent/Maps/UEDPIE_0_FPSTest的‘在编辑器中播放’的起始时间0.069
+[2018.03.11-14.37.45:348][657]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/FPSTest" FILE="F:/UnrealProject/FpsGame/Saved/Autosaves/Game/StarterContent/Maps/FPSTest_Auto5.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.03.11-14.37.45:393][657]LogSavePackage: Save=39.39ms
+[2018.03.11-14.37.45:393][657]LogSavePackage: Moving 'F:/UnrealProject/FpsGame/Saved/FPSTest_Auto579B3408D49A417620A48489EDC39F75B.tmp' to 'F:/UnrealProject/FpsGame/Saved/Autosaves/Game/StarterContent/Maps/FPSTest_Auto5.umap'
+[2018.03.11-14.37.45:395][657]LogSavePackage: Display: Finished SavePackage F:/UnrealProject/FpsGame/Saved/Autosaves/Game/StarterContent/Maps/FPSTest_Auto5.umap
+[2018.03.11-14.37.45:397][657]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/FPSTest' took 0.066
+[2018.03.11-14.37.45:397][657]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.066
+[2018.03.11-14.39.40:851][993]BlueprintLog: New page: 编译FppShooter
+[2018.03.11-14.39.41:248][993]BlueprintLog: New page: 编译FppShooter
+[2018.03.11-14.40.00:771][115]BlueprintLog: New page: 编译FppShooter
+[2018.03.11-14.40.02:071][167]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Blueprints/FppShooter" FILE="F:/UnrealProject/FpsGame/Content/Assets/Blueprints/FppShooter.uasset" SILENT=true
+[2018.03.11-14.40.02:125][167]LogSavePackage: Save=49.91ms
+[2018.03.11-14.40.02:125][167]LogSavePackage: Moving 'F:/UnrealProject/FpsGame/Saved/FppShooterFC89728A494E0563D0E83C90346449E4.tmp' to 'F:/UnrealProject/FpsGame/Content/Assets/Blueprints/FppShooter.uasset'
+[2018.03.11-14.40.02:128][167]LogSavePackage: Display: Finished SavePackage F:/UnrealProject/FpsGame/Content/Assets/Blueprints/FppShooter.uasset
+[2018.03.11-14.40.18:804][162]BlueprintLog: New page: 编译FppShooter
+[2018.03.11-14.40.19:325][167]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Blueprints/FppShooter" FILE="F:/UnrealProject/FpsGame/Content/Assets/Blueprints/FppShooter.uasset" SILENT=true
+[2018.03.11-14.40.19:382][167]LogSavePackage: Save=52.45ms
+[2018.03.11-14.40.19:382][167]LogSavePackage: Moving 'F:/UnrealProject/FpsGame/Saved/FppShooter47EB9FE34A152362CF9DE293771D5E4A.tmp' to 'F:/UnrealProject/FpsGame/Content/Assets/Blueprints/FppShooter.uasset'
+[2018.03.11-14.40.19:384][167]LogSavePackage: Display: Finished SavePackage F:/UnrealProject/FpsGame/Content/Assets/Blueprints/FppShooter.uasset
+[2018.03.11-14.40.23:374][309]LogTemp: Repeating last play command: 选中的视口
+[2018.03.11-14.40.23:395][309]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.11-14.40.23:395][309]PIE: New page: PIE会话: FPSTest (2018年3月12日 上午6:40:23)
+[2018.03.11-14.40.23:395][309]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_FPSTest
+[2018.03.11-14.40.23:400][309]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004211s)
+[2018.03.11-14.40.23:400][309]LogAIModule: Creating AISystem for world FPSTest
+[2018.03.11-14.40.23:400][309]LogPlayLevel: PIE: World Init took: (0.000753s)
+[2018.03.11-14.40.23:401][309]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/FPSTest.FPSTest to /Game/StarterContent/Maps/UEDPIE_0_FPSTest.FPSTest (0.005335s)
+[2018.03.11-14.40.23:427][309]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.11-14.40.23:457][309]LogInit: FAudioDevice initialized.
+[2018.03.11-14.40.23:486][309]LogLoad: Game class is 'GameModeBase'
+[2018.03.11-14.40.23:488][309]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_FPSTest.FPSTest up for play (max tick rate 60) at 2018.03.11-22.40.23
+[2018.03.11-14.40.23:488][309]LogWorld: Bringing up level for play took: 0.001298
+[2018.03.11-14.40.23:489][309]PIE: /Game/StarterContent/Maps/UEDPIE_0_FPSTest的‘在编辑器中播放’的起始时间0.579
+[2018.03.11-14.43.25:177][451]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.03.11-14.44.35:793][618]BlueprintLog: New page: 编译RobotShooter
+[2018.03.11-14.45.13:601][690]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2018.03.11-14.45.30:092][292]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.Actor_4.DebugSkelMeshComponent_9) Already registered. Aborting.
+[2018.03.11-14.45.30:309][292]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_22:PersistentLevel.Actor_4.DebugSkelMeshComponent_9) - call TermArticulated first.
+[2018.03.11-14.47.48:292][219]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/FPSTest" FILE="F:/UnrealProject/FpsGame/Saved/Autosaves/Game/StarterContent/Maps/FPSTest_Auto6.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.03.11-14.47.48:341][219]LogSavePackage: Save=43.17ms
+[2018.03.11-14.47.48:341][219]LogSavePackage: Moving 'F:/UnrealProject/FpsGame/Saved/FPSTest_Auto61B8BC101442AFC9DF2DC88AC8370D0C9.tmp' to 'F:/UnrealProject/FpsGame/Saved/Autosaves/Game/StarterContent/Maps/FPSTest_Auto6.umap'
+[2018.03.11-14.47.48:342][219]LogSavePackage: Display: Finished SavePackage F:/UnrealProject/FpsGame/Saved/Autosaves/Game/StarterContent/Maps/FPSTest_Auto6.umap
+[2018.03.11-14.47.48:344][219]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/FPSTest' took 0.087
+[2018.03.11-14.47.48:344][219]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.087
+[2018.03.11-14.47.48:346][219]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Blueprints/RobotShooter] ([1] browsable assets)...
+[2018.03.11-14.47.48:360][219]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Assets/Blueprints/RobotShooter.RobotShooter]
+[2018.03.11-14.47.48:360][219]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Blueprints/RobotShooter]
+[2018.03.11-14.47.48:360][219]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Blueprints/RobotShooter" FILE="F:/UnrealProject/FpsGame/Saved/Autosaves/Game/Assets/Blueprints/RobotShooter_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2018.03.11-14.47.48:381][219]LogSavePackage: Save=20.69ms
+[2018.03.11-14.47.48:381][219]LogSavePackage: Moving 'F:/UnrealProject/FpsGame/Saved/RobotShooter_Auto6E8C382484FF245521359CE8239ECE6AB.tmp' to 'F:/UnrealProject/FpsGame/Saved/Autosaves/Game/Assets/Blueprints/RobotShooter_Auto6.uasset'
+[2018.03.11-14.47.48:383][219]LogSavePackage: Display: Finished SavePackage F:/UnrealProject/FpsGame/Saved/Autosaves/Game/Assets/Blueprints/RobotShooter_Auto6.uasset
+[2018.03.11-14.47.48:383][219]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Blueprints/RobotAnim] ([1] browsable assets)...
+[2018.03.11-14.47.48:395][219]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Assets/Blueprints/RobotAnim.RobotAnim]
+[2018.03.11-14.47.48:395][219]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Blueprints/RobotAnim]
+[2018.03.11-14.47.48:395][219]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Blueprints/RobotAnim" FILE="F:/UnrealProject/FpsGame/Saved/Autosaves/Game/Assets/Blueprints/RobotAnim_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2018.03.11-14.47.48:412][219]LogSavePackage: Save=15.34ms
+[2018.03.11-14.47.48:412][219]LogSavePackage: Moving 'F:/UnrealProject/FpsGame/Saved/RobotAnim_Auto6042E5F714CCE10013D884FB08D40AF0D.tmp' to 'F:/UnrealProject/FpsGame/Saved/Autosaves/Game/Assets/Blueprints/RobotAnim_Auto6.uasset'
+[2018.03.11-14.47.48:413][219]LogSavePackage: Display: Finished SavePackage F:/UnrealProject/FpsGame/Saved/Autosaves/Game/Assets/Blueprints/RobotAnim_Auto6.uasset
+[2018.03.11-14.47.48:413][219]LogFileHelpers: Auto-saving content packages took 0.068
+[2018.03.11-14.48.07:167][553]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.03.11-14.53.23:164][219]BlueprintLog: New page: 编译RobotControl
+[2018.03.11-14.53.23:565][229]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Blueprints/RobotControl" FILE="F:/UnrealProject/FpsGame/Content/Assets/Blueprints/RobotControl.uasset" SILENT=true
+[2018.03.11-14.53.23:581][229]LogSavePackage: Save=14.23ms
+[2018.03.11-14.53.23:581][229]LogSavePackage: Moving 'F:/UnrealProject/FpsGame/Saved/RobotControl60B6CE5C45E4BF72F377DCB0369AD3D1.tmp' to 'F:/UnrealProject/FpsGame/Content/Assets/Blueprints/RobotControl.uasset'
+[2018.03.11-14.53.23:583][229]LogSavePackage: Display: Finished SavePackage F:/UnrealProject/FpsGame/Content/Assets/Blueprints/RobotControl.uasset
+[2018.03.11-14.53.25:955][340]LogTemp: Repeating last play command: 选中的视口
+[2018.03.11-14.53.25:970][340]BlueprintLog: New page: 运行前自动重新编译
+[2018.03.11-14.53.25:972][340]LogPlayLevel: [PlayLevel] Compiling RobotAnim before play...
+[2018.03.11-14.53.26:085][340]LogPlayLevel: PlayLevel: Blueprint regeneration took 114 ms (1 blueprints)
+[2018.03.11-14.53.26:085][340]PIE: New page: PIE会话: FPSTest (2018年3月12日 上午6:53:26)
+[2018.03.11-14.53.26:085][340]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_FPSTest
+[2018.03.11-14.53.26:090][340]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004856s)
+[2018.03.11-14.53.26:091][340]LogAIModule: Creating AISystem for world FPSTest
+[2018.03.11-14.53.26:091][340]LogPlayLevel: PIE: World Init took: (0.000868s)
+[2018.03.11-14.53.26:091][340]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/FPSTest.FPSTest to /Game/StarterContent/Maps/UEDPIE_0_FPSTest.FPSTest (0.006158s)
+[2018.03.11-14.53.26:122][340]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.11-14.53.26:151][340]LogInit: FAudioDevice initialized.
+[2018.03.11-14.53.26:182][340]LogLoad: Game class is 'GameModeBase'
+[2018.03.11-14.53.26:184][340]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_FPSTest.FPSTest up for play (max tick rate 60) at 2018.03.11-22.53.26
+[2018.03.11-14.53.26:185][340]LogWorld: Bringing up level for play took: 0.002591
+[2018.03.11-14.53.26:187][340]PIE: /Game/StarterContent/Maps/UEDPIE_0_FPSTest的‘在编辑器中播放’的起始时间-0.723
+[2018.03.11-14.54.28:238][582]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_26:PersistentLevel.Actor_5.DebugSkelMeshComponent_11) Already registered. Aborting.
+[2018.03.11-14.54.28:260][582]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_26:PersistentLevel.Actor_5.DebugSkelMeshComponent_11) - call TermArticulated first.
+[2018.03.11-14.54.28:530][582]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.03.11-14.55.10:976][ 58]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Blueprints/RobotAniBlend" FILE="F:/UnrealProject/FpsGame/Content/Assets/Blueprints/RobotAniBlend.uasset" SILENT=true
+[2018.03.11-14.55.10:989][ 58]LogSavePackage: Save=10.98ms
+[2018.03.11-14.55.10:989][ 58]LogSavePackage: Moving 'F:/UnrealProject/FpsGame/Saved/RobotAniBlend5036F78449CDF7564D6A50AD50B7E4F8.tmp' to 'F:/UnrealProject/FpsGame/Content/Assets/Blueprints/RobotAniBlend.uasset'
+[2018.03.11-14.55.10:991][ 58]LogSavePackage: Display: Finished SavePackage F:/UnrealProject/FpsGame/Content/Assets/Blueprints/RobotAniBlend.uasset
+[2018.03.11-14.56.01:961][158]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Blueprints/RobotShooter" FILE="F:/UnrealProject/FpsGame/Content/Assets/Blueprints/RobotShooter.uasset" SILENT=true
+[2018.03.11-14.56.01:983][158]LogSavePackage: Save=20.12ms
+[2018.03.11-14.56.01:983][158]LogSavePackage: Moving 'F:/UnrealProject/FpsGame/Saved/RobotShooter71DDD61E4C57F381B82E018871B03886.tmp' to 'F:/UnrealProject/FpsGame/Content/Assets/Blueprints/RobotShooter.uasset'
+[2018.03.11-14.56.01:985][158]LogSavePackage: Display: Finished SavePackage F:/UnrealProject/FpsGame/Content/Assets/Blueprints/RobotShooter.uasset
+[2018.03.11-14.56.49:540][985]BlueprintLog: New page: 编译RobotControl
+[2018.03.11-14.57.31:564][383]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/FPSTest" FILE="F:/UnrealProject/FpsGame/Content/StarterContent/Maps/FPSTest.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.03.11-14.57.31:637][383]LogSavePackage: Save=46.67ms
+[2018.03.11-14.57.31:637][383]LogSavePackage: Moving 'F:/UnrealProject/FpsGame/Saved/FPSTest5B8E31884F0B1733E87471BE347B9F60.tmp' to 'F:/UnrealProject/FpsGame/Content/StarterContent/Maps/FPSTest.umap'
+[2018.03.11-14.57.31:639][383]LogSavePackage: Display: Finished SavePackage F:/UnrealProject/FpsGame/Content/StarterContent/Maps/FPSTest.umap
+[2018.03.11-14.57.31:659][383]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/FPSTest_BuiltData" FILE="F:/UnrealProject/FpsGame/Content/StarterContent/Maps/FPSTest_BuiltData.uasset" SILENT=true
+[2018.03.11-14.57.31:701][383]LogSavePackage: Save=37.40ms
+[2018.03.11-14.57.31:701][383]LogSavePackage: Moving 'F:/UnrealProject/FpsGame/Saved/FPSTest_BuiltData8E82AA6848604567CDBF43A9F87C627D.tmp' to 'F:/UnrealProject/FpsGame/Content/StarterContent/Maps/FPSTest_BuiltData.uasset'
+[2018.03.11-14.57.31:702][383]LogSavePackage: Display: Finished SavePackage F:/UnrealProject/FpsGame/Content/StarterContent/Maps/FPSTest_BuiltData.uasset
+[2018.03.11-14.57.36:422][661]LogTemp: Repeating last play command: 选中的视口
+[2018.03.11-14.57.36:438][661]BlueprintLog: New page: 运行前自动重新编译
+[2018.03.11-14.57.36:439][661]LogPlayLevel: [PlayLevel] Compiling RobotAnim before play...
+[2018.03.11-14.57.36:552][661]LogPlayLevel: PlayLevel: Blueprint regeneration took 114 ms (1 blueprints)
+[2018.03.11-14.57.36:552][661]PIE: New page: PIE会话: FPSTest (2018年3月12日 上午6:57:36)
+[2018.03.11-14.57.36:552][661]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_FPSTest
+[2018.03.11-14.57.36:557][661]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004751s)
+[2018.03.11-14.57.36:558][661]LogAIModule: Creating AISystem for world FPSTest
+[2018.03.11-14.57.36:558][661]LogPlayLevel: PIE: World Init took: (0.000623s)
+[2018.03.11-14.57.36:558][661]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/FPSTest.FPSTest to /Game/StarterContent/Maps/UEDPIE_0_FPSTest.FPSTest (0.005612s)
+[2018.03.11-14.57.36:586][661]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.11-14.57.36:616][661]LogInit: FAudioDevice initialized.
+[2018.03.11-14.57.36:651][661]LogLoad: Game class is 'GameModeBase'
+[2018.03.11-14.57.36:654][661]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_FPSTest.FPSTest up for play (max tick rate 60) at 2018.03.11-22.57.36
+[2018.03.11-14.57.36:654][661]LogWorld: Bringing up level for play took: 0.002059
+[2018.03.11-14.57.36:655][661]PIE: /Game/StarterContent/Maps/UEDPIE_0_FPSTest的‘在编辑器中播放’的起始时间-0.254
+[2018.03.11-14.57.51:901][469]LogEditorViewport: Clicking on Actor (LMB): RobotShooter_C (RobotShooter)
+[2018.03.11-14.57.54:253][605]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.03.11-14.58.20:483][163]LogTemp: Repeating last play command: 选中的视口
+[2018.03.11-14.58.20:500][163]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.11-14.58.20:500][163]PIE: New page: PIE会话: FPSTest (2018年3月12日 上午6:58:20)
+[2018.03.11-14.58.20:500][163]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_FPSTest
+[2018.03.11-14.58.20:505][163]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004766s)
+[2018.03.11-14.58.20:505][163]LogAIModule: Creating AISystem for world FPSTest
+[2018.03.11-14.58.20:505][163]LogPlayLevel: PIE: World Init took: (0.000729s)
+[2018.03.11-14.58.20:506][163]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/FPSTest.FPSTest to /Game/StarterContent/Maps/UEDPIE_0_FPSTest.FPSTest (0.005821s)
+[2018.03.11-14.58.20:540][163]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.11-14.58.20:568][163]LogInit: FAudioDevice initialized.
+[2018.03.11-14.58.20:602][163]LogLoad: Game class is 'GameModeBase'
+[2018.03.11-14.58.20:604][163]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_FPSTest.FPSTest up for play (max tick rate 60) at 2018.03.11-22.58.20
+[2018.03.11-14.58.20:604][163]LogWorld: Bringing up level for play took: 0.001694
+[2018.03.11-14.58.20:606][163]PIE: /Game/StarterContent/Maps/UEDPIE_0_FPSTest的‘在编辑器中播放’的起始时间-0.303
+[2018.03.11-14.59.07:502][671]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Blueprints/RobotControl" FILE="F:/UnrealProject/FpsGame/Content/Assets/Blueprints/RobotControl.uasset" SILENT=true
+[2018.03.11-14.59.07:521][671]LogSavePackage: Save=13.88ms
+[2018.03.11-14.59.07:521][671]LogSavePackage: Moving 'F:/UnrealProject/FpsGame/Saved/RobotControl4162611C45AFB41F9FE83EBE0C5255E6.tmp' to 'F:/UnrealProject/FpsGame/Content/Assets/Blueprints/RobotControl.uasset'
+[2018.03.11-14.59.07:523][671]LogSavePackage: Display: Finished SavePackage F:/UnrealProject/FpsGame/Content/Assets/Blueprints/RobotControl.uasset
+[2018.03.11-14.59.10:220][831]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Blueprints/RobotAnim" FILE="F:/UnrealProject/FpsGame/Content/Assets/Blueprints/RobotAnim.uasset" SILENT=true
+[2018.03.11-14.59.10:240][831]LogSavePackage: Save=18.07ms
+[2018.03.11-14.59.10:240][831]LogSavePackage: Moving 'F:/UnrealProject/FpsGame/Saved/RobotAnim2359D06E4C5F5E8225CB1587E113785D.tmp' to 'F:/UnrealProject/FpsGame/Content/Assets/Blueprints/RobotAnim.uasset'
+[2018.03.11-14.59.10:242][831]LogSavePackage: Display: Finished SavePackage F:/UnrealProject/FpsGame/Content/Assets/Blueprints/RobotAnim.uasset
+[2018.03.11-14.59.15:914][ 45]LogTemp: Repeating last play command: 选中的视口
+[2018.03.11-14.59.15:930][ 45]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.11-14.59.15:930][ 45]PIE: New page: PIE会话: FPSTest (2018年3月12日 上午6:59:15)
+[2018.03.11-14.59.15:930][ 45]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_FPSTest
+[2018.03.11-14.59.15:934][ 45]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004593s)
+[2018.03.11-14.59.15:935][ 45]LogAIModule: Creating AISystem for world FPSTest
+[2018.03.11-14.59.15:935][ 45]LogPlayLevel: PIE: World Init took: (0.000740s)
+[2018.03.11-14.59.15:936][ 45]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/FPSTest.FPSTest to /Game/StarterContent/Maps/UEDPIE_0_FPSTest.FPSTest (0.005681s)
+[2018.03.11-14.59.15:964][ 45]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.11-14.59.15:992][ 45]LogInit: FAudioDevice initialized.
+[2018.03.11-14.59.16:024][ 45]LogLoad: Game class is 'GameModeBase'
+[2018.03.11-14.59.16:026][ 45]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_FPSTest.FPSTest up for play (max tick rate 60) at 2018.03.11-22.59.16
+[2018.03.11-14.59.16:027][ 45]LogWorld: Bringing up level for play took: 0.002173
+[2018.03.11-14.59.16:028][ 45]PIE: /Game/StarterContent/Maps/UEDPIE_0_FPSTest的‘在编辑器中播放’的起始时间-0.882
+[2018.03.11-15.00.21:446][691]BlueprintLog: New page: 编译RobotControl
+[2018.03.11-15.00.24:487][817]LogTemp: Repeating last play command: 选中的视口
+[2018.03.11-15.00.24:501][817]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.11-15.00.24:501][817]PIE: New page: PIE会话: FPSTest (2018年3月12日 上午7:00:24)
+[2018.03.11-15.00.24:502][817]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_FPSTest
+[2018.03.11-15.00.24:506][817]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004731s)
+[2018.03.11-15.00.24:507][817]LogAIModule: Creating AISystem for world FPSTest
+[2018.03.11-15.00.24:507][817]LogPlayLevel: PIE: World Init took: (0.000752s)
+[2018.03.11-15.00.24:507][817]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/FPSTest.FPSTest to /Game/StarterContent/Maps/UEDPIE_0_FPSTest.FPSTest (0.005764s)
+[2018.03.11-15.00.24:536][817]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.11-15.00.24:566][817]LogInit: FAudioDevice initialized.
+[2018.03.11-15.00.24:600][817]LogLoad: Game class is 'GameModeBase'
+[2018.03.11-15.00.24:602][817]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_FPSTest.FPSTest up for play (max tick rate 60) at 2018.03.11-23.00.24
+[2018.03.11-15.00.24:603][817]LogWorld: Bringing up level for play took: 0.001875
+[2018.03.11-15.00.24:604][817]PIE: /Game/StarterContent/Maps/UEDPIE_0_FPSTest的‘在编辑器中播放’的起始时间-0.306
+[2018.03.11-15.02.56:888][724]BlueprintLog: New page: 编译RobotAnim
+[2018.03.11-15.02.56:894][724]LogBlueprint: Warning: [Compiler RobotAnim] Node  混合空间播放器'RobotAniBlend'  uses potentially thread-unsafe call  Try Get Pawn Owner . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.03.11-15.02.56:894][724]LogBlueprint: Warning: [Compiler RobotAnim] Node  混合空间播放器'RobotAniBlend'  uses potentially thread-unsafe call  Try Get Pawn Owner . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.03.11-15.02.56:894][724]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	RobotAnim_C /Engine/Transient.World_20:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.RobotAnim_C_1
+	Function /Game/Assets/Blueprints/RobotAnim.RobotAnim_C:ExecuteUbergraph_RobotAnim:0040
+[2018.03.11-15.02.56:895][724]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	RobotAnim_C /Engine/Transient.World_20:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0.RobotAnim_C_1
+	Function /Game/Assets/Blueprints/RobotAnim.RobotAnim_C:ExecuteUbergraph_RobotAnim:0040
+[2018.03.11-15.02.56:895][724]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	RobotAnim_C /Engine/Transient.World_22:PersistentLevel.Actor_4.DebugSkelMeshComponent_9.RobotAnim_C_2
+	Function /Game/Assets/Blueprints/RobotAnim.RobotAnim_C:ExecuteUbergraph_RobotAnim:0040
+[2018.03.11-15.02.56:895][724]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	RobotAnim_C /Engine/Transient.World_22:PersistentLevel.Actor_4.DebugSkelMeshComponent_9.RobotAnim_C_2
+	Function /Game/Assets/Blueprints/RobotAnim.RobotAnim_C:ExecuteUbergraph_RobotAnim:0040
+[2018.03.11-15.02.57:004][724]LogBlueprint: Warning: [Compiler RobotAnim] [5863.36] Compile of RobotAnim successful, but with 2 Warning(s) [in 115 ms] (/Game/Assets/Blueprints/RobotAnim.RobotAnim)
+[2018.03.11-15.02.57:007][724]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	RobotAnim_C /Engine/Transient.World_22:PersistentLevel.Actor_4.DebugSkelMeshComponent_9.RobotAnim_C_2
+	Function /Game/Assets/Blueprints/RobotAnim.RobotAnim_C:ExecuteUbergraph_RobotAnim:0040
+[2018.03.11-15.02.57:045][725]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	RobotAnim_C /Engine/Transient.World_22:PersistentLevel.Actor_4.DebugSkelMeshComponent_9.RobotAnim_C_2
+	Function /Game/Assets/Blueprints/RobotAnim.RobotAnim_C:ExecuteUbergraph_RobotAnim:0040
+[2018.03.11-15.02.57:063][726]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	RobotAnim_C /Engine/Transient.World_22:PersistentLevel.Actor_4.DebugSkelMeshComponent_9.RobotAnim_C_2
+	Function /Game/Assets/Blueprints/RobotAnim.RobotAnim_C:ExecuteUbergraph_RobotAnim:0040
+[2018.03.11-15.02.57:080][727]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	RobotAnim_C /Engine/Transient.World_22:PersistentLevel.Actor_4.DebugSkelMeshComponent_9.RobotAnim_C_2
+	Function /Game/Assets/Blueprints/RobotAnim.RobotAnim_C:ExecuteUbergraph_RobotAnim:0040
+[2018.03.11-15.02.57:097][728]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	RobotAnim_C /Engine/Transient.World_22:PersistentLevel.Actor_4.DebugSkelMeshComponent_9.RobotAnim_C_2
+	Function /Game/Assets/Blueprints/RobotAnim.RobotAnim_C:ExecuteUbergraph_RobotAnim:0040
+[2018.03.11-15.02.57:113][729]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	RobotAnim_C /Engine/Transient.World_22:PersistentLevel.Actor_4.DebugSkelMeshComponent_9.RobotAnim_C_2
+	Function /Game/Assets/Blueprints/RobotAnim.RobotAnim_C:ExecuteUbergraph_RobotAnim:0040
+[2018.03.11-15.02.57:130][730]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	RobotAnim_C /Engine/Transient.World_22:PersistentLevel.Actor_4.DebugSkelMeshComponent_9.RobotAnim_C_2
+	Function /Game/Assets/Blueprints/RobotAnim.RobotAnim_C:ExecuteUbergraph_RobotAnim:0040
+[2018.03.11-15.02.57:148][731]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	RobotAnim_C /Engine/Transient.World_22:PersistentLevel.Actor_4.DebugSkelMeshComponent_9.RobotAnim_C_2
+	Function /Game/Assets/Blueprints/RobotAnim.RobotAnim_C:ExecuteUbergraph_RobotAnim:0040
+[2018.03.11-15.02.57:166][732]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	RobotAnim_C /Engine/Transient.World_22:PersistentLevel.Actor_4.DebugSkelMeshComponent_9.RobotAnim_C_2
+	Function /Game/Assets/Blueprints/RobotAnim.RobotAnim_C:ExecuteUbergraph_RobotAnim:0040
+[2018.03.11-15.02.57:185][733]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	RobotAnim_C /Engine/Transient.World_22:PersistentLevel.Actor_4.DebugSkelMeshComponent_9.RobotAnim_C_2
+	Function /Game/Assets/Blueprints/RobotAnim.RobotAnim_C:ExecuteUbergraph_RobotAnim:0040
+[2018.03.11-15.02.57:201][734]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	RobotAnim_C /Engine/Transient.World_22:PersistentLevel.Actor_4.DebugSkelMeshComponent_9.RobotAnim_C_2
+	Function /Game/Assets/Blueprints/RobotAnim.RobotAnim_C:ExecuteUbergraph_RobotAnim:0040
+[2018.03.11-15.02.57:218][735]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	RobotAnim_C /Engine/Transient.World_22:PersistentLevel.Actor_4.DebugSkelMeshComponent_9.RobotAnim_C_2
+	Function /Game/Assets/Blueprints/RobotAnim.RobotAnim_C:ExecuteUbergraph_RobotAnim:0040
+[2018.03.11-15.02.57:234][736]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	RobotAnim_C /Engine/Transient.World_22:PersistentLevel.Actor_4.DebugSkelMeshComponent_9.RobotAnim_C_2
+	Function /Game/Assets/Blueprints/RobotAnim.RobotAnim_C:ExecuteUbergraph_RobotAnim:0040
+[2018.03.11-15.02.57:251][737]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	RobotAnim_C /Engine/Transient.World_22:PersistentLevel.Actor_4.DebugSkelMeshComponent_9.RobotAnim_C_2
+	Function /Game/Assets/Blueprints/RobotAnim.RobotAnim_C:ExecuteUbergraph_RobotAnim:0040
+[2018.03.11-15.02.57:268][738]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	RobotAnim_C /Engine/Transient.World_22:PersistentLevel.Actor_4.DebugSkelMeshComponent_9.RobotAnim_C_2
+	Function /Game/Assets/Blueprints/RobotAnim.RobotAnim_C:ExecuteUbergraph_RobotAnim:0040
+[2018.03.11-15.03.02:000][ 20]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Blueprints/RobotControl" FILE="F:/UnrealProject/FpsGame/Content/Assets/Blueprints/RobotControl.uasset" SILENT=true
+[2018.03.11-15.03.02:019][ 20]LogSavePackage: Save=14.99ms
+[2018.03.11-15.03.02:019][ 20]LogSavePackage: Moving 'F:/UnrealProject/FpsGame/Saved/RobotControlB16FF919400916D50AE5BD9A4144BD33.tmp' to 'F:/UnrealProject/FpsGame/Content/Assets/Blueprints/RobotControl.uasset'
+[2018.03.11-15.03.02:021][ 20]LogSavePackage: Display: Finished SavePackage F:/UnrealProject/FpsGame/Content/Assets/Blueprints/RobotControl.uasset
+[2018.03.11-15.03.04:658][172]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Blueprints/RobotAnim" FILE="F:/UnrealProject/FpsGame/Content/Assets/Blueprints/RobotAnim.uasset" SILENT=true
+[2018.03.11-15.03.04:705][172]LogSavePackage: Save=41.64ms
+[2018.03.11-15.03.04:705][172]LogSavePackage: Moving 'F:/UnrealProject/FpsGame/Saved/RobotAnim3AEE052143E3A4DC3877E1A6289D2A5E.tmp' to 'F:/UnrealProject/FpsGame/Content/Assets/Blueprints/RobotAnim.uasset'
+[2018.03.11-15.03.04:707][172]LogSavePackage: Display: Finished SavePackage F:/UnrealProject/FpsGame/Content/Assets/Blueprints/RobotAnim.uasset
+[2018.03.11-15.03.06:979][275]LogTemp: Repeating last play command: 选中的视口
+[2018.03.11-15.03.06:994][275]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.11-15.03.06:994][275]PIE: New page: PIE会话: FPSTest (2018年3月12日 上午7:03:06)
+[2018.03.11-15.03.06:994][275]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_FPSTest
+[2018.03.11-15.03.06:999][275]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005441s)
+[2018.03.11-15.03.07:000][275]LogAIModule: Creating AISystem for world FPSTest
+[2018.03.11-15.03.07:000][275]LogPlayLevel: PIE: World Init took: (0.000702s)
+[2018.03.11-15.03.07:000][275]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/FPSTest.FPSTest to /Game/StarterContent/Maps/UEDPIE_0_FPSTest.FPSTest (0.006383s)
+[2018.03.11-15.03.07:028][275]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.11-15.03.07:058][275]LogInit: FAudioDevice initialized.
+[2018.03.11-15.03.07:089][275]LogLoad: Game class is 'GameModeBase'
+[2018.03.11-15.03.07:092][275]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_FPSTest.FPSTest up for play (max tick rate 60) at 2018.03.11-23.03.07
+[2018.03.11-15.03.07:092][275]LogWorld: Bringing up level for play took: 0.001866
+[2018.03.11-15.03.07:093][275]PIE: /Game/StarterContent/Maps/UEDPIE_0_FPSTest的‘在编辑器中播放’的起始时间0.183
+[2018.03.11-15.03.26:738][404]BlueprintLog: New page: 编译RobotControl
+[2018.03.11-15.03.27:494][436]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Blueprints/RobotControl" FILE="F:/UnrealProject/FpsGame/Content/Assets/Blueprints/RobotControl.uasset" SILENT=true
+[2018.03.11-15.03.27:512][436]LogSavePackage: Save=14.10ms
+[2018.03.11-15.03.27:512][436]LogSavePackage: Moving 'F:/UnrealProject/FpsGame/Saved/RobotControl68D0D5534FFE5748201809978866AEE5.tmp' to 'F:/UnrealProject/FpsGame/Content/Assets/Blueprints/RobotControl.uasset'
+[2018.03.11-15.03.27:515][436]LogSavePackage: Display: Finished SavePackage F:/UnrealProject/FpsGame/Content/Assets/Blueprints/RobotControl.uasset
+[2018.03.11-15.03.36:337][917]LogTemp: Repeating last play command: 选中的视口
+[2018.03.11-15.03.36:352][917]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.11-15.03.36:353][917]PIE: New page: PIE会话: FPSTest (2018年3月12日 上午7:03:36)
+[2018.03.11-15.03.36:353][917]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_FPSTest
+[2018.03.11-15.03.36:357][917]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004492s)
+[2018.03.11-15.03.36:358][917]LogAIModule: Creating AISystem for world FPSTest
+[2018.03.11-15.03.36:358][917]LogPlayLevel: PIE: World Init took: (0.000683s)
+[2018.03.11-15.03.36:358][917]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/FPSTest.FPSTest to /Game/StarterContent/Maps/UEDPIE_0_FPSTest.FPSTest (0.005455s)
+[2018.03.11-15.03.36:424][917]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.11-15.03.36:454][917]LogInit: FAudioDevice initialized.
+[2018.03.11-15.03.36:489][917]LogLoad: Game class is 'GameModeBase'
+[2018.03.11-15.03.36:492][917]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_FPSTest.FPSTest up for play (max tick rate 60) at 2018.03.11-23.03.36
+[2018.03.11-15.03.36:492][917]LogWorld: Bringing up level for play took: 0.001799
+[2018.03.11-15.03.36:493][917]PIE: /Game/StarterContent/Maps/UEDPIE_0_FPSTest的‘在编辑器中播放’的起始时间-0.417
+[2018.03.11-15.07.06:041][920]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.03.11-15.07.06:262][920]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.03.11-15.07.07:879][944]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Characters/Models/HeroFPP_Skeleton" FILE="F:/UnrealProject/FpsGame/Content/Assets/Characters/Models/HeroFPP_Skeleton.uasset" SILENT=true
+[2018.03.11-15.07.07:889][944]LogSavePackage: Save=4.12ms
+[2018.03.11-15.07.07:889][944]LogSavePackage: Moving 'F:/UnrealProject/FpsGame/Saved/HeroFPP_Skeleton8EA991354E816E4F0EF622A1711C9B11.tmp' to 'F:/UnrealProject/FpsGame/Content/Assets/Characters/Models/HeroFPP_Skeleton.uasset'
+[2018.03.11-15.07.07:891][944]LogSavePackage: Display: Finished SavePackage F:/UnrealProject/FpsGame/Content/Assets/Characters/Models/HeroFPP_Skeleton.uasset
+[2018.03.11-15.07.07:983][944]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Maps/FPSTest" FILE="F:/UnrealProject/FpsGame/Content/StarterContent/Maps/FPSTest.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.03.11-15.07.08:053][944]LogSavePackage: Save=48.73ms
+[2018.03.11-15.07.08:053][944]LogSavePackage: Moving 'F:/UnrealProject/FpsGame/Saved/FPSTest145EF197494863BE69FF7E93B832D35A.tmp' to 'F:/UnrealProject/FpsGame/Content/StarterContent/Maps/FPSTest.umap'
+[2018.03.11-15.07.08:056][944]LogSavePackage: Display: Finished SavePackage F:/UnrealProject/FpsGame/Content/StarterContent/Maps/FPSTest.umap
+[2018.03.11-15.07.08:072][944]LogFileHelpers: Saving map 'FPSTest' took 0.176
+[2018.03.11-15.07.08:122][944]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (微软拼音).
+[2018.03.11-15.07.08:320][945]Cmd: QUIT_EDITOR
+[2018.03.11-15.07.08:651][945]LogExit: Preparing to exit.
+[2018.03.11-15.07.09:566][945]LogExit: Editor shut down
+[2018.03.11-15.07.09:595][945]LogExit: Transaction tracking system shut down
+[2018.03.11-15.07.09:847][945]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.03.11-15.07.09:847][945]LogDirectoryWatcher: A directory notification for 'F:/UnrealProject/FpsGame/Content/' was aborted.
+[2018.03.11-15.07.09:847][945]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2018.03.11-15.07.09:847][945]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.03.11-15.07.09:847][945]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.03.11-15.07.09:847][945]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.03.11-15.07.09:847][945]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.03.11-15.07.09:995][945]LogExit: Object subsystem successfully closed.
+[2018.03.11-15.07.10:028][945]LogD3D11RHI: Shutdown
+[2018.03.11-15.07.10:028][945]LogD3D11RHI: CleanupD3DDevice
+[2018.03.11-15.07.10:038][945]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.03.11-15.07.10:061][945]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (562)
+[2018.03.11-15.07.10:061][945]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (560)
+[2018.03.11-15.07.10:061][945]LogModuleManager: Shutting down and abandoning module AnimationEditor (558)
+[2018.03.11-15.07.10:061][945]LogModuleManager: Shutting down and abandoning module ClothingSystemEditorInterface (556)
+[2018.03.11-15.07.10:061][945]LogModuleManager: Shutting down and abandoning module SkeletonEditor (554)
+[2018.03.11-15.07.10:061][945]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (552)
+[2018.03.11-15.07.10:061][945]LogModuleManager: Shutting down and abandoning module BlueprintGraph (550)
+[2018.03.11-15.07.10:061][945]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (548)
+[2018.03.11-15.07.10:061][945]LogModuleManager: Shutting down and abandoning module SceneOutliner (546)
+[2018.03.11-15.07.10:061][945]LogModuleManager: Shutting down and abandoning module AddContentDialog (544)
+[2018.03.11-15.07.10:062][945]LogDirectoryWatcher: A directory notification for 'D:/Program Files/Epic Games/UE_4.18/FeaturePacks/' was aborted.
+[2018.03.11-15.07.10:067][945]LogModuleManager: Shutting down and abandoning module WidgetCarousel (543)
+[2018.03.11-15.07.10:067][945]LogModuleManager: Shutting down and abandoning module EditorWidgets (540)
+[2018.03.11-15.07.10:067][945]LogModuleManager: Shutting down and abandoning module CollectionManager (538)
+[2018.03.11-15.07.10:067][945]LogDirectoryWatcher: A directory notification for 'F:/UnrealProject/FpsGame/Content/Collections/' was aborted.
+[2018.03.11-15.07.10:067][945]LogDirectoryWatcher: A directory notification for 'F:/UnrealProject/FpsGame/Content/Developers/VULCAN/Collections/' was aborted.
+[2018.03.11-15.07.10:067][945]LogDirectoryWatcher: A directory notification for 'F:/UnrealProject/FpsGame/Saved/Collections/' was aborted.
+[2018.03.11-15.07.10:067][945]LogModuleManager: Shutting down and abandoning module StatsViewer (536)
+[2018.03.11-15.07.10:067][945]LogModuleManager: Shutting down and abandoning module FoliageEdit (534)
+[2018.03.11-15.07.10:067][945]LogModuleManager: Shutting down and abandoning module LandscapeEditor (532)
+[2018.03.11-15.07.10:067][945]LogModuleManager: Shutting down and abandoning module MeshPaintMode (530)
+[2018.03.11-15.07.10:067][945]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (528)
+[2018.03.11-15.07.10:067][945]LogModuleManager: Shutting down and abandoning module ActorPickerMode (526)
+[2018.03.11-15.07.10:067][945]LogModuleManager: Shutting down and abandoning module GeometryMode (524)
+[2018.03.11-15.07.10:067][945]LogModuleManager: Shutting down and abandoning module TextureAlignMode (522)
+[2018.03.11-15.07.10:067][945]LogModuleManager: Shutting down and abandoning module BspMode (520)
+[2018.03.11-15.07.10:067][945]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (518)
+[2018.03.11-15.07.10:067][945]LogModuleManager: Shutting down and abandoning module HardwareSurvey (516)
+[2018.03.11-15.07.10:068][945]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (514)
+[2018.03.11-15.07.10:068][945]LogModuleManager: Shutting down and abandoning module AutomationWorker (512)
+[2018.03.11-15.07.10:068][945]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (510)
+[2018.03.11-15.07.10:068][945]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (508)
+[2018.03.11-15.07.10:068][945]LogModuleManager: Shutting down and abandoning module PlacementMode (507)
+[2018.03.11-15.07.10:068][945]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (504)
+[2018.03.11-15.07.10:068][945]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (502)
+[2018.03.11-15.07.10:068][945]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (500)
+[2018.03.11-15.07.10:068][945]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (498)
+[2018.03.11-15.07.10:068][945]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (496)
+[2018.03.11-15.07.10:068][945]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (494)
+[2018.03.11-15.07.10:068][945]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (492)
+[2018.03.11-15.07.10:068][945]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (490)
+[2018.03.11-15.07.10:068][945]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (488)
+[2018.03.11-15.07.10:068][945]LogModuleManager: Shutting down and abandoning module CharacterAI (486)
+[2018.03.11-15.07.10:068][945]LogModuleManager: Shutting down and abandoning module AudioCapture (484)
+[2018.03.11-15.07.10:068][945]LogModuleManager: Shutting down and abandoning module SequenceRecorder (483)
+[2018.03.11-15.07.10:068][945]LogModuleManager: Shutting down and abandoning module SmartSnapping (480)
+[2018.03.11-15.07.10:068][945]LogModuleManager: Shutting down and abandoning module SessionServices (478)
+[2018.03.11-15.07.10:068][945]LogModuleManager: Shutting down and abandoning module ViewportSnapping (476)
+[2018.03.11-15.07.10:068][945]LogModuleManager: Shutting down and abandoning module ViewportInteraction (474)
+[2018.03.11-15.07.10:068][945]LogModuleManager: Shutting down and abandoning module ClothPainter (472)
+[2018.03.11-15.07.10:068][945]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (471)
+[2018.03.11-15.07.10:068][945]LogModuleManager: Shutting down and abandoning module LogVisualizer (468)
+[2018.03.11-15.07.10:068][945]LogModuleManager: Shutting down and abandoning module IntroTutorials (466)
+[2018.03.11-15.07.10:068][945]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (465)
+[2018.03.11-15.07.10:068][945]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (462)
+[2018.03.11-15.07.10:068][945]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (460)
+[2018.03.11-15.07.10:068][945]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (458)
+[2018.03.11-15.07.10:068][945]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (457)
+[2018.03.11-15.07.10:274][945]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (454)
+[2018.03.11-15.07.10:274][945]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (452)
+[2018.03.11-15.07.10:274][945]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (450)
+[2018.03.11-15.07.10:274][945]LogModuleManager: Shutting down and abandoning module InputBindingEditor (448)
+[2018.03.11-15.07.10:274][945]LogModuleManager: Shutting down and abandoning module MergeActors (446)
+[2018.03.11-15.07.10:274][945]LogModuleManager: Shutting down and abandoning module SizeMap (444)
+[2018.03.11-15.07.10:274][945]LogModuleManager: Shutting down and abandoning module TreeMap (442)
+[2018.03.11-15.07.10:274][945]LogModuleManager: Shutting down and abandoning module ReferenceViewer (440)
+[2018.03.11-15.07.10:274][945]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (438)
+[2018.03.11-15.07.10:274][945]LogModuleManager: Shutting down and abandoning module LocalizationService (437)
+[2018.03.11-15.07.10:274][945]LogModuleManager: Shutting down and abandoning module HardwareTargeting (434)
+[2018.03.11-15.07.10:274][945]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (432)
+[2018.03.11-15.07.10:274][945]LogModuleManager: Shutting down and abandoning module UndoHistory (430)
+[2018.03.11-15.07.10:275][945]LogModuleManager: Shutting down and abandoning module XmlParser (428)
+[2018.03.11-15.07.10:275][945]LogModuleManager: Shutting down and abandoning module Blutility (426)
+[2018.03.11-15.07.10:275][945]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (424)
+[2018.03.11-15.07.10:275][945]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (423)
+[2018.03.11-15.07.10:275][945]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (420)
+[2018.03.11-15.07.10:275][945]LogModuleManager: Shutting down and abandoning module SettingsEditor (418)
+[2018.03.11-15.07.10:275][945]LogModuleManager: Shutting down and abandoning module ProjectLauncher (416)
+[2018.03.11-15.07.10:275][945]LogModuleManager: Shutting down and abandoning module SessionFrontend (414)
+[2018.03.11-15.07.10:275][945]LogModuleManager: Shutting down and abandoning module ProfilerClient (412)
+[2018.03.11-15.07.10:275][945]LogModuleManager: Shutting down and abandoning module DeviceManager (410)
+[2018.03.11-15.07.10:275][945]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (409)
+[2018.03.11-15.07.10:318][945]LogModuleManager: Shutting down and abandoning module AutomationController (406)
+[2018.03.11-15.07.10:318][945]LogModuleManager: Shutting down and abandoning module AutomationWindow (404)
+[2018.03.11-15.07.10:318][945]LogModuleManager: Shutting down and abandoning module Layers (402)
+[2018.03.11-15.07.10:318][945]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (400)
+[2018.03.11-15.07.10:318][945]LogModuleManager: Shutting down and abandoning module DetailCustomizations (398)
+[2018.03.11-15.07.10:318][945]LogModuleManager: Shutting down and abandoning module PackagesDialog (396)
+[2018.03.11-15.07.10:318][945]LogModuleManager: Shutting down and abandoning module Persona (394)
+[2018.03.11-15.07.10:318][945]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (393)
+[2018.03.11-15.07.10:318][945]LogModuleManager: Shutting down and abandoning module AnimGraph (391)
+[2018.03.11-15.07.10:318][945]LogModuleManager: Shutting down and abandoning module Kismet (388)
+[2018.03.11-15.07.10:326][945]LogModuleManager: Shutting down and abandoning module ClassViewer (386)
+[2018.03.11-15.07.10:327][945]LogModuleManager: Shutting down and abandoning module Toolbox (384)
+[2018.03.11-15.07.10:327][945]LogModuleManager: Shutting down and abandoning module ModuleUI (382)
+[2018.03.11-15.07.10:327][945]LogModuleManager: Shutting down and abandoning module MovieSceneTools (380)
+[2018.03.11-15.07.10:328][945]LogModuleManager: Shutting down and abandoning module OutputLog (378)
+[2018.03.11-15.07.10:328][945]LogModuleManager: Shutting down and abandoning module GammaUI (376)
+[2018.03.11-15.07.10:328][945]LogModuleManager: Shutting down and abandoning module Documentation (374)
+[2018.03.11-15.07.10:328][945]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (372)
+[2018.03.11-15.07.10:328][945]LogModuleManager: Shutting down and abandoning module MovieScene (370)
+[2018.03.11-15.07.10:328][945]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (368)
+[2018.03.11-15.07.10:328][945]LogModuleManager: Shutting down and abandoning module LauncherPlatform (366)
+[2018.03.11-15.07.10:328][945]LogModuleManager: Shutting down and abandoning module AnalyticsET (364)
+[2018.03.11-15.07.10:328][945]LogModuleManager: Shutting down and abandoning module PortalServices (362)
+[2018.03.11-15.07.10:328][945]LogModuleManager: Shutting down and abandoning module PortalRpc (360)
+[2018.03.11-15.07.10:328][945]LogModuleManager: Shutting down and abandoning module MessagingRpc (358)
+[2018.03.11-15.07.10:328][945]LogModuleManager: Shutting down and abandoning module AIModule (356)
+[2018.03.11-15.07.10:328][945]LogModuleManager: Shutting down and abandoning module GameplayDebugger (355)
+[2018.03.11-15.07.10:328][945]LogModuleManager: Shutting down and abandoning module AITestSuite (353)
+[2018.03.11-15.07.10:328][945]LogModuleManager: Shutting down and abandoning module DesktopPlatform (350)
+[2018.03.11-15.07.10:328][945]LogModuleManager: Shutting down and abandoning module ProfilerService (348)
+[2018.03.11-15.07.10:481][945]LogModuleManager: Shutting down and abandoning module TaskGraph (346)
+[2018.03.11-15.07.10:481][945]LogModuleManager: Shutting down and abandoning module SteamVRController (344)
+[2018.03.11-15.07.10:481][945]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (342)
+[2018.03.11-15.07.10:481][945]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (340)
+[2018.03.11-15.07.10:481][945]LogModuleManager: Shutting down and abandoning module OculusInput (338)
+[2018.03.11-15.07.10:481][945]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (336)
+[2018.03.11-15.07.10:481][945]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (334)
+[2018.03.11-15.07.10:481][945]LogModuleManager: Shutting down and abandoning module CableComponent (332)
+[2018.03.11-15.07.10:481][945]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (330)
+[2018.03.11-15.07.10:481][945]LogModuleManager: Shutting down and abandoning module AndroidPermission (328)
+[2018.03.11-15.07.10:481][945]LogModuleManager: Shutting down and abandoning module ActorSequence (324)
+[2018.03.11-15.07.10:481][945]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (322)
+[2018.03.11-15.07.10:481][945]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (320)
+[2018.03.11-15.07.10:481][945]LogModuleManager: Shutting down and abandoning module MediaCompositing (318)
+[2018.03.11-15.07.10:481][945]LogModuleManager: Shutting down and abandoning module HTML5Networking (316)
+[2018.03.11-15.07.10:481][945]LogModuleManager: Shutting down and abandoning module AlembicImporter (314)
+[2018.03.11-15.07.10:481][945]LogModuleManager: Shutting down and abandoning module AlembicLibrary (313)
+[2018.03.11-15.07.10:481][945]LogModuleManager: Shutting down and abandoning module GeometryCache (312)
+[2018.03.11-15.07.10:481][945]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (311)
+[2018.03.11-15.07.10:481][945]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (306)
+[2018.03.11-15.07.10:481][945]LogModuleManager: Shutting down and abandoning module PluginBrowser (304)
+[2018.03.11-15.07.10:481][945]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (302)
+[2018.03.11-15.07.10:481][945]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (300)
+[2018.03.11-15.07.10:481][945]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (298)
+[2018.03.11-15.07.10:481][945]LogModuleManager: Shutting down and abandoning module UObjectPlugin (296)
+[2018.03.11-15.07.10:481][945]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (294)
+[2018.03.11-15.07.10:481][945]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (292)
+[2018.03.11-15.07.10:482][945]LogModuleManager: Shutting down and abandoning module GitSourceControl (290)
+[2018.03.11-15.07.10:482][945]LogModuleManager: Shutting down and abandoning module SourceControl (289)
+[2018.03.11-15.07.10:482][945]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (286)
+[2018.03.11-15.07.10:482][945]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (284)
+[2018.03.11-15.07.10:482][945]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (282)
+[2018.03.11-15.07.10:482][945]LogModuleManager: Shutting down and abandoning module Paper2DEditor (280)
+[2018.03.11-15.07.10:482][945]LogModuleManager: Shutting down and abandoning module MeshPaint (279)
+[2018.03.11-15.07.10:482][945]LogModuleManager: Shutting down and abandoning module LevelEditor (277)
+[2018.03.11-15.07.10:483][945]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (276)
+[2018.03.11-15.07.10:483][945]LogModuleManager: Shutting down and abandoning module MainFrame (274)
+[2018.03.11-15.07.10:483][945]LogModuleManager: Shutting down and abandoning module HotReload (273)
+[2018.03.11-15.07.10:484][945]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (268)
+[2018.03.11-15.07.10:484][945]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (266)
+[2018.03.11-15.07.10:484][945]LogModuleManager: Shutting down and abandoning module PhysXVehicles (264)
+[2018.03.11-15.07.10:484][945]LogModuleManager: Shutting down and abandoning module OculusEditor (262)
+[2018.03.11-15.07.10:484][945]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (260)
+[2018.03.11-15.07.10:484][945]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (258)
+[2018.03.11-15.07.10:484][945]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (256)
+[2018.03.11-15.07.10:484][945]LogModuleManager: Shutting down and abandoning module UdpMessaging (254)
+[2018.03.11-15.07.10:584][945]LogModuleManager: Shutting down and abandoning module TcpMessaging (252)
+[2018.03.11-15.07.10:685][945]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (250)
+[2018.03.11-15.07.10:685][945]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (248)
+[2018.03.11-15.07.10:685][945]LogModuleManager: Shutting down and abandoning module FacialAnimation (246)
+[2018.03.11-15.07.10:685][945]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (244)
+[2018.03.11-15.07.10:685][945]LogModuleManager: Shutting down and abandoning module GraphEditor (243)
+[2018.03.11-15.07.10:685][945]LogModuleManager: Shutting down and abandoning module ContentBrowser (241)
+[2018.03.11-15.07.10:687][945]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2018.03.11-15.07.10:687][945]LogModuleManager: Shutting down and abandoning module Paper2D (236)
+[2018.03.11-15.07.10:687][945]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (234)
+[2018.03.11-15.07.10:687][945]LogModuleManager: Shutting down and abandoning module WmfMedia (232)
+[2018.03.11-15.07.10:689][945]LogModuleManager: Shutting down and abandoning module ImgMedia (230)
+[2018.03.11-15.07.10:689][945]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2018.03.11-15.07.10:689][945]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2018.03.11-15.07.10:689][945]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2018.03.11-15.07.10:690][945]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2018.03.11-15.07.10:690][945]LogModuleManager: Shutting down and abandoning module Media (221)
+[2018.03.11-15.07.10:696][945]LogModuleManager: Shutting down and abandoning module Overlay (218)
+[2018.03.11-15.07.10:696][945]LogModuleManager: Shutting down and abandoning module OverlayEditor (217)
+[2018.03.11-15.07.10:696][945]LogModuleManager: Shutting down and abandoning module VREditor (214)
+[2018.03.11-15.07.10:696][945]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
+[2018.03.11-15.07.10:696][945]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
+[2018.03.11-15.07.10:696][945]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
+[2018.03.11-15.07.10:696][945]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
+[2018.03.11-15.07.10:696][945]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
+[2018.03.11-15.07.10:696][945]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
+[2018.03.11-15.07.10:696][945]LogModuleManager: Shutting down and abandoning module UMG (200)
+[2018.03.11-15.07.10:696][945]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
+[2018.03.11-15.07.10:696][945]LogModuleManager: Shutting down and abandoning module Sequencer (198)
+[2018.03.11-15.07.10:696][945]LogModuleManager: Shutting down and abandoning module MessageLog (195)
+[2018.03.11-15.07.10:696][945]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
+[2018.03.11-15.07.10:697][945]LogModuleManager: Shutting down and abandoning module Slate (188)
+[2018.03.11-15.07.10:697][945]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
+[2018.03.11-15.07.10:700][945]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2018.03.11-15.07.10:700][945]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2018.03.11-15.07.10:700][945]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2018.03.11-15.07.10:700][945]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2018.03.11-15.07.10:700][945]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2018.03.11-15.07.10:700][945]LogModuleManager: Shutting down and abandoning module Core (172)
+[2018.03.11-15.07.10:700][945]LogModuleManager: Shutting down and abandoning module LevelSequence (168)
+[2018.03.11-15.07.10:700][945]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (166)
+[2018.03.11-15.07.10:706][945]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2018.03.11-15.07.10:706][945]LogModuleManager: Shutting down and abandoning module MeshUtilities (162)
+[2018.03.11-15.07.10:706][945]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (161)
+[2018.03.11-15.07.10:706][945]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (160)
+[2018.03.11-15.07.10:706][945]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (159)
+[2018.03.11-15.07.10:706][945]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (157)
+[2018.03.11-15.07.10:706][945]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (155)
+[2018.03.11-15.07.10:706][945]LogModuleManager: Shutting down and abandoning module MaterialBaking (151)
+[2018.03.11-15.07.10:706][945]LogModuleManager: Shutting down and abandoning module DerivedDataCache (148)
+[2018.03.11-15.07.10:794][945]LogDerivedDataCache: Shutdown
+[2018.03.11-15.07.10:794][945]LogModuleManager: Shutting down and abandoning module TargetPlatform (146)
+[2018.03.11-15.07.10:794][945]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (145)
+[2018.03.11-15.07.10:794][945]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (143)
+[2018.03.11-15.07.10:794][945]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (141)
+[2018.03.11-15.07.10:794][945]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (139)
+[2018.03.11-15.07.10:794][945]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (137)
+[2018.03.11-15.07.10:794][945]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (135)
+[2018.03.11-15.07.10:794][945]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (133)
+[2018.03.11-15.07.10:794][945]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (131)
+[2018.03.11-15.07.10:794][945]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (129)
+[2018.03.11-15.07.10:794][945]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (127)
+[2018.03.11-15.07.10:794][945]LogModuleManager: Shutting down and abandoning module ImageWrapper (126)
+[2018.03.11-15.07.10:794][945]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (123)
+[2018.03.11-15.07.10:794][945]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (121)
+[2018.03.11-15.07.10:794][945]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (119)
+[2018.03.11-15.07.10:794][945]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (117)
+[2018.03.11-15.07.10:794][945]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (115)
+[2018.03.11-15.07.10:794][945]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (113)
+[2018.03.11-15.07.10:795][945]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (111)
+[2018.03.11-15.07.10:795][945]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (109)
+[2018.03.11-15.07.10:795][945]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (107)
+[2018.03.11-15.07.10:795][945]LogModuleManager: Shutting down and abandoning module Messaging (105)
+[2018.03.11-15.07.10:795][945]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (103)
+[2018.03.11-15.07.10:795][945]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (101)
+[2018.03.11-15.07.10:795][945]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (99)
+[2018.03.11-15.07.10:795][945]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (97)
+[2018.03.11-15.07.10:795][945]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (95)
+[2018.03.11-15.07.10:795][945]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (93)
+[2018.03.11-15.07.10:795][945]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (91)
+[2018.03.11-15.07.10:795][945]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (89)
+[2018.03.11-15.07.10:795][945]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (87)
+[2018.03.11-15.07.10:795][945]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (85)
+[2018.03.11-15.07.10:795][945]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (83)
+[2018.03.11-15.07.10:795][945]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (81)
+[2018.03.11-15.07.10:795][945]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (79)
+[2018.03.11-15.07.10:795][945]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (77)
+[2018.03.11-15.07.10:795][945]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (75)
+[2018.03.11-15.07.10:795][945]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (73)
+[2018.03.11-15.07.10:795][945]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (71)
+[2018.03.11-15.07.10:795][945]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (69)
+[2018.03.11-15.07.10:795][945]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (67)
+[2018.03.11-15.07.10:795][945]LogModuleManager: Shutting down and abandoning module InputCore (64)
+[2018.03.11-15.07.10:795][945]LogModuleManager: Shutting down and abandoning module Settings (62)
+[2018.03.11-15.07.10:795][945]LogModuleManager: Shutting down and abandoning module PhysXCooking (60)
+[2018.03.11-15.07.10:795][945]LogModuleManager: Shutting down and abandoning module SteamVR (58)
+[2018.03.11-15.07.10:795][945]LogModuleManager: Shutting down and abandoning module OculusHMD (56)
+[2018.03.11-15.07.10:795][945]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (54)
+[2018.03.11-15.07.10:795][945]LogModuleManager: Shutting down and abandoning module AppleARKit (52)
+[2018.03.11-15.07.10:795][945]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.03.11-15.07.10:795][945]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.03.11-15.07.10:795][945]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.03.11-15.07.10:795][945]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.03.11-15.07.10:795][945]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.03.11-15.07.10:795][945]LogHttp: Display: Http module shutting down, but needs to wait on 2 outstanding Http requests:
+[2018.03.11-15.07.10:795][945]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BEF5EE407-4686-4234-FBAE-A8AABE48ACCA%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.3-3832480%2B%2B%2BUE4%2BRelease-4.18&UserID=364df1b94887909dc630aab0b746b2b3%7C84ae5c2d36c84e2eaaf8ae8561d091bc%7Caf8440ef-9add-40a3-8cf8-b949f0b94a17&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.03.11-15.07.10:795][945]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BEF5EE407-4686-4234-FBAE-A8AABE48ACCA%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.3-3832480%2B%2B%2BUE4%2BRelease-4.18&UserID=364df1b94887909dc630aab0b746b2b3%7C84ae5c2d36c84e2eaaf8ae8561d091bc%7Caf8440ef-9add-40a3-8cf8-b949f0b94a17&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.03.11-15.07.10:812][945]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.03.11-15.07.10:813][945]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.03.11-15.07.10:813][945]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.03.11-15.07.10:813][945]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.03.11-15.07.10:813][945]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.03.11-15.07.10:814][945]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.03.11-15.07.10:814][945]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.03.11-15.07.10:814][945]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.03.11-15.07.10:822][945]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.03.11-15.07.10:822][945]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.03.11-15.07.10:822][945]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.03.11-15.07.10:822][945]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.03.11-15.07.10:822][945]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.03.11-15.07.10:822][945]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.03.11-15.07.10:822][945]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.03.11-15.07.10:822][945]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.03.11-15.07.10:822][945]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.03.11-15.07.10:822][945]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.03.11-15.07.10:822][945]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.03.11-15.07.10:825][945]LogExit: Exiting.
+[2018.03.11-15.07.10:837][945]Log file closed, 03/11/18 23:07:10

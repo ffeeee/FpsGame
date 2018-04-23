@@ -1,0 +1,942 @@
+﻿Log file open, 03/29/18 20:58:04
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: FpsGame
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-185571965) SRandInit(-185571965).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 3944462, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.284138
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +8:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  1.147s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am Advant (192.168.1.7:0)
+LogInit: Build: ++UE4+Release-4.19-CL-3944462
+LogInit: Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Mar 13 2018 23:12:32
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line: -EpicPortal 
+LogInit: Base Directory: D:/Program Files/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.03.29-12.58.05:865][  0]LogInit: Selected Device Profile: [Windows]
+[2018.03.29-12.58.05:865][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.03.29-12.58.05:939][  0]LogInit: Computer: ADVANT
+[2018.03.29-12.58.05:939][  0]LogInit: User: VULCAN
+[2018.03.29-12.58.05:939][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.03.29-12.58.05:939][  0]LogInit: High frequency timer resolution =2.742194 MHz
+[2018.03.29-12.58.05:939][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.03.29-12.58.05:939][  0]LogMemory: Platform Memory Stats for Windows
+[2018.03.29-12.58.05:939][  0]LogMemory: Process Physical Memory: 277.85 MB used, 277.85 MB peak
+[2018.03.29-12.58.05:939][  0]LogMemory: Process Virtual Memory: 264.84 MB used, 264.84 MB peak
+[2018.03.29-12.58.05:939][  0]LogMemory: Physical Memory: 3135.78 MB used,  13168.81 MB free, 16304.59 MB total
+[2018.03.29-12.58.05:939][  0]LogMemory: Virtual Memory: 702.97 MB used,  13168.81 MB free, 134217728.00 MB total
+[2018.03.29-12.58.05:971][  0]LogInit: Using OS detected language (zh-CN).
+[2018.03.29-12.58.05:971][  0]LogInit: Using OS detected locale (zh-CN).
+[2018.03.29-12.58.06:289][  0]LogStreaming: Display: Took  0.317s to EndInitTextLocalization.
+[2018.03.29-12.58.06:289][  0]LogInit: Setting process to per monitor DPI aware
+[2018.03.29-12.58.06:352][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.03.29-12.58.06:352][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.03.29-12.58.06:518][  0]LogD3D11RHI: D3D11 adapters:
+[2018.03.29-12.58.06:585][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060' (Feature Level 11_0)
+[2018.03.29-12.58.06:585][  0]LogD3D11RHI:       6052/0/8152 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.03.29-12.58.06:609][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2018.03.29-12.58.06:609][  0]LogD3D11RHI:       128/0/8152 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.03.29-12.58.06:612][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.03.29-12.58.06:612][  0]LogD3D11RHI:       0/0/8152 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.03.29-12.58.06:612][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.03.29-12.58.06:619][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.03.29-12.58.06:619][  0]LogD3D11RHI:     GPU DeviceId: 0x1c20 (for the marketing name, search the web for "GPU Device Id")
+[2018.03.29-12.58.06:619][  0]LogWindows: EnumDisplayDevices:
+[2018.03.29-12.58.06:619][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060' (P:0 D:1)
+[2018.03.29-12.58.06:619][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060' (P:1 D:1)
+[2018.03.29-12.58.06:619][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2018.03.29-12.58.06:619][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2018.03.29-12.58.06:620][  0]LogWindows:    4. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.03.29-12.58.06:620][  0]LogWindows:    5. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.03.29-12.58.06:620][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.03.29-12.58.06:620][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060
+[2018.03.29-12.58.06:620][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.03.29-12.58.06:620][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.03.29-12.58.06:620][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2018.03.29-12.58.06:659][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.03.29-12.58.06:659][  0]LogD3D11RHI: Async texture creation enabled
+[2018.03.29-12.58.06:676][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.03.29-12.58.06:773][  0]LogShaderCompilers: Guid format shader working directory is 22 characters bigger than the processId version (F:/UnrealProject/FpsGame/Intermediate/Shaders/WorkingDirectory/13932/).
+[2018.03.29-12.58.06:773][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/VULCAN/AppData/Local/Temp/UnrealShaderWorkingDir/3F6E643C426BEA2C1FBB6DBF3BA1499F/'.
+[2018.03.29-12.58.07:049][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.03.29-12.58.07:062][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.03.29-12.58.07:075][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.03.29-12.58.07:089][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.03.29-12.58.07:105][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.03.29-12.58.07:119][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.03.29-12.58.07:133][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.03.29-12.58.07:147][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.03.29-12.58.07:154][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.03.29-12.58.07:167][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.03.29-12.58.07:179][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.03.29-12.58.07:193][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.03.29-12.58.07:205][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.03.29-12.58.07:219][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.03.29-12.58.07:231][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.03.29-12.58.07:258][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.03.29-12.58.07:258][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.03.29-12.58.07:271][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.03.29-12.58.07:273][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.03.29-12.58.07:318][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.03.29-12.58.07:330][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.03.29-12.58.07:343][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.03.29-12.58.07:356][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.03.29-12.58.07:368][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.03.29-12.58.07:382][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.03.29-12.58.07:382][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.03.29-12.58.07:482][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.03.29-12.58.07:482][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.03.29-12.58.07:482][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.03.29-12.58.08:193][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.03.29-12.58.08:256][  0]LogDerivedDataCache: Loaded boot cache 0.06s 74MB C:/Users/VULCAN/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.03.29-12.58.08:256][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/VULCAN/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.03.29-12.58.08:257][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file F:/UnrealProject/FpsGame/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.03.29-12.58.08:257][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.03.29-12.58.08:257][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file F:/UnrealProject/FpsGame/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.03.29-12.58.08:257][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.03.29-12.58.08:272][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.03.29-12.58.08:285][  0]LogDerivedDataCache: Using Local data cache path C:/Users/VULCAN/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.03.29-12.58.08:296][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.03.29-12.58.08:296][  0]LogSlate: Using Freetype 2.6.0
+[2018.03.29-12.58.08:296][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.03.29-12.58.08:296][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.03.29-12.58.08:429][  0]LogAssetRegistry: FAssetRegistry took 0.0264 seconds to start up
+[2018.03.29-12.58.08:739][  0]LogInit: Selected Device Profile: [Windows]
+[2018.03.29-12.58.08:879][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.03.29-12.58.08:882][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.03.29-12.58.08:882][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.03.29-12.58.08:882][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.03.29-12.58.08:882][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.03.29-12.58.08:882][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.03.29-12.58.08:913][  0]LogNetVersion: FpsGame , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 4285328657)
+[2018.03.29-12.58.10:134][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 4 prioritized culture(s) in 0.855015 seconds
+[2018.03.29-12.58.10:140][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.03.29-12.58.10:140][  0]LogUObjectAllocator: 7314304 out of 0 bytes used by permanent object pool.
+[2018.03.29-12.58.10:140][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.03.29-12.58.11:676][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.03.29-12.58.11:700][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.03.29-12.58.11:975][  0]SourceControl: 源码控制已禁用
+[2018.03.29-12.58.11:975][  0]SourceControl: 源码控制已禁用
+[2018.03.29-12.58.11:988][  0]SourceControl: 源码控制已禁用
+[2018.03.29-12.58.12:000][  0]SourceControl: 源码控制已禁用
+[2018.03.29-12.58.12:435][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.03.29-12.58.12:592][  0]LogOcInput: OculusInput pre-init called
+[2018.03.29-12.58.12:691][  0]LogEngine: Initializing Engine...
+[2018.03.29-12.58.12:735][  0]LogHMD: Failed to initialize OpenVR with code 126
+[2018.03.29-12.58.12:736][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.03.29-12.58.12:736][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.03.29-12.58.12:981][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.03.29-12.58.13:007][  0]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.29-12.58.13:046][  0]LogInit: FAudioDevice initialized.
+[2018.03.29-12.58.13:103][  0]LogDerivedDataCache: Saved boot cache 0.06s 74MB C:/Users/VULCAN/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.03.29-12.58.13:112][  0]LogInit: Texture streaming: Enabled
+[2018.03.29-12.58.13:127][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.03.29-12.58.13:141][  0]LogInit: Transaction tracking system initialized
+[2018.03.29-12.58.13:169][  0]BlueprintLog: New page: 编辑器加载
+[2018.03.29-12.58.13:253][  0]LocalizationService: 本地化服务已被禁用
+[2018.03.29-12.58.13:349][  0]LogConsoleResponse: Display: 
+[2018.03.29-12.58.13:562][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.03.29-12.58.13:563][  0]LogCook: Display: Mobile HDR setting 1
+[2018.03.29-12.58.13:563][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.03.29-12.58.13:563][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.03.29-12.58.13:563][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.03.29-12.58.13:578][  0]LogFileCache: Scanning file cache for directory 'F:/UnrealProject/FpsGame/Content/' took 0.07s
+[2018.03.29-12.58.14:015][  0]SourceControl: 源码控制已禁用
+[2018.03.29-12.58.14:015][  0]Cmd: MAP LOAD FILE="F:/UnrealProject/FpsGame/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.03.29-12.58.14:034][  0]LightingResults: New page: 光照构建
+[2018.03.29-12.58.14:038][  0]MapCheck: New page: 地图检测
+[2018.03.29-12.58.14:038][  0]LightingResults: New page: 光照构建
+[2018.03.29-12.58.15:165][  0]LogStaticMesh: 正在构建静态网格物体Floor_400x400...
+[2018.03.29-12.58.15:166][  0]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2018.03.29-12.58.15:332][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2018.03.29-12.58.15:341][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.03.29-12.58.15:355][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.03.29-12.58.15:414][  0]MapCheck: 地图检测完成：0个错误，0 个警告，用时58.421毫秒完成。
+[2018.03.29-12.58.15:414][  0]LogFileHelpers: Loading map 'Minimal_Default' took 1.399
+[2018.03.29-12.58.15:586][  0]LogCollectionManager: Loaded 0 collections in 0.001562 seconds
+[2018.03.29-12.58.15:647][  0]LogFileCache: Scanning file cache for directory 'F:/UnrealProject/FpsGame/Saved/Collections/' took 0.01s
+[2018.03.29-12.58.15:647][  0]LogFileCache: Scanning file cache for directory 'F:/UnrealProject/FpsGame/Content/Developers/VULCAN/Collections/' took 0.01s
+[2018.03.29-12.58.15:647][  0]LogFileCache: Scanning file cache for directory 'F:/UnrealProject/FpsGame/Content/Collections/' took 0.01s
+[2018.03.29-12.58.15:647][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.03.29-12.58.15:659][  0]LogContentBrowser: Native class hierarchy populated in 0.0104 seconds. Added 2452 classes and 558 folders.
+[2018.03.29-12.58.15:671][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.03.29-12.58.15:777][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.03.29-12.58.15:789][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.03.29-12.58.15:923][  0]LogSlate: Took 0.000187 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.03.29-12.58.15:928][  0]LogSlate: Took 0.003036 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2018.03.29-12.58.15:929][  0]LogSlate: Took 0.000239 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.03.29-12.58.15:936][  0]LogSlate: Took 0.001200 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.03.29-12.58.16:071][  0]LogRenderer: Reallocating scene render targets to support 1104x640 Format 10 NumSamples 1 (Frame:1).
+[2018.03.29-12.58.16:223][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.03.29-12.58.16:223][  0]LogLoad: (Engine Initialization) Total time: 13.56 seconds
+[2018.03.29-12.58.16:223][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.03.29-12.58.16:591][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.03.29-12.58.16:908][  1]LogAssetRegistry: Asset discovery search completed in 8.5012 seconds
+[2018.03.29-12.58.16:910][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.03.29-12.58.16:910][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000044 seconds (updated 0 objects)
+[2018.03.29-12.58.20:905][ 13]LogSlate: Took 0.001632 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.03.29-12.59.56:893][301]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.03.29-13.00.17:609][532]LogSlate: Took 0.000140 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.03.29-13.00.20:992][532]LogBlueprint: Error: [Compiler FppShooter] ' Spawn Transform '引脚的当前值是无效的：'Spawn Transform'必须连接一个输入("by ref"参数需要一个有效的输入以进行操作)。
+[2018.03.29-13.00.20:992][532]LogBlueprint: Error: [Compiler FppShooter] ' Spawn Transform '引脚的当前值是无效的：'Spawn Transform'必须连接一个输入("by ref"参数需要一个有效的输入以进行操作)。
+[2018.03.29-13.00.20:997][532]LogBlueprint: Warning: [Compiler FppAnim] Node  混合空间播放器'FppMoveBlend'  uses potentially thread-unsafe call  Try Get Pawn Owner . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.03.29-13.00.20:997][532]LogBlueprint: Warning: [Compiler FppAnim] Node  混合空间播放器'FppMoveBlend'  uses potentially thread-unsafe call  Try Get Pawn Owner . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.03.29-13.00.20:998][532]LogBlueprint: Warning: [Compiler RobotAnim] Node  结果  uses potentially thread-unsafe call Get Shooter. Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.03.29-13.00.20:998][532]LogBlueprint: Warning: [Compiler RobotAnim] Node  结果  uses potentially thread-unsafe call  Get Shooter . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.03.29-13.00.20:999][532]LogBlueprint: Warning: [Compiler RobotAnim] Node  混合空间播放器'RobotAniBlend'  uses potentially thread-unsafe call  Get Owning Actor . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.03.29-13.00.20:999][532]LogBlueprint: Warning: [Compiler RobotAnim] Node  混合空间播放器'RobotAniBlend'  uses potentially thread-unsafe call  Get Owning Actor . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.03.29-13.00.21:003][532]LogBlueprint: Warning: [Compiler FppAnim] [0138.34] Compile of FppAnim successful, but with 2 Warning(s) [in 37 ms] (/Game/Assets/Blueprints/FppAnim.FppAnim)
+[2018.03.29-13.00.21:003][532]LogBlueprint: Warning: [Compiler RobotAnim] [0138.34] Compile of RobotAnim successful, but with 4 Warning(s) [in 37 ms] (/Game/Assets/Blueprints/RobotAnim.RobotAnim)
+[2018.03.29-13.00.21:003][532]LogBlueprint: Warning: [Compiler FppShooter] [0138.34] Compile of FppShooter failed. 2 Fatal Issue(s) 0 Warning(s) [in 36 ms] (/Game/Assets/Blueprints/FppShooter.FppShooter)
+[2018.03.29-13.00.22:999][532]LogTexture: Display: Building textures: MagGun_Decals (AutoDXT, 512X512)
+[2018.03.29-13.00.22:999][532]LogTexture: Display: Building textures: LauncherT2_section (AutoDXT, 4096X4096)
+[2018.03.29-13.00.22:999][532]LogTexture: Display: Building textures: T_PaintedMetal01_N (BC5, 2048X2048)
+[2018.03.29-13.00.32:188][532]LogTexture: Display: Building textures: LauncherT2_shade (AutoDXT, 4096X4096)
+[2018.03.29-13.00.32:188][532]LogTexture: Display: Building textures: Launcher_01_N (BC5, 4096X4096)
+[2018.03.29-13.00.32:188][532]LogTexture: Display: Building textures: LauncherT1_section (AutoDXT, 4096X4096)
+[2018.03.29-13.00.32:188][532]LogTexture: Display: Building textures: T_PaintedMetal02 (AutoDXT, 2048X2048)
+[2018.03.29-13.00.32:189][532]LogTexture: Display: Building textures: LauncherT1_shade (AutoDXT, 4096X4096)
+[2018.03.29-13.00.32:189][532]LogTexture: Display: Building textures: T_ExampleLayers_Metal02_N (BC5, 2048X2048)
+[2018.03.29-13.00.32:189][532]LogTexture: Display: Building textures: Chr_FPS_Metal_02 (AutoDXT, 2048X2048)
+[2018.03.29-13.00.32:189][532]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 512X512)
+[2018.03.29-13.00.32:189][532]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 64X64)
+[2018.03.29-13.00.32:189][532]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 512X512)
+[2018.03.29-13.00.32:189][532]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 64X64)
+[2018.03.29-13.00.32:189][532]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 512X256)
+[2018.03.29-13.00.32:189][532]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 64X32)
+[2018.03.29-13.00.32:189][532]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 512X128)
+[2018.03.29-13.00.32:189][532]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 32X32)
+[2018.03.29-13.00.32:189][532]LogTexture: Display: Building textures: crosshair (BGRA8, 85X75)
+[2018.03.29-13.00.32:189][532]LogTexture: Display: Building textures: T_TileNoise (AutoDXT, 2048X2048)
+[2018.03.29-13.00.32:189][532]LogTexture: Display: Building textures: T_SquareMaskTightEdge (AutoDXT, 512X512)
+[2018.03.29-13.00.32:189][532]LogTexture: Display: Building textures: T_muzzle_flashes (AutoDXT, 128X256)
+[2018.03.29-13.00.32:189][532]LogTexture: Display: Building textures: T_SmokeBall_01_8_8 (AutoDXT, 1024X1024)
+[2018.03.29-13.00.32:189][532]LogTexture: Display: Building textures: T_Clouds_01 (AutoDXT, 1024X1024)
+[2018.03.29-13.00.32:189][532]LogTexture: Display: Building textures: T_Lensflare_01 (AutoDXT, 512X512)
+[2018.03.29-13.00.32:189][532]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2018.03.29-13.00.32:189][532]LogTexture: Display: Building textures: SightLens_maskB (AutoDXT, 2048X2048)
+[2018.03.29-13.00.32:189][532]LogTexture: Display: Building textures: SightLens_maskA (AutoDXT, 2048X2048)
+[2018.03.29-13.00.32:191][532]LogTexture: Display: Building textures: holo_layer_1_5 (AutoDXT, 256X256)
+[2018.03.29-13.00.32:193][532]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assets/Characters/FPP_Animations/FPP_RifleIdle.FPP_RifleIdle
+[2018.03.29-13.00.32:194][532]LogAnimationCompression: Recompressing (AnimSequence /Game/Assets/Characters/FPP_Animations/FPP_RifleIdle.FPP_RifleIdle) using current/default (AnimCompress_RemoveLinearKeys_52) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.29-13.00.32:233][532]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assets/Characters/TTP_Animations/Death.Death
+[2018.03.29-13.00.32:233][532]LogAnimationCompression: Recompressing (AnimSequence /Game/Assets/Characters/TTP_Animations/Death.Death) using current/default (AnimationCompressionAlgorithm_RemoveLinearKeys_9) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.29-13.00.32:312][532]LogSkeletalMesh: Building Skeletal Mesh Launcher...
+[2018.03.29-13.00.32:360][532]LogSkeletalMesh: Built Skeletal Mesh [0.05s] /Game/Assets/Weapons/Launcher.Launcher
+[2018.03.29-13.00.38:382][532]LogTexture: Display: Building textures: MagGun_Display_EM (AutoDXT, 2048X2048)
+[2018.03.29-13.00.38:382][532]LogTexture: Display: Building textures: MagGunT2_section (AutoDXT, 4096X4096)
+[2018.03.29-13.00.38:382][532]LogTexture: Display: Building textures: MagGunT2_shade (AutoDXT, 4096X4096)
+[2018.03.29-13.00.38:382][532]LogTexture: Display: Building textures: MagGun_02_N (BC5, 4096X4096)
+[2018.03.29-13.00.38:382][532]LogTexture: Display: Building textures: MagGunT1_shade (AutoDXT, 4096X4096)
+[2018.03.29-13.00.38:382][532]LogTexture: Display: Building textures: MagGunT1_section (AutoDXT, 4096X4096)
+[2018.03.29-13.00.38:382][532]LogTexture: Display: Building textures: MagGun_01_N (BC5, 4096X4096)
+[2018.03.29-13.00.38:382][532]LogTexture: Display: Building textures: Chr_FPS_N (BC5, 2048X2048)
+[2018.03.29-13.00.38:382][532]LogTexture: Display: Building textures: T_Metal_Metal02_D (AutoDXT, 2048X2048)
+[2018.03.29-13.00.49:114][532]LogTexture: Display: Building textures: Chr_FPS_M_03tga (AutoDXT, 2048X2048)
+[2018.03.29-13.00.49:114][532]LogTexture: Display: Building textures: Chr_FPS_Fabric_N_01 (BC5, 512X512)
+[2018.03.29-13.00.49:114][532]LogTexture: Display: Building textures: Chr_FPS_Metal_01 (BC5, 2048X2048)
+[2018.03.29-13.00.49:114][532]LogTexture: Display: Building textures: T_Sctraches_01 (AutoDXT, 2048X2048)
+[2018.03.29-13.00.49:114][532]LogTexture: Display: Building textures: Chr_FPS_M (BGRA8, 2048X2048)
+[2018.03.29-13.00.49:114][532]LogTexture: Display: Building textures: Chr_FPS_02_M (AutoDXT, 2048X2048)
+[2018.03.29-13.00.49:114][532]LogTexture: Display: Building textures: T_Vista_Grass_N (BC5, 1024X1024)
+[2018.03.29-13.00.49:114][532]LogTexture: Display: Building textures: Chr_FPS_D (AutoDXT, 2048X2048)
+[2018.03.29-13.00.49:114][532]LogTexture: Display: Building textures: T_Rubber (AutoDXT, 2048X2048)
+[2018.03.29-13.00.49:114][532]LogTexture: Display: Building textures: Launcher_02_N (BC5, 4096X4096)
+[2018.03.29-13.00.49:124][532]LogMaterial: Missing cached shader map for material Launcher_MatA, compiling. 
+[2018.03.29-13.00.55:119][532]LogShaderCompilers: Display: Shaders left to compile 135
+[2018.03.29-13.00.55:119][532]LogShaderCompilers: Display: Shaders left to compile 125
+[2018.03.29-13.00.55:119][532]LogShaderCompilers: Display: Shaders left to compile 115
+[2018.03.29-13.00.55:119][532]LogShaderCompilers: Display: Shaders left to compile 105
+[2018.03.29-13.00.55:119][532]LogShaderCompilers: Display: Shaders left to compile 95
+[2018.03.29-13.00.55:119][532]LogShaderCompilers: Display: Shaders left to compile 85
+[2018.03.29-13.00.55:119][532]LogMaterial: Missing cached shader map for material Launcher_MatB, compiling. 
+[2018.03.29-13.00.55:189][532]LogMaterial: Missing cached shader map for material HeroTPP, compiling. 
+[2018.03.29-13.00.55:282][532]LogSkeletalMesh: Building Skeletal Mesh HeroFPP...
+[2018.03.29-13.00.55:292][532]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/Assets/Characters/Models/HeroFPP.HeroFPP
+[2018.03.29-13.00.55:293][532]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assets/Characters/FPP_Animations/FPP_RifleFire.FPP_RifleFire
+[2018.03.29-13.00.55:293][532]LogAnimationCompression: Recompressing (AnimSequence /Game/Assets/Characters/FPP_Animations/FPP_RifleFire.FPP_RifleFire) using current/default (AnimCompress_RemoveLinearKeys_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.29-13.00.55:426][532]LogStaticMesh: 正在构建静态网格物体SM_MuzzleCone...
+[2018.03.29-13.00.55:457][532]LogStaticMesh: Built static mesh [0.03s] /Game/Assets/Effects/Meshes/Weapon/SM_MuzzleCone.SM_MuzzleCone
+[2018.03.29-13.00.55:464][532]LogMaterial: Missing cached shader map for material M_MuzzleGlow, compiling. 
+[2018.03.29-13.00.55:497][532]LogMaterial: Missing cached shader map for material M_muzzle_flash_subUV, compiling. 
+[2018.03.29-13.00.55:514][532]LogMaterial: Missing cached shader map for material M_SmokeBall, compiling. 
+[2018.03.29-13.00.55:537][532]LogMaterial: Missing cached shader map for material M_ImpactSmoke, compiling. 
+[2018.03.29-13.00.55:628][532]LogMaterial: Missing cached shader map for material M_SoftGradient_Muzzle, compiling. 
+[2018.03.29-13.00.55:641][532]LogMaterial: Missing cached shader map for material M_Lensflare_01, compiling. 
+[2018.03.29-13.00.55:658][532]LogMaterial: Missing cached shader map for material MagGun_SightLens_Mat, compiling. 
+[2018.03.29-13.00.55:673][532]LogMaterial: Missing cached shader map for material MagGun_MatB, compiling. 
+[2018.03.29-13.00.55:735][532]LogMaterial: Missing cached shader map for material MagGun_MatA, compiling. 
+[2018.03.29-13.00.55:789][532]LogSkeletalMesh: Building Skeletal Mesh Rifle...
+[2018.03.29-13.00.55:829][532]LogSkeletalMesh: Built Skeletal Mesh [0.04s] /Game/Assets/Weapons/Rifle.Rifle
+[2018.03.29-13.00.55:838][532]LogSkeletalMesh: Building Skeletal Mesh HeroTPP...
+[2018.03.29-13.00.55:869][532]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/Assets/Characters/Models/HeroTPP.HeroTPP
+[2018.03.29-13.00.55:876][532]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assets/Characters/TTP_Animations/Idle.Idle
+[2018.03.29-13.00.55:876][532]LogAnimationCompression: Recompressing (AnimSequence /Game/Assets/Characters/TTP_Animations/Idle.Idle) using current/default (AnimationCompressionAlgorithm_RemoveLinearKeys_12) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.29-13.00.55:963][532]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assets/Characters/TTP_Animations/Run_Fwd.Run_Fwd
+[2018.03.29-13.00.55:964][532]LogAnimationCompression: Recompressing (AnimSequence /Game/Assets/Characters/TTP_Animations/Run_Fwd.Run_Fwd) using current/default (AnimationCompressionAlgorithm_RemoveLinearKeys_23) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.29-13.00.56:077][532]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Assets/Characters/FPP_Animations/FPP_RifleRun.FPP_RifleRun
+[2018.03.29-13.00.56:077][532]LogAnimationCompression: Recompressing (AnimSequence /Game/Assets/Characters/FPP_Animations/FPP_RifleRun.FPP_RifleRun) using current/default (AnimCompress_RemoveLinearKeys_57) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.03.29-13.00.56:108][532]LogAIModule: Creating AISystem for world FPSTest
+[2018.03.29-13.00.56:141][532]Cmd: MAP LOAD FILE="F:/UnrealProject/FpsGame/Content/StarterContent/Maps/FPSTest.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.03.29-13.00.56:141][532]LightingResults: New page: 光照构建
+[2018.03.29-13.00.56:143][532]LoadErrors: New page: 正在加载地图： FPSTest.umap
+[2018.03.29-13.00.56:144][532]MapCheck: New page: 地图检测
+[2018.03.29-13.00.56:144][532]LightingResults: New page: 光照构建
+[2018.03.29-13.00.56:159][532]LogShaderCompilers: Display: Shaders left to compile 903
+[2018.03.29-13.00.56:292][532]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.03.29-13.00.56:562][532]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.03.29-13.00.56:666][532]MapCheck: 地图检测完成：0个错误，0 个警告，用时103.302毫秒完成。
+[2018.03.29-13.00.56:666][532]LogFileHelpers: Loading map 'FPSTest' took 0.526
+[2018.03.29-13.00.56:760][534]LogShaderCompilers: Display: Shaders left to compile 893
+[2018.03.29-13.00.57:082][535]LogShaderCompilers: Display: Shaders left to compile 883
+[2018.03.29-13.00.57:082][535]LogShaderCompilers: Display: Shaders left to compile 873
+[2018.03.29-13.00.58:083][537]LogShaderCompilers: Display: Shaders left to compile 863
+[2018.03.29-13.00.58:416][539]LogShaderCompilers: Display: Shaders left to compile 853
+[2018.03.29-13.00.59:414][542]LogShaderCompilers: Display: Shaders left to compile 843
+[2018.03.29-13.00.59:414][542]LogShaderCompilers: Display: Shaders left to compile 833
+[2018.03.29-13.01.00:083][544]LogShaderCompilers: Display: Shaders left to compile 823
+[2018.03.29-13.01.00:083][544]LogShaderCompilers: Display: Shaders left to compile 813
+[2018.03.29-13.01.01:414][548]LogShaderCompilers: Display: Shaders left to compile 803
+[2018.03.29-13.01.01:414][548]LogShaderCompilers: Display: Shaders left to compile 793
+[2018.03.29-13.01.01:746][549]LogShaderCompilers: Display: Shaders left to compile 783
+[2018.03.29-13.01.02:758][552]LogShaderCompilers: Display: Shaders left to compile 773
+[2018.03.29-13.01.03:097][553]LogShaderCompilers: Display: Shaders left to compile 763
+[2018.03.29-13.01.04:414][557]LogShaderCompilers: Display: Shaders left to compile 753
+[2018.03.29-13.01.04:747][558]LogShaderCompilers: Display: Shaders left to compile 743
+[2018.03.29-13.01.04:747][558]LogShaderCompilers: Display: Shaders left to compile 733
+[2018.03.29-13.01.04:747][558]LogShaderCompilers: Display: Shaders left to compile 723
+[2018.03.29-13.01.06:415][563]LogShaderCompilers: Display: Shaders left to compile 713
+[2018.03.29-13.01.06:415][563]LogShaderCompilers: Display: Shaders left to compile 703
+[2018.03.29-13.01.06:746][564]LogShaderCompilers: Display: Shaders left to compile 693
+[2018.03.29-13.01.07:418][566]LogShaderCompilers: Display: Shaders left to compile 683
+[2018.03.29-13.01.08:079][568]LogShaderCompilers: Display: Shaders left to compile 673
+[2018.03.29-13.01.08:757][570]LogShaderCompilers: Display: Shaders left to compile 663
+[2018.03.29-13.01.08:942][580]LogShaderCompilers: Display: Shaders left to compile 653
+[2018.03.29-13.01.09:429][601]LogShaderCompilers: Display: Shaders left to compile 643
+[2018.03.29-13.01.09:434][601]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	FppAnim_C /Engine/Transient.World_7:PersistentLevel.SkeletalMeshActor_1.SkeletalMeshComponent0.FppAnim_C_1
+	Function /Game/Assets/Blueprints/FppAnim.FppAnim_C:ExecuteUbergraph_FppAnim:0040
+[2018.03.29-13.01.10:771][674]LogShaderCompilers: Display: Shaders left to compile 633
+[2018.03.29-13.01.11:790][735]LogShaderCompilers: Display: Shaders left to compile 623
+[2018.03.29-13.01.11:840][738]LogShaderCompilers: Display: Shaders left to compile 613
+[2018.03.29-13.01.13:558][841]LogShaderCompilers: Display: Shaders left to compile 603
+[2018.03.29-13.01.13:692][849]LogShaderCompilers: Display: Shaders left to compile 593
+[2018.03.29-13.01.14:195][879]LogShaderCompilers: Display: Shaders left to compile 583
+[2018.03.29-13.01.15:623][964]LogShaderCompilers: Display: Shaders left to compile 573
+[2018.03.29-13.01.16:989][ 46]LogShaderCompilers: Display: Shaders left to compile 563
+[2018.03.29-13.01.17:368][ 69]LogShaderCompilers: Display: Shaders left to compile 553
+[2018.03.29-13.01.18:055][109]LogShaderCompilers: Display: Shaders left to compile 543
+[2018.03.29-13.01.19:290][181]LogShaderCompilers: Display: Shaders left to compile 533
+[2018.03.29-13.01.20:188][235]LogShaderCompilers: Display: Shaders left to compile 523
+[2018.03.29-13.01.20:342][244]LogShaderCompilers: Display: Shaders left to compile 513
+[2018.03.29-13.01.20:351][244]LogShaderCompilers: Display: Shaders left to compile 503
+[2018.03.29-13.01.20:768][244]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0009 seconds. Added 116 classes and 0 folders.
+[2018.03.29-13.01.21:755][244]LogShaderCompilers: Display: Shaders left to compile 493
+[2018.03.29-13.01.21:854][244]LogSlate: Took 0.001261 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.03.29-13.01.22:026][245]LogSlate: Took 0.001251 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.03.29-13.01.22:533][273]LogShaderCompilers: Display: Shaders left to compile 483
+[2018.03.29-13.01.22:958][298]LogShaderCompilers: Display: Shaders left to compile 473
+[2018.03.29-13.01.23:412][324]LogShaderCompilers: Display: Shaders left to compile 463
+[2018.03.29-13.01.24:677][392]LogShaderCompilers: Display: Shaders left to compile 453
+[2018.03.29-13.01.24:969][408]LogShaderCompilers: Display: Shaders left to compile 443
+[2018.03.29-13.01.25:436][433]LogShaderCompilers: Display: Shaders left to compile 433
+[2018.03.29-13.01.28:106][570]LogShaderCompilers: Display: Shaders left to compile 423
+[2018.03.29-13.01.28:777][572]LogShaderCompilers: Display: Shaders left to compile 413
+[2018.03.29-13.01.29:706][598]LogShaderCompilers: Display: Shaders left to compile 403
+[2018.03.29-13.01.30:257][620]LogShaderCompilers: Display: Shaders left to compile 393
+[2018.03.29-13.01.31:732][660]LogShaderCompilers: Display: Shaders left to compile 383
+[2018.03.29-13.01.32:314][660]LogShaderCompilers: Display: Shaders left to compile 373
+[2018.03.29-13.01.33:231][660]LogShaderCompilers: Display: Shaders left to compile 363
+[2018.03.29-13.01.33:853][660]LogShaderCompilers: Display: Shaders left to compile 353
+[2018.03.29-13.01.34:256][660]LogShaderCompilers: Display: Shaders left to compile 343
+[2018.03.29-13.01.35:421][660]LogShaderCompilers: Display: Shaders left to compile 333
+[2018.03.29-13.01.36:038][660]LogShaderCompilers: Display: Shaders left to compile 323
+[2018.03.29-13.01.36:477][660]LogShaderCompilers: Display: Shaders left to compile 313
+[2018.03.29-13.01.36:864][660]LogShaderCompilers: Display: Shaders left to compile 303
+[2018.03.29-13.01.37:308][660]LogShaderCompilers: Display: Shaders left to compile 293
+[2018.03.29-13.01.38:281][660]LogShaderCompilers: Display: Shaders left to compile 283
+[2018.03.29-13.01.38:684][660]LogShaderCompilers: Display: Shaders left to compile 273
+[2018.03.29-13.01.38:771][660]LogShaderCompilers: Display: Shaders left to compile 263
+[2018.03.29-13.01.39:264][660]LogShaderCompilers: Display: Shaders left to compile 253
+[2018.03.29-13.01.40:215][660]LogShaderCompilers: Display: Shaders left to compile 243
+[2018.03.29-13.01.40:494][660]LogShaderCompilers: Display: Shaders left to compile 233
+[2018.03.29-13.01.40:653][660]LogShaderCompilers: Display: Shaders left to compile 223
+[2018.03.29-13.01.40:759][660]LogShaderCompilers: Display: Shaders left to compile 213
+[2018.03.29-13.01.42:554][660]LogShaderCompilers: Display: Shaders left to compile 203
+[2018.03.29-13.01.42:589][660]LogShaderCompilers: Display: Shaders left to compile 193
+[2018.03.29-13.01.43:474][660]LogShaderCompilers: Display: Shaders left to compile 183
+[2018.03.29-13.01.43:581][660]LogShaderCompilers: Display: Shaders left to compile 173
+[2018.03.29-13.01.44:285][660]LogShaderCompilers: Display: Shaders left to compile 163
+[2018.03.29-13.01.45:182][660]LogShaderCompilers: Display: Shaders left to compile 153
+[2018.03.29-13.01.45:412][660]LogShaderCompilers: Display: Shaders left to compile 143
+[2018.03.29-13.01.45:781][660]LogShaderCompilers: Display: Shaders left to compile 133
+[2018.03.29-13.01.46:219][660]LogShaderCompilers: Display: Shaders left to compile 123
+[2018.03.29-13.01.47:331][660]LogShaderCompilers: Display: Shaders left to compile 113
+[2018.03.29-13.01.47:718][660]LogShaderCompilers: Display: Shaders left to compile 103
+[2018.03.29-13.01.47:736][660]LogShaderCompilers: Display: Shaders left to compile 93
+[2018.03.29-13.01.48:281][660]LogShaderCompilers: Display: Shaders left to compile 83
+[2018.03.29-13.01.48:614][660]LogShaderCompilers: Display: Shaders left to compile 73
+[2018.03.29-13.01.50:166][660]LogShaderCompilers: Display: Shaders left to compile 63
+[2018.03.29-13.01.50:342][660]LogShaderCompilers: Display: Shaders left to compile 53
+[2018.03.29-13.01.51:187][660]LogShaderCompilers: Display: Shaders left to compile 43
+[2018.03.29-13.01.51:275][660]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.03.29-13.01.52:349][660]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.03.29-13.01.52:843][660]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.03.29-13.01.53:281][660]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.03.29-13.02.32:038][660]LogSlate: Window '选择父类' being destroyed
+[2018.03.29-13.02.56:293][ 80]LogRenderer: Reallocating scene render targets to support 1104x708 Format 10 NumSamples 1 (Frame:1).
+[2018.03.29-13.04.24:488][183]BlueprintLog: New page: 编译Gun
+[2018.03.29-13.04.24:917][196]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Blueprints/Gun" FILE="F:/UnrealProject/FpsGame/Content/Assets/Blueprints/Gun.uasset" SILENT=true
+[2018.03.29-13.04.24:928][196]LogSavePackage: Save=9.41ms
+[2018.03.29-13.04.24:928][196]LogSavePackage: Moving 'F:/UnrealProject/FpsGame/Saved/GunFEAFEF7146593C1E977F609E437E50B9.tmp' to 'F:/UnrealProject/FpsGame/Content/Assets/Blueprints/Gun.uasset'
+[2018.03.29-13.04.24:932][196]LogSavePackage: Display: Finished SavePackage F:/UnrealProject/FpsGame/Content/Assets/Blueprints/Gun.uasset
+[2018.03.29-13.04.31:964][615]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.03.29-13.04.36:049][857]LogBlueprint: Warning: Reparenting blueprint Blueprint /Game/Assets/Blueprints/RifleGun.RifleGun from Actor to Gun_C...
+[2018.03.29-13.04.36:064][857]BlueprintLog: New page: 编译RifleGun
+[2018.03.29-13.04.36:098][857]LogBlueprint: Error: [Compiler RifleGun] The function name in node  Fire  is already used
+[2018.03.29-13.04.36:099][857]LogBlueprint: Error: [Compiler RifleGun] The function name in node  Stop Fire  is already used
+[2018.03.29-13.04.36:201][857]LogBlueprint: Warning: [Compiler RifleGun] [0393.54] Compile of RifleGun failed. 2 Fatal Issue(s) 0 Warning(s) [in 136 ms] (/Game/Assets/Blueprints/RifleGun.RifleGun)
+[2018.03.29-13.06.22:635][404]LogSlate: Window 'Delete Assets' being destroyed
+[2018.03.29-13.06.22:711][404]LogSlate: Window 'Gun' being destroyed
+[2018.03.29-13.06.22:716][404]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.03.29-13.06.22:819][404]LogBlueprint: Warning: ValidateTemplates '/Game/Assets/Blueprints/RifleGun.RifleGun_C:InheritableComponentHandler': overridden template is invalid and will be removed - component 'DefaultSceneRoot' from '/Game/Assets/Blueprints/Gun.Gun_C'
+[2018.03.29-13.06.22:824][404]LogBlueprint: Warning: USimpleConstructionScript::FixupRootNodeParentReferences() - Couldn't find inherited parent component 'DefaultSceneRoot' for 'SkeletalMesh' in BlueprintGeneratedClass 'RifleGun_C' (it may have been removed)
+[2018.03.29-13.06.42:901][383]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Blueprints/RifleGun" FILE="F:/UnrealProject/FpsGame/Content/Assets/Blueprints/RifleGun.uasset" SILENT=true
+[2018.03.29-13.06.43:261][383]LogSavePackage: Save=49.81ms
+[2018.03.29-13.06.43:261][383]LogSavePackage: Moving 'F:/UnrealProject/FpsGame/Saved/RifleGun115CFEE7450745A272883F8D34A42407.tmp' to 'F:/UnrealProject/FpsGame/Content/Assets/Blueprints/RifleGun.uasset'
+[2018.03.29-13.06.43:264][383]LogSavePackage: Display: Finished SavePackage F:/UnrealProject/FpsGame/Content/Assets/Blueprints/RifleGun.uasset
+[2018.03.29-13.06.50:781][814]LogBlueprint: Error: [Compiler FppShooter] ' Spawn Transform '引脚的当前值是无效的：'Spawn Transform'必须连接一个输入("by ref"参数需要一个有效的输入以进行操作)。
+[2018.03.29-13.06.50:781][814]LogBlueprint: Error: [Compiler FppShooter] ' Spawn Transform '引脚的当前值是无效的：'Spawn Transform'必须连接一个输入("by ref"参数需要一个有效的输入以进行操作)。
+[2018.03.29-13.06.50:783][814]LogBlueprint: Warning: [Compiler FppShooter] [0528.12] Compile of FppShooter failed. 2 Fatal Issue(s) 0 Warning(s) [in 13 ms] (/Game/Assets/Blueprints/FppShooter.FppShooter)
+[2018.03.29-13.06.50:961][814]LogMetaData: Removing '/Game/Assets/Blueprints/Gun.Gun:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Assets/Blueprints/RifleGun.PackageMetaData'
+[2018.03.29-13.06.50:961][814]LogMetaData: Removing '/Game/Assets/Blueprints/Gun.Gun_C' ref from Metadata '/Game/Assets/Blueprints/RifleGun.PackageMetaData'
+[2018.03.29-13.06.50:961][814]LogMetaData: Removing '/Game/Assets/Blueprints/Gun.Gun:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Assets/Blueprints/RifleGun.PackageMetaData'
+[2018.03.29-13.06.50:961][814]LogMetaData: Removing '/Game/Assets/Blueprints/Gun.Gun:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Assets/Blueprints/RifleGun.PackageMetaData'
+[2018.03.29-13.06.50:961][814]LogMetaData: Removing '/Game/Assets/Blueprints/Gun.Gun:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Assets/Blueprints/RifleGun.PackageMetaData'
+[2018.03.29-13.06.50:961][814]LogMetaData: Removing '/Game/Assets/Blueprints/Gun.Gun:StopFire.K2Node_FunctionEntry_3' ref from Metadata '/Game/Assets/Blueprints/RifleGun.PackageMetaData'
+[2018.03.29-13.06.50:961][814]LogMetaData: Removing '/Game/Assets/Blueprints/Gun.Gun:Fire.K2Node_FunctionEntry_2' ref from Metadata '/Game/Assets/Blueprints/RifleGun.PackageMetaData'
+[2018.03.29-13.06.50:961][814]LogMetaData: Removing '/Game/Assets/Blueprints/Gun.Gun:ShootOnce.K2Node_FunctionEntry_1' ref from Metadata '/Game/Assets/Blueprints/RifleGun.PackageMetaData'
+[2018.03.29-13.06.50:961][814]LogMetaData: Removing '/Game/Assets/Blueprints/Gun.SKEL_Gun_C' ref from Metadata '/Game/Assets/Blueprints/RifleGun.PackageMetaData'
+[2018.03.29-13.06.51:025][814]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Blueprints/Gun" FILE="F:/UnrealProject/FpsGame/Content/Assets/Blueprints/Gun.uasset" SILENT=true
+[2018.03.29-13.06.51:070][814]LogSavePackage: Save=42.80ms
+[2018.03.29-13.06.51:070][814]LogSavePackage: Moving 'F:/UnrealProject/FpsGame/Saved/Gun2706690C44A9489C8DC02195A3BE45BB.tmp' to 'F:/UnrealProject/FpsGame/Content/Assets/Blueprints/Gun.uasset'
+[2018.03.29-13.06.51:074][814]LogSavePackage: Display: Finished SavePackage F:/UnrealProject/FpsGame/Content/Assets/Blueprints/Gun.uasset
+[2018.03.29-13.06.51:250][814]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Blueprints/FppShooter" FILE="F:/UnrealProject/FpsGame/Content/Assets/Blueprints/FppShooter.uasset" SILENT=true
+[2018.03.29-13.06.51:326][814]LogSavePackage: Save=66.44ms
+[2018.03.29-13.06.51:326][814]LogSavePackage: Moving 'F:/UnrealProject/FpsGame/Saved/FppShooter39FBD16E4991ECFA035E53A32F729789.tmp' to 'F:/UnrealProject/FpsGame/Content/Assets/Blueprints/FppShooter.uasset'
+[2018.03.29-13.06.51:344][814]LogSavePackage: Display: Finished SavePackage F:/UnrealProject/FpsGame/Content/Assets/Blueprints/FppShooter.uasset
+[2018.03.29-13.09.00:867][925]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.03.29-13.09.08:692][389]LogBlueprint: Warning: Reparenting blueprint Blueprint /Game/Assets/Blueprints/Launcher.Launcher from Actor to Gun_C...
+[2018.03.29-13.09.08:698][389]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.DESTROYED_Launcher_C_CHILDACTOR_8.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.03.29-13.09.08:699][389]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.DESTROYED_Launcher_C_CHILDACTOR_10.DefaultSceneRoot) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.03.29-13.09.08:702][389]BlueprintLog: New page: 编译Launcher
+[2018.03.29-13.09.09:113][389]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.DESTROYED_Launcher_C_CHILDACTOR_24.SkeletalMesh) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.03.29-13.09.09:114][389]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.DESTROYED_Launcher_C_CHILDACTOR_26.SkeletalMesh) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.03.29-13.09.09:128][389]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.DESTROYED_Launcher_C_CHILDACTOR_41.SkeletalMesh) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.03.29-13.09.09:129][389]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.DESTROYED_Launcher_C_CHILDACTOR_43.SkeletalMesh) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.03.29-13.10.49:514][743]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/FPSTest' took 0.024
+[2018.03.29-13.10.49:517][743]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Blueprints/Launcher] ([1] browsable assets)...
+[2018.03.29-13.10.49:530][743]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Assets/Blueprints/Launcher.Launcher]
+[2018.03.29-13.10.49:530][743]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Blueprints/Launcher]
+[2018.03.29-13.10.49:530][743]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Blueprints/Launcher" FILE="F:/UnrealProject/FpsGame/Saved/Autosaves/Game/Assets/Blueprints/Launcher_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.03.29-13.10.49:557][743]LogSavePackage: Save=16.29ms
+[2018.03.29-13.10.49:557][743]LogSavePackage: Moving 'F:/UnrealProject/FpsGame/Saved/Launcher_Auto1E11215944037D149738BE0B770D3728A.tmp' to 'F:/UnrealProject/FpsGame/Saved/Autosaves/Game/Assets/Blueprints/Launcher_Auto1.uasset'
+[2018.03.29-13.10.49:645][743]LogSavePackage: Display: Finished SavePackage F:/UnrealProject/FpsGame/Saved/Autosaves/Game/Assets/Blueprints/Launcher_Auto1.uasset
+[2018.03.29-13.10.49:646][743]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Blueprints/Rifle] ([1] browsable assets)...
+[2018.03.29-13.10.49:665][743]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Assets/Blueprints/Rifle.Rifle]
+[2018.03.29-13.10.49:665][743]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Blueprints/Rifle]
+[2018.03.29-13.10.49:665][743]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Blueprints/Rifle" FILE="F:/UnrealProject/FpsGame/Saved/Autosaves/Game/Assets/Blueprints/Rifle_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.03.29-13.10.49:682][743]LogSavePackage: Save=15.57ms
+[2018.03.29-13.10.49:682][743]LogSavePackage: Moving 'F:/UnrealProject/FpsGame/Saved/Rifle_Auto1FDC6663C488C985BC82571B2A8809E71.tmp' to 'F:/UnrealProject/FpsGame/Saved/Autosaves/Game/Assets/Blueprints/Rifle_Auto1.uasset'
+[2018.03.29-13.10.49:684][743]LogSavePackage: Display: Finished SavePackage F:/UnrealProject/FpsGame/Saved/Autosaves/Game/Assets/Blueprints/Rifle_Auto1.uasset
+[2018.03.29-13.10.49:684][743]LogFileHelpers: Auto-saving content packages took 0.170
+[2018.03.29-13.13.36:903][282]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Blueprints/Launcher" FILE="F:/UnrealProject/FpsGame/Content/Assets/Blueprints/Launcher.uasset" SILENT=true
+[2018.03.29-13.13.36:922][282]LogSavePackage: Save=8.99ms
+[2018.03.29-13.13.36:922][282]LogSavePackage: Moving 'F:/UnrealProject/FpsGame/Saved/LauncherCDCB85A245BCF6C34588818A7B53F4E9.tmp' to 'F:/UnrealProject/FpsGame/Content/Assets/Blueprints/Launcher.uasset'
+[2018.03.29-13.13.36:962][282]LogSavePackage: Display: Finished SavePackage F:/UnrealProject/FpsGame/Content/Assets/Blueprints/Launcher.uasset
+[2018.03.29-13.15.45:226][335]BlueprintLog: New page: 编译FppShooter
+[2018.03.29-13.15.45:253][335]LogBlueprint: Error: [Compiler FppShooter] ' Spawn Transform '引脚的当前值是无效的：'Spawn Transform'必须连接一个输入("by ref"参数需要一个有效的输入以进行操作)。
+[2018.03.29-13.15.45:253][335]LogBlueprint: Error: [Compiler FppShooter] ' Spawn Transform '引脚的当前值是无效的：'Spawn Transform'必须连接一个输入("by ref"参数需要一个有效的输入以进行操作)。
+[2018.03.29-13.15.45:523][335]LogBlueprint: Warning: [Compiler FppShooter] [1062.86] Compile of FppShooter failed. 2 Fatal Issue(s) 0 Warning(s) [in 297 ms] (/Game/Assets/Blueprints/FppShooter.FppShooter)
+[2018.03.29-13.16.04:617][475]LogHttp: Warning: 000001C6D7286380: request failed, libcurl error: 7 (Couldn't connect to server)
+[2018.03.29-13.16.04:617][475]LogHttp: Warning: 000001C6D7286380: libcurl info message cache 0 (Connection 4 seems to be dead!)
+[2018.03.29-13.16.04:617][475]LogHttp: Warning: 000001C6D7286380: libcurl info message cache 1 (Closing connection 4)
+[2018.03.29-13.16.04:617][475]LogHttp: Warning: 000001C6D7286380: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2018.03.29-13.16.04:617][475]LogHttp: Warning: 000001C6D7286380: libcurl info message cache 3 (  Trying 52.203.114.206...)
+[2018.03.29-13.16.04:617][475]LogHttp: Warning: 000001C6D7286380: libcurl info message cache 4 (connect to 52.203.114.206 port 443 failed: Timed out)
+[2018.03.29-13.16.04:617][475]LogHttp: Warning: 000001C6D7286380: libcurl info message cache 5 (  Trying 52.204.87.229...)
+[2018.03.29-13.16.04:617][475]LogHttp: Warning: 000001C6D7286380: libcurl info message cache 6 (connect to 52.204.87.229 port 443 failed: Timed out)
+[2018.03.29-13.16.04:617][475]LogHttp: Warning: 000001C6D7286380: libcurl info message cache 7 (  Trying 52.204.207.86...)
+[2018.03.29-13.16.04:617][475]LogHttp: Warning: 000001C6D7286380: libcurl info message cache 8 (connect to 52.204.207.86 port 443 failed: Timed out)
+[2018.03.29-13.16.04:617][475]LogHttp: Warning: 000001C6D7286380: libcurl info message cache 9 (  Trying 52.204.147.6...)
+[2018.03.29-13.16.04:617][475]LogHttp: Warning: 000001C6D7286380: libcurl info message cache 10 (connect to 52.204.147.6 port 443 failed: Timed out)
+[2018.03.29-13.16.04:617][475]LogHttp: Warning: 000001C6D7286380: libcurl info message cache 11 (  Trying 52.203.232.120...)
+[2018.03.29-13.16.04:617][475]LogHttp: Warning: 000001C6D7286380: libcurl info message cache 12 (connect to 52.203.232.120 port 443 failed: Timed out)
+[2018.03.29-13.16.04:617][475]LogHttp: Warning: 000001C6D7286380: libcurl info message cache 13 (  Trying 52.203.193.205...)
+[2018.03.29-13.16.04:617][475]LogHttp: Warning: 000001C6D7286380: libcurl info message cache 14 (connect to 52.203.193.205 port 443 failed: Timed out)
+[2018.03.29-13.16.04:617][475]LogHttp: Warning: 000001C6D7286380: libcurl info message cache 15 (  Trying 52.204.208.108...)
+[2018.03.29-13.16.04:617][475]LogHttp: Warning: 000001C6D7286380: libcurl info message cache 16 (connect to 52.204.208.108 port 443 failed: Timed out)
+[2018.03.29-13.16.04:617][475]LogHttp: Warning: 000001C6D7286380: libcurl info message cache 17 (  Trying 52.203.228.105...)
+[2018.03.29-13.16.04:617][475]LogHttp: Warning: 000001C6D7286380: libcurl info message cache 18 (connect to 52.203.228.105 port 443 failed: Timed out)
+[2018.03.29-13.16.04:617][475]LogHttp: Warning: 000001C6D7286380: libcurl info message cache 19 (Failed to connect to datarouter.ol.epicgames.com port 443: Timed out)
+[2018.03.29-13.16.04:617][475]LogHttp: Warning: 000001C6D7286380: libcurl info message cache 20 (Closing connection 5)
+[2018.03.29-13.17.04:755][209]LogHttp: Warning: 000001C6E8490100: request failed, libcurl error: 7 (Couldn't connect to server)
+[2018.03.29-13.17.04:755][209]LogHttp: Warning: 000001C6E8490100: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1c67a52bfb8 [serially])
+[2018.03.29-13.17.04:755][209]LogHttp: Warning: 000001C6E8490100: libcurl info message cache 1 (Hostname in DNS cache was stale, zapped)
+[2018.03.29-13.17.04:755][209]LogHttp: Warning: 000001C6E8490100: libcurl info message cache 2 (  Trying 52.203.114.206...)
+[2018.03.29-13.17.04:755][209]LogHttp: Warning: 000001C6E8490100: libcurl info message cache 3 (connect to 52.203.114.206 port 443 failed: Timed out)
+[2018.03.29-13.17.04:755][209]LogHttp: Warning: 000001C6E8490100: libcurl info message cache 4 (  Trying 52.204.87.229...)
+[2018.03.29-13.17.04:755][209]LogHttp: Warning: 000001C6E8490100: libcurl info message cache 5 (connect to 52.204.87.229 port 443 failed: Timed out)
+[2018.03.29-13.17.04:755][209]LogHttp: Warning: 000001C6E8490100: libcurl info message cache 6 (  Trying 52.204.207.86...)
+[2018.03.29-13.17.04:755][209]LogHttp: Warning: 000001C6E8490100: libcurl info message cache 7 (connect to 52.204.207.86 port 443 failed: Timed out)
+[2018.03.29-13.17.04:755][209]LogHttp: Warning: 000001C6E8490100: libcurl info message cache 8 (  Trying 52.204.147.6...)
+[2018.03.29-13.17.04:755][209]LogHttp: Warning: 000001C6E8490100: libcurl info message cache 9 (connect to 52.204.147.6 port 443 failed: Timed out)
+[2018.03.29-13.17.04:755][209]LogHttp: Warning: 000001C6E8490100: libcurl info message cache 10 (  Trying 52.203.232.120...)
+[2018.03.29-13.17.04:755][209]LogHttp: Warning: 000001C6E8490100: libcurl info message cache 11 (connect to 52.203.232.120 port 443 failed: Timed out)
+[2018.03.29-13.17.04:755][209]LogHttp: Warning: 000001C6E8490100: libcurl info message cache 12 (  Trying 52.203.193.205...)
+[2018.03.29-13.17.04:755][209]LogHttp: Warning: 000001C6E8490100: libcurl info message cache 13 (connect to 52.203.193.205 port 443 failed: Timed out)
+[2018.03.29-13.17.04:755][209]LogHttp: Warning: 000001C6E8490100: libcurl info message cache 14 (  Trying 52.204.208.108...)
+[2018.03.29-13.17.04:755][209]LogHttp: Warning: 000001C6E8490100: libcurl info message cache 15 (connect to 52.204.208.108 port 443 failed: Timed out)
+[2018.03.29-13.17.04:755][209]LogHttp: Warning: 000001C6E8490100: libcurl info message cache 16 (  Trying 52.203.228.105...)
+[2018.03.29-13.17.04:755][209]LogHttp: Warning: 000001C6E8490100: libcurl info message cache 17 (connect to 52.203.228.105 port 443 failed: Timed out)
+[2018.03.29-13.17.04:755][209]LogHttp: Warning: 000001C6E8490100: libcurl info message cache 18 (Failed to connect to datarouter.ol.epicgames.com port 443: Timed out)
+[2018.03.29-13.17.04:755][209]LogHttp: Warning: 000001C6E8490100: libcurl info message cache 19 (Closing connection 6)
+[2018.03.29-13.17.30:051][392]BlueprintLog: New page: 编译FppShooter
+[2018.03.29-13.17.42:369][104]BlueprintLog: New page: 编译FppShooter
+[2018.03.29-13.17.45:607][274]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.03.29-13.18.52:870][260]BlueprintLog: New page: 编译FppShooter
+[2018.03.29-13.18.56:296][414]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Blueprints/FppShooter" FILE="F:/UnrealProject/FpsGame/Content/Assets/Blueprints/FppShooter.uasset" SILENT=true
+[2018.03.29-13.18.56:342][414]LogSavePackage: Save=35.10ms
+[2018.03.29-13.18.56:342][414]LogSavePackage: Moving 'F:/UnrealProject/FpsGame/Saved/FppShooterDDEFCE074F717971DD47409B125CE254.tmp' to 'F:/UnrealProject/FpsGame/Content/Assets/Blueprints/FppShooter.uasset'
+[2018.03.29-13.18.56:346][414]LogSavePackage: Display: Finished SavePackage F:/UnrealProject/FpsGame/Content/Assets/Blueprints/FppShooter.uasset
+[2018.03.29-13.18.58:223][493]LogTemp: Repeating last play command: 选中的视口
+[2018.03.29-13.18.58:242][493]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.29-13.18.58:243][493]PIE: New page: PIE会话: FPSTest (2018年3月30日 上午5:18:58)
+[2018.03.29-13.18.58:243][493]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_FPSTest
+[2018.03.29-13.18.58:249][493]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005766s)
+[2018.03.29-13.18.58:249][493]LogAIModule: Creating AISystem for world FPSTest
+[2018.03.29-13.18.58:250][493]LogPlayLevel: PIE: World Init took: (0.000791s)
+[2018.03.29-13.18.58:250][493]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/FPSTest.FPSTest to /Game/StarterContent/Maps/UEDPIE_0_FPSTest.FPSTest (0.006749s)
+[2018.03.29-13.18.58:283][493]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.29-13.18.58:316][493]LogInit: FAudioDevice initialized.
+[2018.03.29-13.18.58:360][493]LogLoad: Game class is 'ShooterGame_C'
+[2018.03.29-13.18.58:364][493]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_FPSTest.FPSTest up for play (max tick rate 60) at 2018.03.29-21.18.58
+[2018.03.29-13.18.58:368][493]LogWorld: Bringing up level for play took: 0.006914
+[2018.03.29-13.18.58:376][493]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 11 classes and 0 folders.
+[2018.03.29-13.18.58:382][493]PIE: /Game/StarterContent/Maps/UEDPIE_0_FPSTest的‘在编辑器中播放’的起始时间0.072
+[2018.03.29-13.19.03:857][816]LogBlueprintUserMessages: [RobotShooter2] 90.0
+[2018.03.29-13.19.03:857][816]LogBlueprintUserMessages: [Launcher_C_1] 90.0
+[2018.03.29-13.19.04:156][834]LogBlueprintUserMessages: [RobotShooter2] 80.0
+[2018.03.29-13.19.04:157][834]LogBlueprintUserMessages: [Launcher_C_1] 80.0
+[2018.03.29-13.19.04:306][843]LogBlueprintUserMessages: [RobotShooter2] 70.0
+[2018.03.29-13.19.04:306][843]LogBlueprintUserMessages: [Launcher_C_1] 70.0
+[2018.03.29-13.19.04:606][861]LogBlueprintUserMessages: [RobotShooter2] 60.0
+[2018.03.29-13.19.04:606][861]LogBlueprintUserMessages: [Launcher_C_1] 60.0
+[2018.03.29-13.19.11:626][221]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.03.29-13.19.15:987][479]BlueprintLog: New page: 编译FppShooter
+[2018.03.29-13.19.21:009][722]LogTemp: Repeating last play command: 选中的视口
+[2018.03.29-13.19.21:028][722]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.29-13.19.21:029][722]PIE: New page: PIE会话: FPSTest (2018年3月30日 上午5:19:21)
+[2018.03.29-13.19.21:029][722]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_FPSTest
+[2018.03.29-13.19.21:035][722]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005936s)
+[2018.03.29-13.19.21:035][722]LogAIModule: Creating AISystem for world FPSTest
+[2018.03.29-13.19.21:036][722]LogPlayLevel: PIE: World Init took: (0.000923s)
+[2018.03.29-13.19.21:036][722]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/FPSTest.FPSTest to /Game/StarterContent/Maps/UEDPIE_0_FPSTest.FPSTest (0.007049s)
+[2018.03.29-13.19.21:068][722]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.29-13.19.21:099][722]LogInit: FAudioDevice initialized.
+[2018.03.29-13.19.21:131][722]LogLoad: Game class is 'ShooterGame_C'
+[2018.03.29-13.19.21:135][722]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_FPSTest.FPSTest up for play (max tick rate 60) at 2018.03.29-21.19.21
+[2018.03.29-13.19.21:136][722]LogWorld: Bringing up level for play took: 0.003397
+[2018.03.29-13.19.21:138][722]PIE: /Game/StarterContent/Maps/UEDPIE_0_FPSTest的‘在编辑器中播放’的起始时间0.827
+[2018.03.29-13.19.24:753][899]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.03.29-13.19.24:851][905]LogTemp: Repeating last play command: 选中的视口
+[2018.03.29-13.19.24:898][905]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.29-13.19.24:898][905]PIE: New page: PIE会话: FPSTest (2018年3月30日 上午5:19:24)
+[2018.03.29-13.19.24:899][905]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_FPSTest
+[2018.03.29-13.19.24:904][905]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005398s)
+[2018.03.29-13.19.24:904][905]LogAIModule: Creating AISystem for world FPSTest
+[2018.03.29-13.19.24:905][905]LogPlayLevel: PIE: World Init took: (0.000692s)
+[2018.03.29-13.19.24:905][905]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/FPSTest.FPSTest to /Game/StarterContent/Maps/UEDPIE_0_FPSTest.FPSTest (0.006230s)
+[2018.03.29-13.19.24:937][905]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.29-13.19.24:966][905]LogInit: FAudioDevice initialized.
+[2018.03.29-13.19.24:997][905]LogLoad: Game class is 'ShooterGame_C'
+[2018.03.29-13.19.25:001][905]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_FPSTest.FPSTest up for play (max tick rate 60) at 2018.03.29-21.19.25
+[2018.03.29-13.19.25:002][905]LogWorld: Bringing up level for play took: 0.004079
+[2018.03.29-13.19.25:005][905]PIE: /Game/StarterContent/Maps/UEDPIE_0_FPSTest的‘在编辑器中播放’的起始时间0.694
+[2018.03.29-13.19.31:144][214]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.03.29-13.19.50:049][335]BlueprintLog: New page: 编译FppShooter
+[2018.03.29-13.19.55:412][630]BlueprintLog: New page: 编译FppShooter
+[2018.03.29-13.19.56:188][654]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Blueprints/FppShooter" FILE="F:/UnrealProject/FpsGame/Content/Assets/Blueprints/FppShooter.uasset" SILENT=true
+[2018.03.29-13.19.56:229][654]LogSavePackage: Save=32.69ms
+[2018.03.29-13.19.56:230][654]LogSavePackage: Moving 'F:/UnrealProject/FpsGame/Saved/FppShooter6A40673545FF376AA000E18208B41CC9.tmp' to 'F:/UnrealProject/FpsGame/Content/Assets/Blueprints/FppShooter.uasset'
+[2018.03.29-13.19.56:233][654]LogSavePackage: Display: Finished SavePackage F:/UnrealProject/FpsGame/Content/Assets/Blueprints/FppShooter.uasset
+[2018.03.29-13.19.58:656][742]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.03.29-13.19.58:736][747]LogTemp: Repeating last play command: 选中的视口
+[2018.03.29-13.19.58:754][747]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.29-13.19.58:755][747]PIE: New page: PIE会话: FPSTest (2018年3月30日 上午5:19:58)
+[2018.03.29-13.19.58:755][747]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_FPSTest
+[2018.03.29-13.19.58:761][747]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005395s)
+[2018.03.29-13.19.58:761][747]LogAIModule: Creating AISystem for world FPSTest
+[2018.03.29-13.19.58:761][747]LogPlayLevel: PIE: World Init took: (0.000554s)
+[2018.03.29-13.19.58:761][747]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/FPSTest.FPSTest to /Game/StarterContent/Maps/UEDPIE_0_FPSTest.FPSTest (0.006067s)
+[2018.03.29-13.19.58:794][747]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.29-13.19.58:823][747]LogInit: FAudioDevice initialized.
+[2018.03.29-13.19.58:859][747]LogLoad: Game class is 'ShooterGame_C'
+[2018.03.29-13.19.58:866][747]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_FPSTest.FPSTest up for play (max tick rate 60) at 2018.03.29-21.19.58
+[2018.03.29-13.19.58:867][747]LogWorld: Bringing up level for play took: 0.003913
+[2018.03.29-13.19.58:869][747]PIE: /Game/StarterContent/Maps/UEDPIE_0_FPSTest的‘在编辑器中播放’的起始时间0.559
+[2018.03.29-13.20.00:934][869]LogBlueprintUserMessages: [RobotShooter2] 90.0
+[2018.03.29-13.20.00:934][869]LogBlueprintUserMessages: [Launcher_C_0] 90.0
+[2018.03.29-13.20.01:234][887]LogBlueprintUserMessages: [RobotShooter2] 80.0
+[2018.03.29-13.20.01:234][887]LogBlueprintUserMessages: [Launcher_C_0] 80.0
+[2018.03.29-13.20.01:384][896]LogBlueprintUserMessages: [RobotShooter2] 70.0
+[2018.03.29-13.20.01:384][896]LogBlueprintUserMessages: [Launcher_C_0] 70.0
+[2018.03.29-13.20.01:534][905]LogBlueprintUserMessages: [RobotShooter2] 60.0
+[2018.03.29-13.20.01:534][905]LogBlueprintUserMessages: [Launcher_C_0] 60.0
+[2018.03.29-13.20.58:813][315]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.03.29-13.21.00:567][397]LogTemp: Repeating last play command: 选中的视口
+[2018.03.29-13.21.00:586][397]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.29-13.21.00:586][397]PIE: New page: PIE会话: FPSTest (2018年3月30日 上午5:21:00)
+[2018.03.29-13.21.00:586][397]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_FPSTest
+[2018.03.29-13.21.00:591][397]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005215s)
+[2018.03.29-13.21.00:592][397]LogAIModule: Creating AISystem for world FPSTest
+[2018.03.29-13.21.00:592][397]LogPlayLevel: PIE: World Init took: (0.000643s)
+[2018.03.29-13.21.00:592][397]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/FPSTest.FPSTest to /Game/StarterContent/Maps/UEDPIE_0_FPSTest.FPSTest (0.005994s)
+[2018.03.29-13.21.00:623][397]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.29-13.21.00:653][397]LogInit: FAudioDevice initialized.
+[2018.03.29-13.21.00:685][397]LogLoad: Game class is 'ShooterGame_C'
+[2018.03.29-13.21.00:688][397]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_FPSTest.FPSTest up for play (max tick rate 60) at 2018.03.29-21.21.00
+[2018.03.29-13.21.00:689][397]LogWorld: Bringing up level for play took: 0.003556
+[2018.03.29-13.21.00:692][397]PIE: /Game/StarterContent/Maps/UEDPIE_0_FPSTest的‘在编辑器中播放’的起始时间0.381
+[2018.03.29-13.21.35:670][453]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.03.29-13.21.35:681][453]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.03.29-13.21.43:797][932]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.03.29-13.22.27:805][568]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.03.29-13.22.27:838][568]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/FPSTest' took 0.023
+[2018.03.29-13.22.27:841][568]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Blueprints/Rifle] ([1] browsable assets)...
+[2018.03.29-13.22.27:853][568]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Assets/Blueprints/Rifle.Rifle]
+[2018.03.29-13.22.27:853][568]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Blueprints/Rifle]
+[2018.03.29-13.22.27:853][568]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Blueprints/Rifle" FILE="F:/UnrealProject/FpsGame/Saved/Autosaves/Game/Assets/Blueprints/Rifle_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2018.03.29-13.22.27:871][568]LogSavePackage: Save=15.82ms
+[2018.03.29-13.22.27:871][568]LogSavePackage: Moving 'F:/UnrealProject/FpsGame/Saved/Rifle_Auto258C0D16B4A0DC96CD5BE8885FED81F17.tmp' to 'F:/UnrealProject/FpsGame/Saved/Autosaves/Game/Assets/Blueprints/Rifle_Auto2.uasset'
+[2018.03.29-13.22.27:873][568]LogSavePackage: Display: Finished SavePackage F:/UnrealProject/FpsGame/Saved/Autosaves/Game/Assets/Blueprints/Rifle_Auto2.uasset
+[2018.03.29-13.22.27:873][568]LogFileHelpers: Auto-saving content packages took 0.034
+[2018.03.29-13.24.09:700][666]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.03.29-13.24.15:576][ 14]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.03.29-13.24.15:659][ 19]BlueprintLog: New page: 编译Launcher
+[2018.03.29-13.24.16:300][ 36]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Blueprints/Launcher" FILE="F:/UnrealProject/FpsGame/Content/Assets/Blueprints/Launcher.uasset" SILENT=true
+[2018.03.29-13.24.16:327][ 36]LogSavePackage: Save=16.73ms
+[2018.03.29-13.24.16:327][ 36]LogSavePackage: Moving 'F:/UnrealProject/FpsGame/Saved/LauncherA19FD3AD4758207F0F29FA8A3F9ED603.tmp' to 'F:/UnrealProject/FpsGame/Content/Assets/Blueprints/Launcher.uasset'
+[2018.03.29-13.24.16:330][ 36]LogSavePackage: Display: Finished SavePackage F:/UnrealProject/FpsGame/Content/Assets/Blueprints/Launcher.uasset
+[2018.03.29-13.24.16:721][ 59]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.03.29-13.24.22:100][365]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.03.29-13.24.22:109][365]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.03.29-13.24.25:852][586]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.03.29-13.24.31:479][922]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.03.29-13.24.33:413][ 37]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.03.29-13.24.34:387][ 87]BlueprintLog: New page: 编译Launcher
+[2018.03.29-13.24.35:049][106]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Blueprints/Launcher" FILE="F:/UnrealProject/FpsGame/Content/Assets/Blueprints/Launcher.uasset" SILENT=true
+[2018.03.29-13.24.35:075][106]LogSavePackage: Save=16.97ms
+[2018.03.29-13.24.35:075][106]LogSavePackage: Moving 'F:/UnrealProject/FpsGame/Saved/Launcher012C99814AC92BBA95D00AB283D168A2.tmp' to 'F:/UnrealProject/FpsGame/Content/Assets/Blueprints/Launcher.uasset'
+[2018.03.29-13.24.35:078][106]LogSavePackage: Display: Finished SavePackage F:/UnrealProject/FpsGame/Content/Assets/Blueprints/Launcher.uasset
+[2018.03.29-13.24.35:953][158]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.03.29-13.24.39:676][334]LogTemp: Repeating last play command: 选中的视口
+[2018.03.29-13.24.39:694][334]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.29-13.24.39:695][334]PIE: New page: PIE会话: FPSTest (2018年3月30日 上午5:24:39)
+[2018.03.29-13.24.39:695][334]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_FPSTest
+[2018.03.29-13.24.39:700][334]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005734s)
+[2018.03.29-13.24.39:701][334]LogAIModule: Creating AISystem for world FPSTest
+[2018.03.29-13.24.39:701][334]LogPlayLevel: PIE: World Init took: (0.000711s)
+[2018.03.29-13.24.39:701][334]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/FPSTest.FPSTest to /Game/StarterContent/Maps/UEDPIE_0_FPSTest.FPSTest (0.006606s)
+[2018.03.29-13.24.39:734][334]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.29-13.24.39:765][334]LogInit: FAudioDevice initialized.
+[2018.03.29-13.24.39:799][334]LogLoad: Game class is 'ShooterGame_C'
+[2018.03.29-13.24.39:803][334]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_FPSTest.FPSTest up for play (max tick rate 60) at 2018.03.29-21.24.39
+[2018.03.29-13.24.39:804][334]LogWorld: Bringing up level for play took: 0.003933
+[2018.03.29-13.24.39:806][334]PIE: /Game/StarterContent/Maps/UEDPIE_0_FPSTest的‘在编辑器中播放’的起始时间-0.504
+[2018.03.29-13.24.49:087][790]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.03.29-13.24.49:185][796]LogTemp: Repeating last play command: 选中的视口
+[2018.03.29-13.24.49:204][796]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.29-13.24.49:204][796]PIE: New page: PIE会话: FPSTest (2018年3月30日 上午5:24:49)
+[2018.03.29-13.24.49:204][796]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_FPSTest
+[2018.03.29-13.24.49:210][796]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005837s)
+[2018.03.29-13.24.49:211][796]LogAIModule: Creating AISystem for world FPSTest
+[2018.03.29-13.24.49:211][796]LogPlayLevel: PIE: World Init took: (0.000575s)
+[2018.03.29-13.24.49:211][796]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/FPSTest.FPSTest to /Game/StarterContent/Maps/UEDPIE_0_FPSTest.FPSTest (0.006563s)
+[2018.03.29-13.24.49:242][796]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.03.29-13.24.49:298][796]LogInit: FAudioDevice initialized.
+[2018.03.29-13.24.49:333][796]LogLoad: Game class is 'ShooterGame_C'
+[2018.03.29-13.24.49:336][796]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_FPSTest.FPSTest up for play (max tick rate 60) at 2018.03.29-21.24.49
+[2018.03.29-13.24.49:337][796]LogWorld: Bringing up level for play took: 0.003445
+[2018.03.29-13.24.49:339][796]PIE: /Game/StarterContent/Maps/UEDPIE_0_FPSTest的‘在编辑器中播放’的起始时间1.029
+[2018.03.29-13.25.10:532][980]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.657 s
+[2018.03.29-13.25.10:532][980]LogOutputDevice: Error: === Handled ensure: ===
+[2018.03.29-13.25.10:532][980]LogOutputDevice: Error: 
+[2018.03.29-13.25.10:532][980]LogOutputDevice: Error: Ensure condition failed: ListenerTransformCopy.IsValid() [File:D:\Build\++UE4+Release-4.19+Compile\Sync\Engine\Source\Runtime\Engine\Private\AudioDevice.cpp] [Line: 2315]
+[2018.03.29-13.25.10:532][980]LogOutputDevice: Error: Invalid listener transform provided to AudioDevice
+[2018.03.29-13.25.10:532][980]LogOutputDevice: Error: Stack: 
+[2018.03.29-13.25.10:532][980]LogOutputDevice: Error: [Callstack] 0x00000000430CBA76 UE4Editor-Core.dll!UnknownFunction []
+[2018.03.29-13.25.10:532][980]LogOutputDevice: Error: [Callstack] 0x0000000042E2AE3A UE4Editor-Core.dll!UnknownFunction []
+[2018.03.29-13.25.10:532][980]LogOutputDevice: Error: [Callstack] 0x0000000042E3ECD6 UE4Editor-Core.dll!UnknownFunction []
+[2018.03.29-13.25.10:532][980]LogOutputDevice: Error: [Callstack] 0x0000000037D1FFC6 UE4Editor-Engine.dll!UnknownFunction []
+[2018.03.29-13.25.10:532][980]LogOutputDevice: Error: [Callstack] 0x000000002EFD93C6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.03.29-13.25.10:532][980]LogOutputDevice: Error: [Callstack] 0x000000002EFD3F95 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.03.29-13.25.10:532][980]LogOutputDevice: Error: [Callstack] 0x000000002EBDDEC2 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.03.29-13.25.10:532][980]LogOutputDevice: Error: [Callstack] 0x0000000038B298BB UE4Editor-Engine.dll!UnknownFunction []
+[2018.03.29-13.25.10:532][980]LogOutputDevice: Error: [Callstack] 0x000000002EB306D8 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.03.29-13.25.10:532][980]LogOutputDevice: Error: [Callstack] 0x000000002EB2DCEB UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.03.29-13.25.10:532][980]LogOutputDevice: Error: [Callstack] 0x000000002F3C9526 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.03.29-13.25.10:533][980]LogOutputDevice: Error: [Callstack] 0x0000000097205EAC UE4Editor.exe!UnknownFunction []
+[2018.03.29-13.25.10:533][980]LogOutputDevice: Error: [Callstack] 0x0000000097216BD0 UE4Editor.exe!UnknownFunction []
+[2018.03.29-13.25.10:533][980]LogOutputDevice: Error: [Callstack] 0x0000000097216C4A UE4Editor.exe!UnknownFunction []
+[2018.03.29-13.25.10:533][980]LogOutputDevice: Error: [Callstack] 0x0000000097224149 UE4Editor.exe!UnknownFunction []
+[2018.03.29-13.25.10:533][980]LogOutputDevice: Error: [Callstack] 0x0000000097225B57 UE4Editor.exe!UnknownFunction []
+[2018.03.29-13.25.10:533][980]LogOutputDevice: Error: [Callstack] 0x000000007E101FE4 KERNEL32.DLL!UnknownFunction []
+[2018.03.29-13.25.10:533][980]LogOutputDevice: Error: [Callstack] 0x000000007F16EFC1 ntdll.dll!UnknownFunction []
+[2018.03.29-13.25.10:533][980]LogOutputDevice: Error: 
+[2018.03.29-13.25.10:542][980]LogStats:                SubmitErrorReport -  0.000 s
+[2018.03.29-13.25.11:176][980]LogStats:                    SendNewReport -  0.634 s
+[2018.03.29-13.25.11:176][980]LogStats:             FDebug::EnsureFailed -  1.301 s
+[2018.03.29-13.25.11:180][980]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.003 s
+[2018.03.29-13.25.11:180][980]LogOutputDevice: Error: === Handled ensure: ===
+[2018.03.29-13.25.11:180][980]LogOutputDevice: Error: 
+[2018.03.29-13.25.11:180][980]LogOutputDevice: Error: Ensure condition failed: Y != 0 [File:D:\Build\++UE4+Release-4.19+Compile\Sync\Engine\Source\Runtime\Core\Private\GenericPlatform\GenericPlatformMath.cpp] [Line: 81]
+[2018.03.29-13.25.11:180][980]LogOutputDevice: Error: FMath::FMod(X=831.038635, Y=-nan) : Y is zero, this is invalid and would result in NaN!
+[2018.03.29-13.25.11:180][980]LogOutputDevice: Error: Stack: 
+[2018.03.29-13.25.11:180][980]LogOutputDevice: Error: [Callstack] 0x00000000430CBA76 UE4Editor-Core.dll!UnknownFunction []
+[2018.03.29-13.25.11:180][980]LogOutputDevice: Error: [Callstack] 0x0000000042E2AE3A UE4Editor-Core.dll!UnknownFunction []
+[2018.03.29-13.25.11:180][980]LogOutputDevice: Error: [Callstack] 0x0000000042E3ECD6 UE4Editor-Core.dll!UnknownFunction []
+[2018.03.29-13.25.11:180][980]LogOutputDevice: Error: [Callstack] 0x0000000042CE8565 UE4Editor-Core.dll!UnknownFunction []
+[2018.03.29-13.25.11:180][980]LogOutputDevice: Error: [Callstack] 0x000000002C1BEBD8 UE4Editor-Renderer.dll!UnknownFunction []
+[2018.03.29-13.25.11:180][980]LogOutputDevice: Error: [Callstack] 0x000000002C101274 UE4Editor-Renderer.dll!UnknownFunction []
+[2018.03.29-13.25.11:180][980]LogOutputDevice: Error: [Callstack] 0x000000002C16A02C UE4Editor-Renderer.dll!UnknownFunction []
+[2018.03.29-13.25.11:180][980]LogOutputDevice: Error: [Callstack] 0x000000002C184A47 UE4Editor-Renderer.dll!UnknownFunction []
+[2018.03.29-13.25.11:181][980]LogOutputDevice: Error: [Callstack] 0x000000002C13C12B UE4Editor-Renderer.dll!UnknownFunction []
+[2018.03.29-13.25.11:181][980]LogOutputDevice: Error: [Callstack] 0x000000002C13EB79 UE4Editor-Renderer.dll!UnknownFunction []
+[2018.03.29-13.25.11:181][980]LogOutputDevice: Error: [Callstack] 0x000000002C1608F7 UE4Editor-Renderer.dll!UnknownFunction []
+[2018.03.29-13.25.11:181][980]LogOutputDevice: Error: [Callstack] 0x000000002C0E355B UE4Editor-Renderer.dll!UnknownFunction []
+[2018.03.29-13.25.11:181][980]LogOutputDevice: Error: [Callstack] 0x000000002C0E28AF UE4Editor-Renderer.dll!UnknownFunction []
+[2018.03.29-13.25.11:181][980]LogOutputDevice: Error: [Callstack] 0x000000002BB3725A UE4Editor-Renderer.dll!UnknownFunction []
+[2018.03.29-13.25.11:181][980]LogOutputDevice: Error: [Callstack] 0x000000002C0F5E91 UE4Editor-Renderer.dll!UnknownFunction []
+[2018.03.29-13.25.11:181][980]LogOutputDevice: Error: [Callstack] 0x000000002C0D9D74 UE4Editor-Renderer.dll!UnknownFunction []
+[2018.03.29-13.25.11:181][980]LogOutputDevice: Error: [Callstack] 0x0000000042CFB723 UE4Editor-Core.dll!UnknownFunction []
+[2018.03.29-13.25.11:181][980]LogOutputDevice: Error: [Callstack] 0x0000000042CFBD4A UE4Editor-Core.dll!UnknownFunction []
+[2018.03.29-13.25.11:181][980]LogOutputDevice: Error: [Callstack] 0x000000005FC93CC9 UE4Editor-RenderCore.dll!UnknownFunction []
+[2018.03.29-13.25.11:181][980]LogOutputDevice: Error: [Callstack] 0x000000005FC94CF6 UE4Editor-RenderCore.dll!UnknownFunction []
+[2018.03.29-13.25.11:181][980]LogOutputDevice: Error: [Callstack] 0x00000000430CA36C UE4Editor-Core.dll!UnknownFunction []
+[2018.03.29-13.25.11:181][980]LogOutputDevice: Error: [Callstack] 0x00000000430BF0D3 UE4Editor-Core.dll!UnknownFunction []
+[2018.03.29-13.25.11:181][980]LogOutputDevice: Error: [Callstack] 0x000000007E101FE4 KERNEL32.DLL!UnknownFunction []
+[2018.03.29-13.25.11:181][980]LogOutputDevice: Error: [Callstack] 0x000000007F16EFC1 ntdll.dll!UnknownFunction []
+[2018.03.29-13.25.11:181][980]LogOutputDevice: Error: 
+[2018.03.29-13.25.11:181][980]LogStats:                SubmitErrorReport -  0.000 s
